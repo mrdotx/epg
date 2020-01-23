@@ -1,3 +1,3 @@
 # iptv
 
-configuration files for webgrab++ with vodafone/fritzbox
+config files for webgrab++ with vodafone/fritzbox
