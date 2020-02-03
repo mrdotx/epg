@@ -1,9 +1,9 @@
 #!/bin/sh
 
 # path:       ~/projects/iptv/copy.sh
-# user:       klassiker [mrdotx]
+# author:     klassiker [mrdotx]
 # github:     https://github.com/mrdotx/iptv
-# date:       2020-01-22T12:13:13+0100
+# date:       2020-02-03T13:18:21+0100
 
 # color variables
 #black=$(tput setaf 0)
