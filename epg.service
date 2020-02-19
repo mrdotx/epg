@@ -1,0 +1,10 @@
+[Unit]
+Description=download epg data in user contaxt alarm
+
+[Service]
+User=alarm
+Type=oneshot
+ExecStart=/home/alarm/bin/epg.sh
+
+[Install]
+WantedBy=multi-user.target

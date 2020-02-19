@@ -1,0 +1,10 @@
+[Unit]
+Description=daily run epg.service
+
+[Timer]
+OnCalendar=0:15:00
+AccuracySec=5m
+Unit=epg.service
+
+[Install]
+WantedBy=timers.target
