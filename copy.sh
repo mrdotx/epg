@@ -1,11 +1,11 @@
 #!/bin/sh
 
-# path:       ~/projects/iptv/copy.sh
+# path:       ~/repos/iptv/copy.sh
 # author:     klassiker [mrdotx]
 # github:     https://github.com/mrdotx/iptv
-# date:       2020-02-27T10:43:45+0100
+# date:       2020-02-28T08:10:51+0100
 
-iptv=$HOME/projects/iptv
+iptv=$HOME/repos/iptv
 
 # copy to webserver
 printf ":: copy to hermes...\n"
