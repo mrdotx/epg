@@ -1,9 +1,9 @@
 #!/bin/sh
 
-# path:       ~/.local/share/repos/iptv/epg.sh
+# path:       /home/klassiker/.local/share/repos/iptv/epg.sh
 # author:     klassiker [mrdotx]
 # github:     https://github.com/mrdotx/iptv
-# date:       2020-03-25T23:05:28+0100
+# date:       2020-04-29T11:09:25+0200
 
 source_file="/home/alarm/wg++/guide.xml"
 destination_file="/srv/http/iptv/epg.xml"
