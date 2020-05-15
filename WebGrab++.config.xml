@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0"?>
 <settings>
-   
+
   <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
-   
+
   <filename>guide.xml</filename>
   <mode>nomark</mode>
   <postprocess grab="y" run="n">mdb</postprocess>
@@ -19,7 +19,7 @@
     <channel update="f" site="horizon.tv" site_id="DE/deu_867025447139__https://wp13-images-de-dynamic.horizon.tv/ChannelLogos/02/br-alpha.png" xmltv_id="ARD alpha HD">ARD alpha HD</channel>
     <channel update="f" site="horizon.tv" site_id="DE/deu_342571559048__https://wp3-images-de-dynamic.horizon.tv/ChannelLogos/02/arte_hd.png" xmltv_id="arte HD">arte HD</channel>
     <channel update="f" site="horizon.tv" site_id="DE/deu_29438503022__https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/astro_tv.png" xmltv_id="Astro TV">Astro TV</channel>
-    <channel update="f" site="horizon.tv" site_id="DE/deu_616178215136__https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/bbc_world_news_hd.png" xmltv_id="BBC World News (eng)">BBC World News (eng)</channel>
+    <channel update="f" site="horizon.tv" site_id="DE/deu_902208039443__https://wp20-images-de-dynamic.horizon.tv/ChannelLogos/02/bbc_world_news_2.png" xmltv_id="BBC World News (eng)">BBC World News (eng)</channel>
     <channel update="f" site="horizon.tv" site_id="DE/deu_726361639174__https://wp17-images-de-dynamic.horizon.tv/ChannelLogos/02/bibel_tv_hd.png" xmltv_id="Bibel TV">Bibel TV</channel>
     <channel update="f" site="horizon.tv" site_id="DE/deu_810575399209__https://wp10-images-de-dynamic.horizon.tv/ChannelLogos/02/brf_hd_1.png" xmltv_id="BR Fernsehen Süd HD">BR Fernsehen Süd HD</channel>
     <channel update="f" site="horizon.tv" site_id="DE/deu_29436455437__https://wp13-images-de-dynamic.horizon.tv/ChannelLogos/02/channel21.png" xmltv_id="Channel21">Channel21</channel>
@@ -32,8 +32,8 @@
     <channel update="f" site="horizon.tv" site_id="DE/deu_29438503089__https://wp18-images-de-dynamic.horizon.tv/ChannelLogos/02/dmax.png" xmltv_id="DMAX">DMAX</channel>
     <channel update="f" site="horizon.tv" site_id="DE/deu_29438503029__https://wp8-images-de-dynamic.horizon.tv/ChannelLogos/02/euronews_(d).png" xmltv_id="euronews">euronews</channel>
     <channel update="f" site="horizon.tv" site_id="DE/deu_29609511127__https://wp14-images-de-dynamic.horizon.tv/ChannelLogos/02/eurosport_1.png" xmltv_id="Eurosport 1">Eurosport 1</channel>
-    <channel update="f" site="horizon.tv" site_id="DE/deu_29438502988__https://wp21-images-de-dynamic.horizon.tv/ChannelLogos/02/france_3_1.png" xmltv_id="France 3 (fre)">France 3 (fre)</channel>
-    <channel update="f" site="horizon.tv" site_id="DE/deu_29438503070__https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/france_5_1.png" xmltv_id="France 5 (fre)">France 5 (fre)</channel>
+    <channel update="f" site="horizon.tv" site_id="DE/deu_917045799327__https://wp17-images-de-dynamic.horizon.tv/ChannelLogos/02/france_3_1.png" xmltv_id="France 3 (fre)">France 3 (fre)</channel>
+    <channel update="f" site="horizon.tv" site_id="DE/deu_917046311210__https://wp19-images-de-dynamic.horizon.tv/ChannelLogos/02/france_5_1.png" xmltv_id="France 5 (fre)">France 5 (fre)</channel>
     <channel update="f" site="horizon.tv" site_id="DE/deu_706506791340__https://wp12-images-de-dynamic.horizon.tv/ChannelLogos/02/handystar.png" xmltv_id="Handystar">Handystar</channel>
     <channel update="f" site="horizon.tv" site_id="DE/deu_810575911132__https://wp9-images-de-dynamic.horizon.tv/ChannelLogos/02/health_tv.png" xmltv_id="health tv">health tv</channel>
     <channel update="f" site="horizon.tv" site_id="DE/deu_886939687163__https://wp9-images-ie-dynamic.horizon.tv/ChannelLogos/02/hgtv.png" xmltv_id="HOME AND GARDEN TV">HOME AND GARDEN TV</channel>
