@@ -1,3 +1,8 @@
+# path:       /home/klassiker/.local/share/repos/iptv/epg.service
+# author:     klassiker [mrdotx]
+# github:     https://github.com/mrdotx/iptv
+# date:       2020-05-23T00:21:56+0200
+
 [Unit]
 Description=download epg data in user contaxt alarm
 

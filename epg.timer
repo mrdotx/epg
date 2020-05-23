@@ -1,3 +1,8 @@
+# path:       /home/klassiker/.local/share/repos/iptv/epg.timer
+# author:     klassiker [mrdotx]
+# github:     https://github.com/mrdotx/iptv
+# date:       2020-05-23T00:22:06+0200
+
 [Unit]
 Description=daily run epg.service
 
