@@ -1,11 +1,11 @@
 #!/bin/sh
 
-# path:       /home/klassiker/.local/share/repos/iptv/copy.sh
+# path:       /home/klassiker/.local/share/repos/epg/copy.sh
 # author:     klassiker [mrdotx]
-# github:     https://github.com/mrdotx/iptv
-# date:       2020-04-29T11:09:20+0200
+# github:     https://github.com/mrdotx/epg
+# date:       2020-06-02T10:53:43+0200
 
-iptv=$HOME/.local/share/repos/iptv
+epg=$HOME/.local/share/repos/epg
 
 # copy to webserver
 printf ":: copy to hermes...\n"
@@ -15,7 +15,7 @@ rsync --info=progress2 -ac \
     --exclude="README.md" \
     --exclude="epg.service" \
     --exclude="epg.timer" \
-    "$iptv/" alarm@hermes:/srv/http/iptv/
+    "$epg/" alarm@hermes:/srv/http/epg/
 
 printf ":: copy to prometheus...\n"
 rsync --info=progress2 -ac \
@@ -24,8 +24,8 @@ rsync --info=progress2 -ac \
     --exclude="README.md" \
     --exclude="epg.service" \
     --exclude="epg.timer" \
-    "$iptv/" alarm@prometheus:/srv/http/iptv/
+    "$epg/" alarm@prometheus:/srv/http/epg/
 
 printf ":: copy completed!\n"
 
-notify-send "IpTV" "Copy complete!" --icon=messagebox_info
+notify-send "epg" "copy finished" --icon=messagebox_info
