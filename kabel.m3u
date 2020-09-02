@@ -4,27 +4,27 @@ rtsp://192.168.11.254:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&sp
 #EXTINF:-1 tvg-id="ZDF HD" tvg-name="ZDF HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/zdf_hd.png" group-title="Haupt;Öffentlich",ZDF HD
 rtsp://192.168.11.254:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,6100,6110,6120,6121,6123,6130,6131,6170
 #EXTINF:-1 tvg-id="NDR FS SH HD" tvg-name="NDR FS SH HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/ndr_hd.png" group-title="Haupt;Öffentlich",NDR FS SH HD
-rtsp://192.168.11.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,5250,5251,35,36,1770,5252,5253,5254,5255
+rtsp://192.168.11.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,5250,5251,33,1770,2676,5252,5253,5254,5255
 #EXTINF:-1 tvg-id="rbb Berlin HD" tvg-name="rbb Berlin HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/rbb_hd.png" group-title="Öffentlich",rbb Berlin HD
 rtsp://192.168.11.254:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,5310,5311,677,2171,2176,5312,5313,5314,5315
 #EXTINF:-1 tvg-id="MDR Sachsen HD" tvg-name="MDR Sachsen HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/mdr_hd.png" group-title="Öffentlich",MDR Sachsen HD
-rtsp://192.168.11.254:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,5320,5321,2171,2870,5322,5323,5324,5325
+rtsp://192.168.11.254:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,5320,5321,2171,2870,2876,5322,5323,5324,5325
 #EXTINF:-1 tvg-id="BR Fernsehen Süd HD" tvg-name="BR Fernsehen Süd HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/br_fernsehen_sued_hd.png" group-title="Öffentlich",BR Fernsehen Süd HD
 rtsp://192.168.11.254:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,5200,5201,1076,1570,2171,5202,5203,5204,5205
 #EXTINF:-1 tvg-id="WDR Köln HD" tvg-name="WDR Köln HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/wdr_hd_koeln.png" group-title="Öffentlich",WDR Köln HD
-rtsp://192.168.11.254:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,5500,5501,2171,2370,5502,5503,5504,5505
+rtsp://192.168.11.254:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,5500,5501,2171,2370,2376,5502,5503,5504,5505
 #EXTINF:-1 tvg-id="SWR RP HD" tvg-name="SWR RP HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/swr_rp_hd.png" group-title="Öffentlich",SWR RP HD
-rtsp://192.168.11.254:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,5130,5131,1370,2171,5132,5133,5134,5135
+rtsp://192.168.11.254:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,5130,5131,1370,2171,2476,5132,5133,5134,5135
 #EXTINF:-1 tvg-id="SR Fernsehen HD" tvg-name="SR Fernsehen HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/sr_fernsehen_hd.png" group-title="Öffentlich",SR Fernsehen HD
-rtsp://192.168.11.254:554/?avm=1&freq=586&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,104,1271,1270,1272,1273,1274,1276,2171
+rtsp://192.168.11.254:554/?avm=1&freq=586&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,104,1271,1270,1272,1273,1274,1276,1278,2171
 #EXTINF:-1 tvg-id="hr-fernsehen HD" tvg-name="hr-fernsehen HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/hr_hd.png" group-title="Öffentlich",hr-fernsehen HD
-rtsp://192.168.11.254:554/?avm=1&freq=418&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,106,6551,2171,6550,6552,6553,6554,6556
+rtsp://192.168.11.254:554/?avm=1&freq=418&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,106,6551,2171,6550,6552,6553,6554,6556,6558
 #EXTINF:-1 tvg-id="3sat HD" tvg-name="3sat HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/3sat_hd.png" group-title="Öffentlich",3sat HD
 rtsp://192.168.11.254:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,110,6691,6690,6692,6693,6694,6696,6697
 #EXTINF:-1 tvg-id="Hamburg 1" tvg-name="Hamburg 1" tvg-logo="https://tv.avm.de/tvapp/logos/hamburg_1.png" group-title="Öffentlich",Hamburg 1
 rtsp://192.168.11.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,152,7131,7132,7134,7139
 #EXTINF:-1 tvg-id="SYLT1" tvg-name="SYLT1" tvg-logo="https://tv.avm.de/tvapp/logos/sylt1.png" group-title="Öffentlich",SYLT1
-rtsp://192.168.11.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,153,7101,109,7102
+rtsp://192.168.11.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,153,7101,109,7102,7104
 
 
 
@@ -48,6 +48,8 @@ rtsp://192.168.11.254:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&sp
 rtsp://192.168.11.254:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,109,2301,2302,2304,2306
 #EXTINF:-1 tvg-id="VOX" tvg-name="VOX" tvg-logo="https://tv.avm.de/tvapp/logos/vox.png" group-title="Haupt;Unterhaltung",VOX
 rtsp://192.168.11.254:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,113,1701,1700,1702,1704,1706,1707,1708
+#EXTINF:-1 tvg-id="VOXup" tvg-name="VOXup" tvg-logo="https://tv.avm.de/tvapp/logos/voxup.png" group-title="Haupt;Unterhaltung",VOXup
+rtsp://192.168.11.254:554/?avm=1&freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,112,811,812,814,1305,1306,1307
 #EXTINF:-1 tvg-id="TELE 5" tvg-name="TELE 5" tvg-logo="https://tv.avm.de/tvapp/logos/tele5.png" group-title="Haupt;Unterhaltung",TELE 5
 rtsp://192.168.11.254:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,115,411,412,414
 #EXTINF:-1 tvg-id="sixx" tvg-name="sixx" tvg-logo="https://tv.avm.de/tvapp/logos/sixx.png" group-title="Haupt;Unterhaltung",sixx
@@ -60,16 +62,14 @@ rtsp://192.168.11.254:554/?avm=1&freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&sp
 #EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://tv.avm.de/tvapp/logos/dmax.png" group-title="Haupt;Sparte",DMAX
 rtsp://192.168.11.254:554/?avm=1&freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,115,2291,2292,2294,2296
 #EXTINF:-1 tvg-id="ONE HD" tvg-name="ONE HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/one_hd.png" group-title="Haupt;Sparte",ONE HD
-rtsp://192.168.11.254:554/?avm=1&freq=570&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,103,1721,1720,1722,1723,1724,1726,2171
+rtsp://192.168.11.254:554/?avm=1&freq=570&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,103,1721,1720,1722,1723,1724,1726,1728,2171
 #EXTINF:-1 tvg-id="zdf_neo HD" tvg-name="zdf_neo HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/zdf_neo_hd.png" group-title="Haupt;Sparte",zdf_neo HD
 rtsp://192.168.11.254:554/?avm=1&freq=474&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,104,541,540,542,543,544,546,547
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://tv.avm.de/tvapp/logos/tlc.png" group-title="Haupt;Sparte",TLC
-rtsp://192.168.11.254:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,104,881,882,883,884,886
-#EXTINF:-1 tvg-id="eoTV" tvg-name="eoTV" tvg-logo="https://tv.avm.de/tvapp/logos/eotv.png" group-title="Sparte",eoTV
-rtsp://192.168.11.254:554/?avm=1&freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,112,811,812,816
+rtsp://192.168.11.254:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,104,881,882,884,886
 #EXTINF:-1 tvg-id="Welt der Wunder TV" tvg-name="Welt der Wunder TV" tvg-logo="https://tv.avm.de/tvapp/logos/welt_der_wunder_tv.png" group-title="Sparte",Welt der Wunder TV
 rtsp://192.168.11.254:554/?avm=1&freq=610&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,102,1421,1422
-#EXTINF:-1 tvg-id="ANIXE+" tvg-name="ANIXE+" tvg-logo="https://tv.avm.de/tvapp/logos/anixe+.png" group-title="Sparte",ANIXE+
+#EXTINF:-1 tvg-id="ANIXE+" tvg-name="ANIXE+" tvg-logo="https://tv.avm.de/tvapp/logos/anixe_sd.png" group-title="Sparte",ANIXE+
 rtsp://192.168.11.254:554/?avm=1&freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,109,1001,1002,1006
 #EXTINF:-1 tvg-id="Bibel TV" tvg-name="Bibel TV" tvg-logo="https://tv.avm.de/tvapp/logos/bibel_tv.png" group-title="Sparte",Bibel TV
 rtsp://192.168.11.254:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,106,731,732,734,736
@@ -96,7 +96,7 @@ rtsp://192.168.11.254:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&sp
 
 
 #EXTINF:-1 tvg-id="tagesschau24 HD" tvg-name="tagesschau24 HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/tagesschau24_hd.png" group-title="News|Dokus|Kultur",tagesschau24 HD
-rtsp://192.168.11.254:554/?avm=1&freq=586&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,102,1221,1222,1223,1224,1226,2171
+rtsp://192.168.11.254:554/?avm=1&freq=586&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,102,1221,1222,1223,1224,1226,1228,2171
 #EXTINF:-1 tvg-id="n-tv" tvg-name="n-tv" tvg-logo="https://tv.avm.de/tvapp/logos/ntv.png" group-title="News|Dokus|Kultur",n-tv
 rtsp://192.168.11.254:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,114,1901,1902,1903,1904,1906,1907,1908
 #EXTINF:-1 tvg-id="euronews" tvg-name="euronews" tvg-logo="https://tv.avm.de/tvapp/logos/euronews.png" group-title="News|Dokus|Kultur",euronews
@@ -110,15 +110,13 @@ rtsp://192.168.11.254:554/?avm=1&freq=610&bw=8&msys=dvbc&mtype=64qam&sr=6900&spe
 #EXTINF:-1 tvg-id="ServusTV" tvg-name="ServusTV" tvg-logo="https://tv.avm.de/tvapp/logos/servustv.png" group-title="News|Dokus|Kultur",ServusTV
 rtsp://192.168.11.254:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,107,2371,2372,2374
 #EXTINF:-1 tvg-id="PHOENIX HD" tvg-name="PHOENIX HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/phoenix_hd.png" group-title="News|Dokus|Kultur",PHOENIX HD
-rtsp://192.168.11.254:554/?avm=1&freq=474&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,106,581,582,583,584,586,2171
+rtsp://192.168.11.254:554/?avm=1&freq=474&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,106,581,576,582,583,584,586,2171
 #EXTINF:-1 tvg-id="arte HD" tvg-name="arte HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/arte_hd.png" group-title="News|Dokus|Kultur",arte HD
-rtsp://192.168.11.254:554/?avm=1&freq=418&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,105,6661,6662,6663,6664,6665,6666,6667,6669
+rtsp://192.168.11.254:554/?avm=1&freq=418&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,105,6661,6662,6663,6664,6665,6666,6667,6668,6669
 #EXTINF:-1 tvg-id="ARD alpha HD" tvg-name="ARD alpha HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/ard_alpha_hd.png" group-title="News|Dokus|Kultur",ARD alpha HD
-rtsp://192.168.11.254:554/?avm=1&freq=586&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,101,1211,1210,1212,1213,1214,1216,2171
+rtsp://192.168.11.254:554/?avm=1&freq=586&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,101,1211,1210,1212,1213,1214,1216,1218,2171
 #EXTINF:-1 tvg-id="ZDFinfo HD" tvg-name="ZDFinfo HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/zdfinfo_hd.png" group-title="News|Dokus|Kultur",ZDFinfo HD
 rtsp://192.168.11.254:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,6700,6710,6720,6721,6723,6730,6731,6770
-#EXTINF:-1 tvg-id="Zee.One" tvg-name="Zee.One" tvg-logo="https://tv.avm.de/tvapp/logos/zee.one.png" group-title="News|Dokus|Kultur",Zee.One
-rtsp://192.168.11.254:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,103,6421,6422,6426
 #EXTINF:-1 tvg-id="SONLife (eng)" tvg-name="SONLife (eng)" tvg-logo="https://tv.avm.de/tvapp/logos/sonlife.png" group-title="News|Dokus|Kultur",SONLife (eng)
 rtsp://192.168.11.254:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,108,6471,6472
 
@@ -141,8 +139,6 @@ rtsp://192.168.11.254:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&sp
 rtsp://192.168.11.254:554/?avm=1&freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,118,2351,2352
 #EXTINF:-1 tvg-id="Deutsches Musik Fernsehen" tvg-name="Deutsches Musik Fernsehen" tvg-logo="https://tv.avm.de/tvapp/logos/dmf.png" group-title="Musik",Deutsches Musik Fernsehen
 rtsp://192.168.11.254:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,109,6501,6502,6504,6506
-#EXTINF:-1 tvg-id="Melodie TV" tvg-name="Melodie TV" tvg-logo="https://tv.avm.de/tvapp/logos/melodie_tv.png" group-title="Musik",Melodie TV
-rtsp://192.168.11.254:554/?avm=1&freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,104,2741,2742
 
 
 
@@ -157,9 +153,9 @@ rtsp://192.168.11.254:554/?avm=1&freq=554&bw=8&msys=dvbc&mtype=256qam&sr=6900&sp
 
 #EXTINF:-1 tvg-id="TV 5 Monde (fre)" tvg-name="TV 5 Monde (fre)" tvg-logo="https://tv.avm.de/tvapp/logos/tv5_monde.png" group-title="Ausland",TV 5 Monde (fre)
 rtsp://192.168.11.254:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,106,451,452,454
-#EXTINF:-1 tvg-id="France 3 (fre)" tvg-name="France 3 (fre)" tvg-logo="https://tv.avm.de/tvapp/logos/france_3_(fre).png" group-title="Ausland",France 3 (fre)
+#EXTINF:-1 tvg-id="France 3 (fre)" tvg-name="France 3 (fre)" tvg-logo="https://tv.avm.de/tvapp/logos/france_3.png" group-title="Ausland",France 3 (fre)
 rtsp://192.168.11.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,106,2441,2442
-#EXTINF:-1 tvg-id="France 5 (fre)" tvg-name="France 5 (fre)" tvg-logo="https://tv.avm.de/tvapp/logos/france_5_(fre).png" group-title="Ausland",France 5 (fre)
+#EXTINF:-1 tvg-id="France 5 (fre)" tvg-name="France 5 (fre)" tvg-logo="https://tv.avm.de/tvapp/logos/france_5.png" group-title="Ausland",France 5 (fre)
 rtsp://192.168.11.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,105,1551,1552
 
 
@@ -168,25 +164,27 @@ rtsp://192.168.11.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&spe
 rtsp://192.168.11.254:554/?avm=1&freq=570&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,102,1711,1712,1714
 #EXTINF:-1 tvg-id="QVC HD" tvg-name="QVC HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/qvc_hd.png" group-title="Einkaufen",QVC HD
 rtsp://192.168.11.254:554/?avm=1&freq=498&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,104,6741,6742,6744,6746
-#EXTINF:-1 tvg-id="QVC2" tvg-name="QVC2" tvg-logo="https://tv.avm.de/tvapp/logos/qvc2.png" group-title="Einkaufen",QVC2
-rtsp://192.168.11.254:554/?avm=1&freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,111,961,962,964,966
+#EXTINF:-1 tvg-id="QVC2 HD" tvg-name="QVC2 HD" tvg-logo="https://tv.avm.de/tvapp/logos/qvc2.png" group-title="Einkaufen",QVC2 HD
+rtsp://192.168.11.254:554/?avm=1&freq=570&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,106,1561,1562,1564,1566
+#EXTINF:-1 tvg-id="QVC Style HD" tvg-name="QVC Style HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/qvc_style_hd.png" group-title="Einkaufen",QVC Style HD
+rtsp://192.168.11.254:554/?avm=1&freq=570&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,101,1691,1692,1694,1696
 #EXTINF:-1 tvg-id="HSE24 HD" tvg-name="HSE24 HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/hse24_hd.png" group-title="Einkaufen",HSE24 HD
 rtsp://192.168.11.254:554/?avm=1&freq=498&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,103,6791,6792,6794,6796
-#EXTINF:-1 tvg-id="HSE24 EXTRA" tvg-name="HSE24 EXTRA" tvg-logo="https://tv.avm.de/tvapp/logos/hse24_extra.png" group-title="Einkaufen",HSE24 EXTRA
-rtsp://192.168.11.254:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,102,6411,6412,6414,6416
+#EXTINF:-1 tvg-id="HSE24 EXTRA HD" tvg-name="HSE24 EXTRA HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/hse24_extra_hd.png" group-title="Einkaufen",HSE24 EXTRA HD
+rtsp://192.168.11.254:554/?avm=1&freq=578&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,106,1541,1542,1544,1546
+#EXTINF:-1 tvg-id="HSE24 Trend" tvg-name="HSE24 Trend" tvg-logo="https://tv.avm.de/tvapp/logos/hse24_trend.png" group-title="Einkaufen",HSE24 Trend
+rtsp://192.168.11.254:554/?avm=1&freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,116,1451,1452,1454,1456
 #EXTINF:-1 tvg-id="Channel21" tvg-name="Channel21" tvg-logo="https://tv.avm.de/tvapp/logos/channel21.png" group-title="Einkaufen",Channel21
 rtsp://192.168.11.254:554/?avm=1&freq=410&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,114,2391,2392,2394
 #EXTINF:-1 tvg-id="sonnenklar.TV HD" tvg-name="sonnenklar.TV HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/sonnenklar.tv_hd.png" group-title="Einkaufen",sonnenklar.TV HD
 rtsp://192.168.11.254:554/?avm=1&freq=578&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,105,1921,1922,1924
-#EXTINF:-1 tvg-id="Handystar" tvg-name="Handystar" tvg-logo="https://tv.avm.de/tvapp/logos/handystar.png" group-title="Einkaufen",Handystar
-rtsp://192.168.11.254:554/?avm=1&freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,116,1451,1452
 #EXTINF:-1 tvg-id="Juwelo TV" tvg-name="Juwelo TV" tvg-logo="https://tv.avm.de/tvapp/logos/juwelo.png" group-title="Einkaufen",Juwelo TV
 rtsp://192.168.11.254:554/?avm=1&freq=410&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,113,2361,2362,2366
 
 
 
 #EXTINF:-1 tvg-id="Sky Select" tvg-name="Sky Select" tvg-logo="https://tv.avm.de/tvapp/logos/skyselect.png" group-title="Sky",Sky Select
-rtsp://192.168.11.254:554/?avm=1&freq=378&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,103,2815,2816
+rtsp://192.168.11.254:554/?avm=1&freq=378&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,103,2047,2048
 
 
 
@@ -194,34 +192,34 @@ rtsp://192.168.11.254:554/?avm=1&freq=378&bw=8&msys=dvbc&mtype=256qam&sr=6900&sp
 rtsp://192.168.11.254:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,100,101,102,103,104,105,106,1176,2070,2171
 #EXTINF:-1 tvg-id="ZDF HD" tvg-name="ZDF" tvg-logo="https://tv.avm.de/tvapp/logos/zdf.png" tvg-chno="302" group-title="Backup",ZDF
 rtsp://192.168.11.254:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,100,110,120,121,122,125,130,131,950
-#EXTINF:-1 tvg-id="NDR FS SH HD" tvg-name="NDR FS SH" tvg-logo="https://tv.avm.de/tvapp/logos/ndr.png" tvg-chno="305" group-title="Backup",NDR FS SH
-rtsp://192.168.11.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,2700,2701,2171,2670,2676,2702,2703,2704
-#EXTINF:-1 tvg-id="NDR FS HH HD" tvg-name="NDR FS HH HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/ndr_hd.png" tvg-chno="306" group-title="Backup",NDR FS HH HD
+#EXTINF:-1 tvg-id="NDR FS SH HD" tvg-name="NDR FS SH" tvg-logo="https://tv.avm.de/tvapp/logos/ndr.png" tvg-chno="303" group-title="Backup",NDR FS SH
+rtsp://192.168.11.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,2700,2701,35,36,2670,2702,2703,2704
+#EXTINF:-1 tvg-id="NDR FS HH HD" tvg-name="NDR FS HH HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/ndr_hd.png" tvg-chno="304" group-title="Backup",NDR FS HH HD
 rtsp://192.168.11.254:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,5240,5241,1770,2171,2676,5242,5243,5244,5245
 
-#EXTINF:-1 tvg-id="KiKA HD" tvg-name="KiKA" tvg-logo="https://tv.avm.de/tvapp/logos/kika.png" tvg-chno="307" group-title="Backup",KiKA
+#EXTINF:-1 tvg-id="KiKA HD" tvg-name="KiKA" tvg-logo="https://tv.avm.de/tvapp/logos/kika.png" tvg-chno="305" group-title="Backup",KiKA
 rtsp://192.168.11.254:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,300,310,320,321,325,330,331,350
 
-#EXTINF:-1 tvg-id="ONE HD" tvg-name="ONE" tvg-logo="https://tv.avm.de/tvapp/logos/one.png" tvg-chno="303" group-title="Backup",ONE
-rtsp://192.168.11.254:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,200,201,202,203,204,206,270,2171
-#EXTINF:-1 tvg-id="zdf_neo HD" tvg-name="zdf_neo" tvg-logo="https://tv.avm.de/tvapp/logos/zdf_neo.png" tvg-chno="304" group-title="Backup",zdf_neo
-rtsp://192.168.11.254:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,650,660,670,671,672,675,680,681,950
+#EXTINF:-1 tvg-id="ONE HD" tvg-name="ONE" tvg-logo="https://tv.avm.de/tvapp/logos/one.png" tvg-chno="306" group-title="Backup",ONE
+rtsp://192.168.11.254:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,200,201,202,203,204,206,270,276,2171
+#EXTINF:-1 tvg-id="zdf_neo HD" tvg-name="zdf_neo" tvg-logo="https://tv.avm.de/tvapp/logos/zdf_neo.png" tvg-chno="307" group-title="Backup",zdf_neo
+rtsp://192.168.11.254:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,650,660,670,671,672,675,680,681,690
 
 #EXTINF:-1 tvg-id="tagesschau24 HD" tvg-name="tagesschau24" tvg-logo="https://tv.avm.de/tvapp/logos/tagesschau24.png" tvg-chno="308" group-title="Backup",tagesschau24
-rtsp://192.168.11.254:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,100,101,102,104,170,2171
+rtsp://192.168.11.254:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,100,101,102,104,170,176,2171
 #EXTINF:-1 tvg-id="PHOENIX HD" tvg-name="phoenix" tvg-logo="https://tv.avm.de/tvapp/logos/phoenix.png" tvg-chno="309" group-title="Backup",phoenix
-rtsp://192.168.11.254:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,500,501,502,503,504,570,2171
+rtsp://192.168.11.254:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,500,501,502,503,504,570,576,2171
 #EXTINF:-1 tvg-id="arte HD" tvg-name="arte" tvg-logo="https://tv.avm.de/tvapp/logos/arte.png" tvg-chno="310" group-title="Backup",arte
-rtsp://192.168.11.254:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,400,401,402,403,404,470
+rtsp://192.168.11.254:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,400,401,402,403,404,470,1276
 #EXTINF:-1 tvg-id="ARD alpha HD" tvg-name="ARD-alpha" tvg-logo="https://tv.avm.de/tvapp/logos/ard_alpha.png" tvg-chno="311" group-title="Backup",ARD-alpha
-rtsp://192.168.11.254:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,1400,1401,1402,1403,1404,1405,1406,2171,2178
+rtsp://192.168.11.254:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,1400,1401,1402,1403,1404,1405,1406,1476,2171,2178
 #EXTINF:-1 tvg-id="ZDFinfo HD" tvg-name="ZDFinfo" tvg-logo="https://tv.avm.de/tvapp/logos/zdf_info.png" tvg-chno="312" group-title="Backup",ZDFinfo
-rtsp://192.168.11.254:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,600,610,620,621,622,625,630,631,950
+rtsp://192.168.11.254:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,600,610,620,621,622,625,630,631,640
 
 #EXTINF:-1 tvg-id="rbb Berlin HD" tvg-name="rbb Berlin" tvg-logo="https://tv.avm.de/tvapp/logos/rbb.png" tvg-chno="313" group-title="Backup",rbb Berlin
-rtsp://192.168.11.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,600,601,33,602,603,604,670,2176
+rtsp://192.168.11.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,600,601,602,603,604,670,2171,2176
 #EXTINF:-1 tvg-id="MDR Sachsen HD" tvg-name="MDR S-Anhalt" tvg-logo="https://tv.avm.de/tvapp/logos/mdr_s-anhalt.png" tvg-chno="314" group-title="Backup",MDR S-Anhalt
-rtsp://192.168.11.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,2900,2901,34,2870,2902,2903,2904,2905
+rtsp://192.168.11.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,2900,2901,34,2870,2876,2902,2903,2904,2905
 #EXTINF:-1 tvg-id="BR Fernsehen Süd HD" tvg-name="BR Fernsehen Süd" tvg-logo="https://tv.avm.de/tvapp/logos/br_fernsehen_sued.png" tvg-chno="315" group-title="Backup",BR Fernsehen Süd
 rtsp://192.168.11.254:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,200,201,202,203,204,205,206,1076,2171,2178
 #EXTINF:-1 tvg-id="WDR Köln HD" tvg-name="WDR Köln" tvg-logo="https://tv.avm.de/tvapp/logos/wdr.png" tvg-chno="316" group-title="Backup",WDR Köln
@@ -229,32 +227,38 @@ rtsp://192.168.11.254:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&sp
 #EXTINF:-1 tvg-id="SWR RP HD" tvg-name="SWR Fernsehen RP" tvg-logo="https://tv.avm.de/tvapp/logos/swr.png" tvg-chno="317" group-title="Backup",SWR Fernsehen RP
 rtsp://192.168.11.254:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,800,801,802,803,804,806,2171,2470,2476
 #EXTINF:-1 tvg-id="SR Fernsehen HD" tvg-name="SR Fernsehen" tvg-logo="https://tv.avm.de/tvapp/logos/sr.png" tvg-chno="318" group-title="Backup",SR Fernsehen
-rtsp://192.168.11.254:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,300,1301,1302,1303,1304,2171,2970
+rtsp://192.168.11.254:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,300,1301,1302,1303,1304,2171,2970,2976
 #EXTINF:-1 tvg-id="hr-fernsehen HD" tvg-name="hr-fernsehen" tvg-logo="https://tv.avm.de/tvapp/logos/hr.png" tvg-chno="319" group-title="Backup",hr-fernsehen
 rtsp://192.168.11.254:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,300,301,302,303,304,2171,2270,2276
 #EXTINF:-1 tvg-id="3sat HD" tvg-name="3sat" tvg-logo="https://tv.avm.de/tvapp/logos/3sat.png" tvg-chno="320" group-title="Backup",3sat
 rtsp://192.168.11.254:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,200,210,220,221,222,225,230,231,250
 
 #EXTINF:-1 tvg-id="Sky Sport News HD" tvg-name="Sky Sport News" tvg-logo="https://tv.avm.de/tvapp/logos/sky_sport_news.png" tvg-chno="321" group-title="Backup",Sky Sport News
-rtsp://192.168.11.254:554/?avm=1&freq=362&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,100,255,256
+rtsp://192.168.11.254:554/?avm=1&freq=362&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,100,255,32,256
 
 #EXTINF:-1 tvg-id="1-2-3.tv HD" tvg-name="1-2-3.tv" tvg-logo="https://tv.avm.de/tvapp/logos/einszweidrei_tv.png" tvg-chno="322" group-title="Backup",1-2-3.tv
 rtsp://192.168.11.254:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,103,1101,1102,1104
 #EXTINF:-1 tvg-id="QVC HD" tvg-name="QVC" tvg-logo="https://tv.avm.de/tvapp/logos/qvc.png" tvg-chno="323" group-title="Backup",QVC
 rtsp://192.168.11.254:554/?avm=1&freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,101,2281,2282,2284,2286,7011
-#EXTINF:-1 tvg-id="HSE24 HD" tvg-name="HSE24" tvg-logo="https://tv.avm.de/tvapp/logos/hse24.png" tvg-chno="324" group-title="Backup",HSE24
+#EXTINF:-1 tvg-id="QVC2 HD" tvg-name="QVC2" tvg-logo="https://tv.avm.de/tvapp/logos/qvc2.png" tvg-chno="324" group-title="Backup",QVC2
+rtsp://192.168.11.254:554/?avm=1&freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,111,961,962,964,966
+#EXTINF:-1 tvg-id="QVC Style HD" tvg-name="QVC Style" tvg-logo="https://tv.avm.de/tvapp/logos/qvc_style.png" tvg-chno="325" group-title="Backup",QVC Style
+rtsp://192.168.11.254:554/?avm=1&freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,104,2741,2742,2744,2746
+#EXTINF:-1 tvg-id="HSE24 HD" tvg-name="HSE24" tvg-logo="https://tv.avm.de/tvapp/logos/hse24.png" tvg-chno="326" group-title="Backup",HSE24
 rtsp://192.168.11.254:554/?avm=1&freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,103,2311,2312,2314,2316
-#EXTINF:-1 tvg-id="sonnenklar.TV HD" tvg-name="sonnenklar.TV" tvg-logo="https://tv.avm.de/tvapp/logos/sonnenklar.png" tvg-chno="325" group-title="Backup",sonnenklar.TV
+#EXTINF:-1 tvg-id="HSE24 EXTRA HD" tvg-name="HSE24 EXTRA" tvg-logo="https://tv.avm.de/tvapp/logos/hse24_extra.png" tvg-chno="327" group-title="Backup",HSE24 EXTRA
+rtsp://192.168.11.254:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,102,6411,6412,6414,6416
+#EXTINF:-1 tvg-id="sonnenklar.TV HD" tvg-name="sonnenklar.TV" tvg-logo="https://tv.avm.de/tvapp/logos/sonnenklar.png" tvg-chno="328" group-title="Backup",sonnenklar.TV
 rtsp://192.168.11.254:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,105,2271,2272,2273,2274
 
 
 
 #EXTINF:-1 tvg-id="Dlf Kultur" tvg-name="Dlf Kultur" tvg-logo="https://tv.avm.de/tvapp/logos/radio/dlf_kultur.png" tvg-chno="601" group-title="Radio",Dlf Kultur
-rtsp://192.168.11.254:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,700,710
+rtsp://192.168.11.254:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,700,710,750
 #EXTINF:-1 tvg-id="Dlf" tvg-name="Dlf" tvg-logo="https://tv.avm.de/tvapp/logos/radio/dlf.png" tvg-chno="602" group-title="Radio",Dlf
-rtsp://192.168.11.254:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,800,810/
+rtsp://192.168.11.254:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,800,810,850
 #EXTINF:-1 tvg-id="Dlf Nova" tvg-name="Dlf Nova" tvg-logo="https://tv.avm.de/tvapp/logos/radio/dlf_nova.png" tvg-chno="603" group-title="Radio",Dlf Nova
-rtsp://192.168.11.254:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,411,410
+rtsp://192.168.11.254:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,411,410,450
 #EXTINF:-1 tvg-id="MDR SACHSEN DD" tvg-name="MDR SACHSEN DD" tvg-logo="https://tv.avm.de/tvapp/logos/radio/mdr_sachsen_dd.png" tvg-chno="604" group-title="Radio",MDR SACHSEN DD
 rtsp://192.168.11.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3500,3501,2074,2177
 #EXTINF:-1 tvg-id="MDR S-ANHALT MD" tvg-name="MDR S-ANHALT MD" tvg-logo="https://tv.avm.de/tvapp/logos/radio/mdr_s-anhalt_md.png" tvg-chno="605" group-title="Radio",MDR S-ANHALT MD
@@ -346,7 +350,7 @@ rtsp://192.168.11.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&sp
 #EXTINF:-1 tvg-id="WDR 2 Rheinland" tvg-name="WDR 2 Rheinland" tvg-logo="https://tv.avm.de/tvapp/logos/radio/wdr_2_rheinland.png" tvg-chno="648" group-title="Radio",WDR 2 Rheinland
 rtsp://192.168.11.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,4110,4111,2074,2177
 #EXTINF:-1 tvg-id="WDR 3" tvg-name="WDR 3" tvg-logo="https://tv.avm.de/tvapp/logos/radio/wdr_3.png" tvg-chno="649" group-title="Radio",WDR 3
-rtsp://192.168.11.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,4120,4121,2074,2177
+rtsp://192.168.11.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,4120,4121,2074,2177,4122
 #EXTINF:-1 tvg-id="WDR 4" tvg-name="WDR 4" tvg-logo="https://tv.avm.de/tvapp/logos/radio/wdr_4.png" tvg-chno="650" group-title="Radio",WDR 4
 rtsp://192.168.11.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,4130,4131,2074,2177
 #EXTINF:-1 tvg-id="WDR 5" tvg-name="WDR 5" tvg-logo="https://tv.avm.de/tvapp/logos/radio/wdr_5.png" tvg-chno="651" group-title="Radio",WDR 5
@@ -355,7 +359,7 @@ rtsp://192.168.11.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&sp
 rtsp://192.168.11.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,4150,4151,2074,2177
 #EXTINF:-1 tvg-id="1LIVE diGGi" tvg-name="1LIVE diGGi" tvg-logo="https://tv.avm.de/tvapp/logos/radio/1live_diggi.png" tvg-chno="653" group-title="Radio",1LIVE diGGi
 rtsp://192.168.11.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,4160,4161,2074,2177
-#EXTINF:-1 tvg-id="KIRAKA" tvg-name="KIRAKA" tvg-logo="https://tv.avm.de/tvapp/logos/radio/kiraka.png" tvg-chno="654" group-title="Radio",KIRAKA
+#EXTINF:-1 tvg-id="Die Maus" tvg-name="Die Maus" tvg-logo="https://tv.avm.de/tvapp/logos/radio/die_maus.png" tvg-chno="654" group-title="Radio",Die Maus
 rtsp://192.168.11.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,4170,4171,2074,2177
 #EXTINF:-1 tvg-id="WDR Event" tvg-name="WDR Event" tvg-logo="https://tv.avm.de/tvapp/logos/radio/wdr_event.png" tvg-chno="655" group-title="Radio",WDR Event
 rtsp://192.168.11.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,4180,4181,2074,2177
@@ -403,41 +407,47 @@ rtsp://192.168.11.254:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&sp
 rtsp://192.168.11.254:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,206,3322
 #EXTINF:-1 tvg-id="WDR 2 Ostwestfalen-Lippe" tvg-name="WDR 2 Ostwestfalen-Lippe" tvg-logo="https://tv.avm.de/tvapp/logos/radio/wdr_2_ostwestfalen-lippe.png" tvg-chno="677" group-title="Radio",WDR 2 Ostwestfalen-Lippe
 rtsp://192.168.11.254:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,207,3332
-#EXTINF:-1 tvg-id="radioB2 SCHLAGER" tvg-name="radioB2 SCHLAGER" tvg-logo="https://tv.avm.de/tvapp/logos/radio/radiob2_schlager.png" tvg-chno="678" group-title="Radio",radioB2 SCHLAGER
+#EXTINF:-1 tvg-id="Dokumente und Debatten" tvg-name="Dokumente und debatten" tvg-logo="https://tv.avm.de/tvapp/logos/radio/dokumente_und_debatten.png" tvg-chno="678" group-title="Radio",Dokumente und Debatten
+rtsp://192.168.11.254:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,201,6462
+#EXTINF:-1 tvg-id="Radio Bob" tvg-name="Radio Bob" tvg-logo="https://tv.avm.de/tvapp/logos/radio/radio_bob.png" tvg-chno="679" group-title="Radio",Radio Bob
+rtsp://192.168.11.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,3880,3881
+#EXTINF:-1 tvg-id="radioB2 SCHLAGER" tvg-name="radioB2 SCHLAGER" tvg-logo="https://tv.avm.de/tvapp/logos/radio/radiob2_schlager.png" tvg-chno="680" group-title="Radio",radioB2 SCHLAGER
 rtsp://192.168.11.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,4070,4071
-#EXTINF:-1 tvg-id="106acht Alsterradio" tvg-name="106acht Alsterradio" tvg-logo="https://tv.avm.de/tvapp/logos/radio/106acht_alsterradio.png" tvg-chno="679" group-title="Radio",106acht Alsterradio
+#EXTINF:-1 tvg-id="106acht Alsterradio" tvg-name="106acht Alsterradio" tvg-logo="https://tv.avm.de/tvapp/logos/radio/106acht_alsterradio.png" tvg-chno="681" group-title="Radio",106acht Alsterradio
 rtsp://192.168.11.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,4106,4107
-#EXTINF:-1 tvg-id="Delta Radio" tvg-name="Delta Radio" tvg-logo="https://tv.avm.de/tvapp/logos/radio/delta_radio.png" tvg-chno="680" group-title="Radio",Delta Radio
+#EXTINF:-1 tvg-id="Delta Radio" tvg-name="Delta Radio" tvg-logo="https://tv.avm.de/tvapp/logos/radio/delta_radio.png" tvg-chno="682" group-title="Radio",Delta Radio
 rtsp://192.168.11.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,4466,4467
-#EXTINF:-1 tvg-id="Hamburger Lokal Radio" tvg-name="Hamburger Lokal Radio" tvg-logo="https://tv.avm.de/tvapp/logos/radio/hamburger_lokal_radio.png" tvg-chno="681" group-title="Radio",Hamburger Lokal Radio
+#EXTINF:-1 tvg-id="Hamburger Lokal Radio" tvg-name="Hamburger Lokal Radio" tvg-logo="https://tv.avm.de/tvapp/logos/radio/hamburger_lokal_radio.png" tvg-chno="683" group-title="Radio",Hamburger Lokal Radio
 rtsp://192.168.11.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,4536,4537
-#EXTINF:-1 tvg-id="Energy 97.1" tvg-name="Energy 97.1" tvg-logo="https://tv.avm.de/tvapp/logos/radio/energy_97.1.png" tvg-chno="682" group-title="Radio",Energy 97.1
+#EXTINF:-1 tvg-id="Energy 97.1" tvg-name="Energy 97.1" tvg-logo="https://tv.avm.de/tvapp/logos/radio/energy_97.1.png" tvg-chno="684" group-title="Radio",Energy 97.1
 rtsp://192.168.11.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,4556,4557
-#EXTINF:-1 tvg-id="radio ffn - Hamburg/Lüneburg" tvg-name="radio ffn - Hamburg/Lüneburg" tvg-logo="https://tv.avm.de/tvapp/logos/radio/radio_ffn_-_hamburg_lueneburg.png" tvg-chno="683" group-title="Radio",radio ffn - Hamburg/Lüneburg
+#EXTINF:-1 tvg-id="radio ffn - Hamburg/Lüneburg" tvg-name="radio ffn - Hamburg/Lüneburg" tvg-logo="https://tv.avm.de/tvapp/logos/radio/radio_ffn__hamburg_lueneburg.png" tvg-chno="685" group-title="Radio",radio ffn - Hamburg/Lüneburg
 rtsp://192.168.11.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,4696,4697
-#EXTINF:-1 tvg-id="Antenne Niedersachsen HH/LG" tvg-name="Antenne Niedersachsen HH/LG" tvg-logo="https://tv.avm.de/tvapp/logos/radio/antenne_niedersachsen_hh_lg.png" tvg-chno="684" group-title="Radio",Antenne Niedersachsen HH/LG
+#EXTINF:-1 tvg-id="Antenne Niedersachsen HH/LG" tvg-name="Antenne Niedersachsen HH/LG" tvg-logo="https://tv.avm.de/tvapp/logos/radio/antenne_niedersachsen_hh.png" tvg-chno="686" group-title="Radio",Antenne Niedersachsen HH/LG
 rtsp://192.168.11.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,4946,4947
-#EXTINF:-1 tvg-id="Klassik Radio" tvg-name="Klassik Radio" tvg-logo="https://tv.avm.de/tvapp/logos/radio/klassik_radio.png" tvg-chno="685" group-title="Radio",Klassik Radio
+#EXTINF:-1 tvg-id="Radio Teddy (HB)" tvg-name="Radio Teddy (HB)" tvg-logo="https://tv.avm.de/tvapp/logos/radio/radio_teddy_hb.png" tvg-chno="687" group-title="Radio",Radio Teddy (HB)
+rtsp://192.168.11.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,7246,7247
+#EXTINF:-1 tvg-id="Klassik Radio" tvg-name="Klassik Radio" tvg-logo="https://tv.avm.de/tvapp/logos/radio/klassik_radio.png" tvg-chno="688" group-title="Radio",Klassik Radio
 rtsp://192.168.11.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,7586,7587
-#EXTINF:-1 tvg-id="Hamburg Zwei" tvg-name="Hamburg Zwei" tvg-logo="https://tv.avm.de/tvapp/logos/radio/hamburg_zwei.png" tvg-chno="686" group-title="Radio",Hamburg Zwei
+#EXTINF:-1 tvg-id="Hamburg Zwei" tvg-name="Hamburg Zwei" tvg-logo="https://tv.avm.de/tvapp/logos/radio/hamburg_zwei.png" tvg-chno="689" group-title="Radio",Hamburg Zwei
 rtsp://192.168.11.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,7626,7627
-#EXTINF:-1 tvg-id="Radio Hamburg" tvg-name="Radio Hamburg" tvg-logo="https://tv.avm.de/tvapp/logos/radio/radio_hamburg.png" tvg-chno="687" group-title="Radio",Radio Hamburg
+#EXTINF:-1 tvg-id="Radio Hamburg" tvg-name="Radio Hamburg" tvg-logo="https://tv.avm.de/tvapp/logos/radio/radio_hamburg.png" tvg-chno="690" group-title="Radio",Radio Hamburg
 rtsp://192.168.11.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,7866,7867
-#EXTINF:-1 tvg-id="Radio Hamburg Cityfunk" tvg-name="Radio Hamburg Cityfunk" tvg-logo="https://tv.avm.de/tvapp/logos/radio/radio_hamburg_cityfunk.png" tvg-chno="688" group-title="Radio",Radio Hamburg Cityfunk
+#EXTINF:-1 tvg-id="Radio Hamburg Cityfunk" tvg-name="Radio Hamburg Cityfunk" tvg-logo="https://tv.avm.de/tvapp/logos/radio/radio_hamburg_cityfunk.png" tvg-chno="691" group-title="Radio",Radio Hamburg Cityfunk
 rtsp://192.168.11.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,7876,7877
-#EXTINF:-1 tvg-id="Radio Schleswig-Holstein - Süd" tvg-name="Radio Schleswig-Holstein - Süd" tvg-logo="https://tv.avm.de/tvapp/logos/radio/radio_schleswig-holstein_-_sued.png" tvg-chno="689" group-title="Radio",Radio Schleswig-Holstein - Süd
+#EXTINF:-1 tvg-id="Radio Schleswig-Holstein - Süd" tvg-name="Radio Schleswig-Holstein - Süd" tvg-logo="https://tv.avm.de/tvapp/logos/radio/radio_schleswigholsteinsued.png" tvg-chno="692" group-title="Radio",Radio Schleswig-Holstein - Süd
 rtsp://192.168.11.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,3146,3147
-#EXTINF:-1 tvg-id="TIDE 96.0" tvg-name="TIDE 96.0" tvg-logo="https://tv.avm.de/tvapp/logos/radio/tide_96.0.png" tvg-chno="690" group-title="Radio",TIDE 96.0
+#EXTINF:-1 tvg-id="TIDE 96.0" tvg-name="TIDE 96.0" tvg-logo="https://tv.avm.de/tvapp/logos/radio/tide_96.0.png" tvg-chno="693" group-title="Radio",TIDE 96.0
 rtsp://192.168.11.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,3716,3717
-#EXTINF:-1 tvg-id="NDR 1 Niedersachsen -Nordost" tvg-name="NDR 1 Niedersachsen -Nordost" tvg-logo="https://tv.avm.de/tvapp/logos/radio/ndr_1_niedersachsen_-nordost.png" tvg-chno="691" group-title="Radio",NDR 1 Niedersachsen -Nordost
-rtsp://192.168.11.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,3580,49
-#EXTINF:-1 tvg-id="NDR 1 Radio MV Schwerin" tvg-name="NDR 1 Radio MV Schwerin" tvg-logo="https://tv.avm.de/tvapp/logos/radio/ndr_1_radio_mv_schwerin.png" tvg-chno="692" group-title="Radio",NDR 1 Radio MV Schwerin
-rtsp://192.168.11.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,3640,1610
-#EXTINF:-1 tvg-id="NDR 1 Welle Nord -Ost" tvg-name="NDR 1 Welle Nord -Ost" tvg-logo="https://tv.avm.de/tvapp/logos/radio/ndr_1_welle_nord_-ost.png" tvg-chno="693" group-title="Radio",NDR 1 Welle Nord -Ost
-rtsp://192.168.11.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,3690,48
-#EXTINF:-1 tvg-id="NDR 1 Welle Nord -Süd" tvg-name="NDR 1 Welle Nord -Süd" tvg-logo="https://tv.avm.de/tvapp/logos/radio/ndr_1_welle_nord_-sued.png" tvg-chno="694" group-title="Radio",NDR 1 Welle Nord -Süd
-rtsp://192.168.11.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,3700,54
-#EXTINF:-1 tvg-id="NDR 2" tvg-name="NDR 2" tvg-logo="https://tv.avm.de/tvapp/logos/radio/ndr_2_.png" tvg-chno="695" group-title="Radio",NDR 2 
-rtsp://192.168.11.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,3730,52
-#EXTINF:-1 tvg-id="NDR Info" tvg-name="NDR Info" tvg-logo="https://tv.avm.de/tvapp/logos/radio/ndr_info.png" tvg-chno="696" group-title="Radio",NDR Info
-rtsp://192.168.11.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,3750,56
+#EXTINF:-1 tvg-id="NDR 1 Niedersachsen -Nordost" tvg-name="NDR 1 Niedersachsen -Nordost" tvg-logo="https://tv.avm.de/tvapp/logos/radio/ndr_1_nieders_han.png" tvg-chno="694" group-title="Radio",NDR 1 Niedersachsen -Nordost
+rtsp://192.168.11.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,3580,3581
+#EXTINF:-1 tvg-id="NDR 1 Radio MV Schwerin" tvg-name="NDR 1 Radio MV Schwerin" tvg-logo="https://tv.avm.de/tvapp/logos/radio/ndr_1_radio_mv_schwerin.png" tvg-chno="695" group-title="Radio",NDR 1 Radio MV Schwerin
+rtsp://192.168.11.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,3640,3641
+#EXTINF:-1 tvg-id="NDR 1 Welle Nord -Ost" tvg-name="NDR 1 Welle Nord -Ost" tvg-logo="https://tv.avm.de/tvapp/logos/radio/ndr_1_welle_nord_ost.png" tvg-chno="696" group-title="Radio",NDR 1 Welle Nord -Ost
+rtsp://192.168.11.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,3690,3691
+#EXTINF:-1 tvg-id="NDR 1 Welle Nord -Süd" tvg-name="NDR 1 Welle Nord -Süd" tvg-logo="https://tv.avm.de/tvapp/logos/radio/ndr_1_welle_nord_sued.png" tvg-chno="697" group-title="Radio",NDR 1 Welle Nord -Süd
+rtsp://192.168.11.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,3700,3701
+#EXTINF:-1 tvg-id="NDR 2" tvg-name="NDR 2" tvg-logo="https://tv.avm.de/tvapp/logos/radio/ndr_2_.png" tvg-chno="698" group-title="Radio",NDR 2 
+rtsp://192.168.11.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,3730,3731
+#EXTINF:-1 tvg-id="NDR Info" tvg-name="NDR Info" tvg-logo="https://tv.avm.de/tvapp/logos/radio/ndr_info.png" tvg-chno="699" group-title="Radio",NDR Info
+rtsp://192.168.11.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,3750,3751

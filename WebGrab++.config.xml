@@ -15,7 +15,6 @@
     <channel update="f" site="klassiker.tv" site_id="DE/deu_720012327313__https://wp11-images-de-dynamic.horizon.tv/ChannelLogos/02/1-2-3_tv_hd.png" xmltv_id="1-2-3.tv HD">1-2-3.tv HD</channel>
     <channel update="f" site="klassiker.tv" site_id="DE/deu_616178215134__https://wp4-images-de-dynamic.horizon.tv/ChannelLogos/02/3sat_hd_1.png" xmltv_id="3sat HD">3sat HD</channel>
     <channel update="f" site="klassiker.tv" site_id="DE/deu_29438503141__https://wp14-images-de-dynamic.horizon.tv/ChannelLogos/02/al_jazeera_international.png" xmltv_id="Al Jazeera Int (eng)">Al Jazeera Int (eng)</channel>
-    <channel update="f" site="klassiker.tv" site_id="DE/deu_817724967008__https://wp14-images-de-dynamic.horizon.tv/ChannelLogos/02/anixe_hd.png" xmltv_id="ANIXE+">ANIXE+</channel>
     <channel update="f" site="klassiker.tv" site_id="DE/deu_867025447139__https://wp13-images-de-dynamic.horizon.tv/ChannelLogos/02/br-alpha.png" xmltv_id="ARD alpha HD">ARD alpha HD</channel>
     <channel update="f" site="klassiker.tv" site_id="DE/deu_342571559048__https://wp3-images-de-dynamic.horizon.tv/ChannelLogos/02/arte_hd.png" xmltv_id="arte HD">arte HD</channel>
     <channel update="f" site="klassiker.tv" site_id="DE/deu_29438503022__https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/astro_tv.png" xmltv_id="Astro TV">Astro TV</channel>
@@ -34,18 +33,17 @@
     <channel update="f" site="klassiker.tv" site_id="DE/deu_29609511127__https://wp14-images-de-dynamic.horizon.tv/ChannelLogos/02/eurosport_1.png" xmltv_id="Eurosport 1">Eurosport 1</channel>
     <channel update="f" site="klassiker.tv" site_id="DE/deu_917045799327__https://wp17-images-de-dynamic.horizon.tv/ChannelLogos/02/france_3_1.png" xmltv_id="France 3 (fre)">France 3 (fre)</channel>
     <channel update="f" site="klassiker.tv" site_id="DE/deu_917046311210__https://wp19-images-de-dynamic.horizon.tv/ChannelLogos/02/france_5_1.png" xmltv_id="France 5 (fre)">France 5 (fre)</channel>
-    <channel update="f" site="klassiker.tv" site_id="DE/deu_706506791340__https://wp12-images-de-dynamic.horizon.tv/ChannelLogos/02/handystar.png" xmltv_id="Handystar">Handystar</channel>
     <channel update="f" site="klassiker.tv" site_id="DE/deu_810575911132__https://wp9-images-de-dynamic.horizon.tv/ChannelLogos/02/health_tv.png" xmltv_id="health tv">health tv</channel>
     <channel update="f" site="klassiker.tv" site_id="DE/deu_886939687163__https://wp9-images-ie-dynamic.horizon.tv/ChannelLogos/02/hgtv.png" xmltv_id="HOME AND GARDEN TV">HOME AND GARDEN TV</channel>
     <channel update="f" site="klassiker.tv" site_id="DE/deu_761026599328__https://wp6-images-de-dynamic.horizon.tv/ChannelLogos/02/hr_hd_1.png" xmltv_id="hr-fernsehen HD">hr-fernsehen HD</channel>
     <channel update="f" site="klassiker.tv" site_id="DE/deu_97245734997__https://wp23-images-de-dynamic.horizon.tv/ChannelLogos/02/hse24_hd.png" xmltv_id="HSE24 HD">HSE24 HD</channel>
-    <channel update="f" site="klassiker.tv" site_id="DE/deu_29436455394__https://wp1-images-de-dynamic.horizon.tv/ChannelLogos/02/hse24_extra.png" xmltv_id="HSE24 EXTRA">HSE24 EXTRA</channel>
+    <channel update="f" site="klassiker.tv" site_id="DE/deu_834825767106__https://wp12-images-de-dynamic.horizon.tv/ChannelLogos/02/hse24_extra_hd.png" xmltv_id="HSE24 EXTRA HD">HSE24 EXTRA HD</channel>
+    <channel update="f" site="klassiker.tv" site_id="DE/deu_29438503035__https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/hse24_trend.png" xmltv_id="HSE24 Trend">HSE24 Trend</channel>
     <channel update="f" site="klassiker.tv" site_id="DE/deu_29436455419__https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/juwelo_1.png" xmltv_id="Juwelo TV">Juwelo TV</channel>
     <channel update="f" site="klassiker.tv" site_id="DE/deu_29438503100__https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/kabel_1.png" xmltv_id="kabel eins">kabel eins</channel>
     <channel update="f" site="klassiker.tv" site_id="DE/deu_745574951375__https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/kabel1_doku.png" xmltv_id="kabel eins Doku">kabel eins Doku</channel>
     <channel update="f" site="klassiker.tv" site_id="DE/deu_706497063099__https://wp21-images-de-dynamic.horizon.tv/ChannelLogos/02/kika_hd.png" xmltv_id="KiKA HD">KiKA HD</channel>
     <channel update="f" site="klassiker.tv" site_id="DE/deu_29438503066__https://wp23-images-de-dynamic.horizon.tv/ChannelLogos/02/mdr_sachsen.png" xmltv_id="MDR Sachsen HD">MDR Sachsen HD</channel>
-    <channel update="f" site="klassiker.tv" site_id="AT/deu_554823719015__https://wp9-images-at-dynamic.horizon.tv/Logos/7069.f.png" xmltv_id="Melodie TV">Melodie TV</channel>
     <channel update="f" site="klassiker.tv" site_id="DE/deu_809640999021__https://wp20-images-de-dynamic.horizon.tv/ChannelLogos/02/mtv_3.png" xmltv_id="MTV">MTV</channel>
     <channel update="f" site="klassiker.tv" site_id="DE/deu_29438503069__https://wp9-images-de-dynamic.horizon.tv/ChannelLogos/02/ntv.png" xmltv_id="n-tv">n-tv</channel>
     <channel update="f" site="klassiker.tv" site_id="DE/deu_745574951376__https://wp6-images-de-dynamic.horizon.tv/ChannelLogos/02/n24doku.png" xmltv_id="N24 Doku">N24 Doku</channel>
@@ -59,7 +57,8 @@
     <channel update="f" site="klassiker.tv" site_id="DE/deu_29438503097__https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/prosieben_1.png" xmltv_id="ProSieben">ProSieben</channel>
     <channel update="f" site="klassiker.tv" site_id="DE/deu_432862759167__https://wp20-images-de-dynamic.horizon.tv/ChannelLogos/02/prosieben_maxx.png" xmltv_id="ProSieben MAXX">ProSieben MAXX</channel>
     <channel update="f" site="klassiker.tv" site_id="DE/deu_349162535312__https://wp14-images-de-dynamic.horizon.tv/ChannelLogos/02/qvc_hd_2.png" xmltv_id="QVC HD">QVC HD</channel>
-    <channel update="f" site="klassiker.tv" site_id="DE/deu_29438503023__https://wp26-images-de-dynamic.horizon.tv/ChannelLogos/02/QVC_2.png" xmltv_id="QVC2">QVC2</channel>
+    <channel update="f" site="klassiker.tv" site_id="DE/deu_432862759164__https://wp23-images-de-dynamic.horizon.tv/ChannelLogos/02/qvc_zwei_hd.png" xmltv_id="QVC2 HD">QVC2 HD</channel>
+    <channel update="f" site="klassiker.tv" site_id="DE/deu_810575911129__https://wp20-images-de-dynamic.horizon.tv/ChannelLogos/02/qvc_style_hd_2.png" xmltv_id="QVC Style HD">QVC Style HD</channel>
     <channel update="f" site="klassiker.tv" site_id="DE/deu_834825767105__https://wp21-images-de-dynamic.horizon.tv/ChannelLogos/02/rbb_hd.png" xmltv_id="rbb Berlin HD">rbb Berlin HD</channel>
     <channel update="f" site="klassiker.tv" site_id="DE/deu_29438503175__https://wp17-images-de-dynamic.horizon.tv/ChannelLogos/02/rtl_v2.png" xmltv_id="RTL">RTL</channel>
     <channel update="f" site="klassiker.tv" site_id="DE/deu_904120359445__https://wp4-images-de-dynamic.horizon.tv/ChannelLogos/02/rtlzwei.png" xmltv_id="RTLZWEI">RTLZWEI</channel>
@@ -81,12 +80,11 @@
     <channel update="f" site="klassiker.tv" site_id="DE/deu_728445991321__https://wp19-images-de-dynamic.horizon.tv/ChannelLogos/02/toggo_plus.png" xmltv_id="TOGGO plus">TOGGO plus</channel>
     <channel update="f" site="klassiker.tv" site_id="DE/deu_29438503145__https://wp2-images-de-dynamic.horizon.tv/ChannelLogos/02/tv5monde_europe.png" xmltv_id="TV 5 Monde (fre)">TV 5 Monde (fre)</channel>
     <channel update="f" site="klassiker.tv" site_id="DE/deu_29438503001__https://wp5-images-de-dynamic.horizon.tv/ChannelLogos/02/vox.png" xmltv_id="VOX">VOX</channel>
+    <channel update="f" site="klassiker.tv" site_id="DE/deu_911733287342__https://wp26-images-de-dynamic.horizon.tv/ChannelLogos/02/voxup.png" xmltv_id="VOXup">VOXup</channel>
     <channel update="f" site="klassiker.tv" site_id="DE/deu_761024551272__https://wp22-images-de-dynamic.horizon.tv/ChannelLogos/02/wdr_fernsehen_hd.png" xmltv_id="WDR Köln HD">WDR Köln HD</channel>
     <channel update="f" site="klassiker.tv" site_id="DE/deu_465354791385__https://wp22-images-de-dynamic.horizon.tv/ChannelLogos/02/welt.png" xmltv_id="WELT">WELT</channel>
-    <channel update="f" site="klassiker.tv" site_id="DE/deu_810575911133__https://wp23-images-de-dynamic.horizon.tv/ChannelLogos/02/welt_der_wunder.png" xmltv_id="Welt der Wunder TV">Welt der Wunder TV</channel>
     <channel update="f" site="klassiker.tv" site_id="DE/deu_29438503164__https://wp21-images-de-dynamic.horizon.tv/ChannelLogos/02/zdf_hd.png" xmltv_id="ZDF HD">ZDF HD</channel>
     <channel update="f" site="klassiker.tv" site_id="DE/deu_844304935317__https://wp24-images-de-dynamic.horizon.tv/ChannelLogos/02/zdfinfo_hd_1.png" xmltv_id="ZDFinfo HD">ZDFinfo HD</channel>
     <channel update="f" site="klassiker.tv" site_id="DE/deu_616654375081__https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/zdf_neo_hd_v2.png" xmltv_id="zdf_neo HD">zdf_neo HD</channel>
-    <channel update="f" site="klassiker.tv" site_id="DE/deu_733871143282__https://wp19-images-de-dynamic.horizon.tv/ChannelLogos/02/zeeone2.png" xmltv_id="Zee.One">Zee.One</channel>
 
 </settings>
