@@ -6,10 +6,10 @@
   <filename>guide.xml</filename>
   <mode>nomark</mode>
   <postprocess grab="y" run="n">mdb</postprocess>
-  <user-agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Safari/605.1.15</user-agent>
+  <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0</user-agent>
   <logging>off</logging>
   <retry time-out="5">4</retry>
-  <timespan>3</timespan>
+  <timespan>2</timespan>
   <update>f</update>
 
     <channel update="f" site="klassiker.tv" site_id="DE/deu_720012327313__https://wp11-images-de-dynamic.horizon.tv/ChannelLogos/02/1-2-3_tv_hd.png" xmltv_id="1-2-3.tv HD">1-2-3.tv HD</channel>
