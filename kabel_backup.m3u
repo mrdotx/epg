@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Das Erste HD" tvg-name="Das Erste" tvg-logo="https://tv.avm.de/tvapp/logos/das_erste.png" tvg-chno="301" group-title="Backup",Das Erste
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.11.254:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,100,101,102,103,104,105,106,1176,2070,2171
+#EXTINF:-1 tvg-id="ZDF HD" tvg-name="ZDF" tvg-logo="https://tv.avm.de/tvapp/logos/zdf.png" tvg-chno="302" group-title="Backup",ZDF
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.11.254:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,100,110,120,121,122,125,130,131,950
+#EXTINF:-1 tvg-id="NDR FS SH HD" tvg-name="NDR FS SH" tvg-logo="https://tv.avm.de/tvapp/logos/ndr.png" tvg-chno="303" group-title="Backup",NDR FS SH
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.11.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,2700,2701,35,36,2670,2702,2703,2704
+#EXTINF:-1 tvg-id="NDR FS HH HD" tvg-name="NDR FS HH HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/ndr_hd.png" tvg-chno="304" group-title="Backup",NDR FS HH HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.11.254:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,5240,5241,1770,2171,2676,5242,5243,5244,5245
+
+#EXTINF:-1 tvg-id="KiKA HD" tvg-name="KiKA" tvg-logo="https://tv.avm.de/tvapp/logos/kika.png" tvg-chno="305" group-title="Backup",KiKA
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.11.254:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,300,310,320,321,325,330,331,350
+
+#EXTINF:-1 tvg-id="ONE HD" tvg-name="ONE" tvg-logo="https://tv.avm.de/tvapp/logos/one.png" tvg-chno="306" group-title="Backup",ONE
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.11.254:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,200,201,202,203,204,206,270,276,2171
+#EXTINF:-1 tvg-id="zdf_neo HD" tvg-name="zdf_neo" tvg-logo="https://tv.avm.de/tvapp/logos/zdf_neo.png" tvg-chno="307" group-title="Backup",zdf_neo
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.11.254:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,650,660,670,671,672,675,680,681,690
+
+#EXTINF:-1 tvg-id="tagesschau24 HD" tvg-name="tagesschau24" tvg-logo="https://tv.avm.de/tvapp/logos/tagesschau24.png" tvg-chno="308" group-title="Backup",tagesschau24
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.11.254:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,100,101,102,104,170,176,2171
+#EXTINF:-1 tvg-id="PHOENIX HD" tvg-name="phoenix" tvg-logo="https://tv.avm.de/tvapp/logos/phoenix.png" tvg-chno="309" group-title="Backup",phoenix
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.11.254:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,500,501,502,503,504,570,576,2171
+#EXTINF:-1 tvg-id="arte HD" tvg-name="arte" tvg-logo="https://tv.avm.de/tvapp/logos/arte.png" tvg-chno="310" group-title="Backup",arte
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.11.254:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,400,401,402,403,404,470,1276
+#EXTINF:-1 tvg-id="ARD alpha HD" tvg-name="ARD-alpha" tvg-logo="https://tv.avm.de/tvapp/logos/ard_alpha.png" tvg-chno="311" group-title="Backup",ARD-alpha
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.11.254:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,1400,1401,1402,1403,1404,1405,1406,1476,2171,2178
+#EXTINF:-1 tvg-id="ZDFinfo HD" tvg-name="ZDFinfo" tvg-logo="https://tv.avm.de/tvapp/logos/zdf_info.png" tvg-chno="312" group-title="Backup",ZDFinfo
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.11.254:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,600,610,620,621,622,625,630,631,640
+
+#EXTINF:-1 tvg-id="rbb Berlin HD" tvg-name="rbb Berlin" tvg-logo="https://tv.avm.de/tvapp/logos/rbb.png" tvg-chno="313" group-title="Backup",rbb Berlin
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.11.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,600,601,602,603,604,670,2171,2176
+#EXTINF:-1 tvg-id="MDR Sachsen HD" tvg-name="MDR S-Anhalt" tvg-logo="https://tv.avm.de/tvapp/logos/mdr_s-anhalt.png" tvg-chno="314" group-title="Backup",MDR S-Anhalt
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.11.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,2900,2901,34,2870,2876,2902,2903,2904,2905
+#EXTINF:-1 tvg-id="BR Fernsehen Süd HD" tvg-name="BR Fernsehen Süd" tvg-logo="https://tv.avm.de/tvapp/logos/br_fernsehen_sued.png" tvg-chno="315" group-title="Backup",BR Fernsehen Süd
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.11.254:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,200,201,202,203,204,205,206,1076,2171,2178
+#EXTINF:-1 tvg-id="WDR Köln HD" tvg-name="WDR Köln" tvg-logo="https://tv.avm.de/tvapp/logos/wdr.png" tvg-chno="316" group-title="Backup",WDR Köln
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.11.254:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,600,601,602,603,604,605,2171,2370,2376
+#EXTINF:-1 tvg-id="SWR RP HD" tvg-name="SWR Fernsehen RP" tvg-logo="https://tv.avm.de/tvapp/logos/swr.png" tvg-chno="317" group-title="Backup",SWR Fernsehen RP
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.11.254:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,800,801,802,803,804,806,2171,2470,2476
+#EXTINF:-1 tvg-id="SR Fernsehen HD" tvg-name="SR Fernsehen" tvg-logo="https://tv.avm.de/tvapp/logos/sr.png" tvg-chno="318" group-title="Backup",SR Fernsehen
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.11.254:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,300,1301,1302,1303,1304,2171,2970,2976
+#EXTINF:-1 tvg-id="hr-fernsehen HD" tvg-name="hr-fernsehen" tvg-logo="https://tv.avm.de/tvapp/logos/hr.png" tvg-chno="319" group-title="Backup",hr-fernsehen
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.11.254:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,300,301,302,303,304,2171,2270,2276
+#EXTINF:-1 tvg-id="3sat HD" tvg-name="3sat" tvg-logo="https://tv.avm.de/tvapp/logos/3sat.png" tvg-chno="320" group-title="Backup",3sat
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.11.254:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,200,210,220,221,222,225,230,231,250
+
+#EXTINF:-1 tvg-id="Sky Sport News HD" tvg-name="Sky Sport News" tvg-logo="https://tv.avm.de/tvapp/logos/sky_sport_news.png" tvg-chno="321" group-title="Backup",Sky Sport News
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.11.254:554/?avm=1&freq=362&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,100,255,32,256
+
+#EXTINF:-1 tvg-id="1-2-3.tv HD" tvg-name="1-2-3.tv" tvg-logo="https://tv.avm.de/tvapp/logos/einszweidrei_tv.png" tvg-chno="322" group-title="Backup",1-2-3.tv
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.11.254:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,103,1101,1102,1104
+#EXTINF:-1 tvg-id="QVC HD" tvg-name="QVC" tvg-logo="https://tv.avm.de/tvapp/logos/qvc.png" tvg-chno="323" group-title="Backup",QVC
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.11.254:554/?avm=1&freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,101,2281,2282,2284,2286,7011
+#EXTINF:-1 tvg-id="QVC2 HD" tvg-name="QVC2" tvg-logo="https://tv.avm.de/tvapp/logos/qvc2.png" tvg-chno="324" group-title="Backup",QVC2
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.11.254:554/?avm=1&freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,111,961,962,964,966
+#EXTINF:-1 tvg-id="QVC Style HD" tvg-name="QVC Style" tvg-logo="https://tv.avm.de/tvapp/logos/qvc_style.png" tvg-chno="325" group-title="Backup",QVC Style
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.11.254:554/?avm=1&freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,104,2741,2742,2744,2746
+#EXTINF:-1 tvg-id="HSE24 HD" tvg-name="HSE24" tvg-logo="https://tv.avm.de/tvapp/logos/hse24.png" tvg-chno="326" group-title="Backup",HSE24
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.11.254:554/?avm=1&freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,103,2311,2312,2314,2316
+#EXTINF:-1 tvg-id="HSE24 EXTRA HD" tvg-name="HSE24 EXTRA" tvg-logo="https://tv.avm.de/tvapp/logos/hse24_extra.png" tvg-chno="327" group-title="Backup",HSE24 EXTRA
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.11.254:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,102,6411,6412,6414,6416
+#EXTINF:-1 tvg-id="sonnenklar.TV HD" tvg-name="sonnenklar.TV" tvg-logo="https://tv.avm.de/tvapp/logos/sonnenklar.png" tvg-chno="328" group-title="Backup",sonnenklar.TV
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.11.254:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,105,2271,2272,2273,2274
