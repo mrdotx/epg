@@ -3,7 +3,7 @@
 # path:       /home/klassiker/.local/share/repos/epg/copy.sh
 # author:     klassiker [mrdotx]
 # github:     https://github.com/mrdotx/epg
-# date:       2020-10-11T11:01:09+0200
+# date:       2020-10-30T23:05:51+0100
 
 epg=$HOME/.local/share/repos/epg
 
@@ -32,4 +32,6 @@ rsync --info=progress2 -ac \
 
 printf ":: copy completed!\n"
 
-notify-send "epg" "copy finished" --icon=messagebox_info
+notify-send \
+    "epg" \
+    "copy finished"
