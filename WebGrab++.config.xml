@@ -9,7 +9,7 @@
   <user-agent></user-agent>
   <logging>off</logging>
   <retry time-out="5">4</retry>
-  <timespan>1</timespan>
+  <timespan>2</timespan>
   <update>f</update>
 
     <channel update="f" site="klassiker.tv" site_id="DE/deu_720012327313__https://wp11-images-de-dynamic.horizon.tv/ChannelLogos/02/1-2-3_tv_hd.png" xmltv_id="1-2-3.tv HD">1-2-3.tv HD</channel>
