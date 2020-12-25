@@ -3,7 +3,7 @@
 # path:       /home/klassiker/.local/share/repos/epg/copy.sh
 # author:     klassiker [mrdotx]
 # github:     https://github.com/mrdotx/epg
-# date:       2020-10-30T23:05:51+0100
+# date:       2020-12-25T16:40:11+0100
 
 epg=$HOME/.local/share/repos/epg
 
@@ -18,6 +18,7 @@ rsync --info=progress2 -ac \
     --exclude="epg.service" \
     --exclude="epg.timer" \
     "$epg/" alarm@hermes:/srv/http/epg/
+printf "\n"
 
 printf ":: copy to prometheus...\n"
 rsync --info=progress2 -ac \
@@ -29,8 +30,7 @@ rsync --info=progress2 -ac \
     --exclude="epg.service" \
     --exclude="epg.timer" \
     "$epg/" alarm@prometheus:/srv/http/epg/
-
-printf ":: copy completed!\n"
+printf "\n"
 
 notify-send \
     "epg" \
