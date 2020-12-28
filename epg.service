@@ -1,7 +1,7 @@
 # path:       /home/klassiker/.local/share/repos/epg/epg.service
 # author:     klassiker [mrdotx]
 # github:     https://github.com/mrdotx/epg
-# date:       2020-12-28T15:19:38+0100
+# date:       2020-12-28T15:26:03+0100
 
 [Unit]
 Description=download epg data in user contaxt alarm
@@ -9,7 +9,7 @@ Description=download epg data in user contaxt alarm
 [Service]
 User=alarm
 Type=oneshot
-ExecStart=%h/.local/share/repos/python/speed_test.py
+ExecStart=/srv/http/epg/epg.sh
 
 [Install]
 WantedBy=multi-user.target
