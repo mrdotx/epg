@@ -1,0 +1,6 @@
+# path:       /home/klassiker/.local/share/repos/epg/.gitignore
+# author:     klassiker [mrdotx]
+# github:     https://github.com/mrdotx/epg
+# date:       2020-12-28T14:23:19+0100
+
+/epg.xml
