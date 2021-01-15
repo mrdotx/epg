@@ -1,7 +1,7 @@
-# path:       /home/klassiker/.local/share/repos/epg/epg.service
-# author:     klassiker [mrdotx]
-# github:     https://github.com/mrdotx/epg
-# date:       2020-12-28T15:48:29+0100
+# path:   /home/klassiker/.local/share/repos/epg/epg.service
+# author: klassiker [mrdotx]
+# github: https://github.com/mrdotx/epg
+# date:   2021-01-15T13:34:27+0100
 
 [Unit]
 Description=download epg data in user contaxt alarm
