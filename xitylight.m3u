@@ -50,15 +50,15 @@ rtsp://192.168.11.251:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=256qam&sr=6900&sp
 
 
 
-#EXTINF:-1 tvg-id="SAT.1 HH/SH" tvg-name="SAT.1 HH/SH" tvg-logo="https://tv.avm.de/tvapp/logos/sat1_hh_sh.png" group-title="Haupt;Unterhaltung",SAT.1 HH/SH
+#EXTINF:-1 tvg-id="SAT.1" tvg-name="SAT.1" tvg-logo="https://tv.avm.de/tvapp/logos/sat1.png" group-title="Haupt;Unterhaltung",SAT.1
 #EXTVLCOPT:network-caching=2000
-rtsp://192.168.11.251:554/?avm=1&freq=746&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3624,2047,40,2048,2051,2053
+rtsp://192.168.11.251:554/?avm=1&freq=714&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1116,255,32,256,259,261
 #EXTINF:-1 tvg-id="SAT.1 Gold" tvg-name="SAT.1 Gold" tvg-logo="https://tv.avm.de/tvapp/logos/sat1gold.png" group-title="Haupt;Unterhaltung",SAT.1 Gold
 #EXTVLCOPT:network-caching=2000
 rtsp://192.168.11.251:554/?avm=1&freq=714&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1120,1279,36,1280,1285
-#EXTINF:-1 tvg-id="RTL HH SH" tvg-name="RTL HH SH" tvg-logo="https://tv.avm.de/tvapp/logos/rtl_hh_sh.png" group-title="Haupt;Unterhaltung",RTL HH SH
+#EXTINF:-1 tvg-id="RTL Television" tvg-name="RTL Television" tvg-logo="https://tv.avm.de/tvapp/logos/rtl.png" group-title="Haupt;Unterhaltung",RTL Television
 #EXTVLCOPT:network-caching=2000
-rtsp://192.168.11.251:554/?avm=1&freq=746&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,32,163,105,108,111,112,104,110
+rtsp://192.168.11.251:554/?avm=1&freq=682&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3811,163,104,108,105,106,110,111,112
 #EXTINF:-1 tvg-id="RTLZWEI" tvg-name="RTLZWEI" tvg-logo="https://tv.avm.de/tvapp/logos/rtl2.png" group-title="Haupt;Unterhaltung",RTLZWEI
 #EXTVLCOPT:network-caching=2000
 rtsp://192.168.11.251:554/?avm=1&freq=682&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3828,166,128,69,68,75,271,272
@@ -86,7 +86,7 @@ rtsp://192.168.11.251:554/?avm=1&freq=306&bw=8&msys=dvbc&mtype=256qam&sr=6900&sp
 #EXTINF:-1 tvg-id="TELE 5" tvg-name="TELE 5" tvg-logo="https://tv.avm.de/tvapp/logos/tele5.png" group-title="Haupt;Unterhaltung",TELE 5
 #EXTVLCOPT:network-caching=2000
 rtsp://192.168.11.251:554/?avm=1&freq=690&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,51,1535,38,54,1536,1541,1542,1543
-#EXTINF:-1 tvg-id="sixx" tvg-name="sixx" tvg-logo="https://tv.avm.de/tvapp/logos/sixx.pnxx
+#EXTINF:-1 tvg-id="sixx" tvg-name="sixx" tvg-logo="https://tv.avm.de/tvapp/logos/sixx.png" group-title="Haupt;Unterhaltung",sixx
 #EXTVLCOPT:network-caching=2000
 rtsp://192.168.11.251:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,776,767,35,768,773
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://tv.avm.de/tvapp/logos/comedy_central.png" group-title="Haupt;Unterhaltung",Comedy Central
@@ -134,7 +134,7 @@ rtsp://192.168.11.251:554/?avm=1&freq=746&bw=8&msys=dvbc&mtype=256qam&sr=6900&sp
 #EXTINF:-1 tvg-id="SUPER RTL" tvg-name="SUPER RTL" tvg-logo="https://tv.avm.de/tvapp/logos/superrtl.png" group-title="Haupt;Kinder",SUPER RTL
 #EXTVLCOPT:network-caching=2000
 rtsp://192.168.11.251:554/?avm=1&freq=682&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3848,165,120,67,65,66,311,312
-#EXTINF:-1 tvg-id="Nick/Comedy Central+1" tvg-name="Nick/Comedy Central+1" tvg-logo="https://tv.avm.de/tvapp/logos/nick_comedy_central+1.png" group-title="Kinder",Nick/Comedy Central+1
+#EXTINF:-1 tvg-id="Nick/Comedy Central+1" tvg-name="Nick/Comedy Central+1" tvg-logo="https://tv.avm.de/tvapp/logos/nick_comedy_central.png" group-title="Kinder",Nick/Comedy Central+1
 #EXTVLCOPT:network-caching=2000
 rtsp://192.168.11.251:554/?avm=1&freq=754&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4104,4101,4102,4103,4106,4109
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://tv.avm.de/tvapp/logos/disney_channel.png" group-title="Kinder",Disney Channel
@@ -194,7 +194,7 @@ rtsp://192.168.11.251:554/?avm=1&freq=778&bw=8&msys=dvbc&mtype=256qam&sr=6900&sp
 #EXTINF:-1 tvg-id="EBS+HD" tvg-name="EBS+HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/ebs+hd.png" group-title="News International",EBS+HD
 #EXTVLCOPT:network-caching=2000
 rtsp://192.168.11.251:554/?avm=1&freq=778&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,433,400,401,402,403,404,405,406,407,408,409,410,411,412,413,414,415,416,417,418,419,420,421,422,423,424,425,426,427,428,429,430,432
-#EXTINF:-1 tvg-id="BBC World News Europe HD" tvg-name="BBC World News Europe HD" tvg-logo="https://tv.avm.de/tvapp/logos/bbc_world_news_europe_hd.png" group-title="News International",BBC World News Europe HD
+#EXTINF:-1 tvg-id="BBC World News Europe HD" tvg-name="BBC World News Europe HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/bbc_world_news_hd.png" group-title="News International",BBC World News Europe HD
 #EXTVLCOPT:network-caching=2000
 rtsp://192.168.11.251:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5001,2091,2092
 #EXTINF:-1 tvg-id="CNN Int." tvg-name="CNN Int." tvg-logo="https://tv.avm.de/tvapp/logos/cnn.png" group-title="News International",CNN Int.
@@ -215,7 +215,7 @@ rtsp://192.168.11.251:554/?avm=1&freq=130&bw=8&msys=dvbc&mtype=256qam&sr=6900&sp
 #EXTINF:-1 tvg-id="Al Jazeera English HD" tvg-name="Al Jazeera English HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/al_jazeera_english_hd.png" group-title="News International",Al Jazeera English HD
 #EXTVLCOPT:network-caching=2000
 rtsp://192.168.11.251:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5031,3101,3102,3103
-#EXTINF:-1 tvg-id="AL Arabia HD" tvg-name="AL Arabia HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/al_arabia_hd.png" group-title="News International",AL Arabia HD
+#EXTINF:-1 tvg-id="AL Arabia HD" tvg-name="AL Arabia HD" tvg-logo="https://tv.avm.de/tvapp/logos/al_arabia.png" group-title="News International",AL Arabia HD
 #EXTVLCOPT:network-caching=2000
 rtsp://192.168.11.251:554/?avm=1&freq=754&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1321,515,643,654
 #EXTINF:-1 tvg-id="Sky News Arabia" tvg-name="Sky News Arabia" tvg-logo="https://tv.avm.de/tvapp/logos/hd/sky_news_arabia.png" group-title="News International",Sky News Arabia
@@ -242,7 +242,7 @@ rtsp://192.168.11.251:554/?avm=1&freq=690&bw=8&msys=dvbc&mtype=256qam&sr=6900&sp
 
 
 
-#EXTINF:-1 tvg-id="TV5MONDE EUROPE HD" tvg-name="TV5MONDE EUROPE HD" tvg-logo="https://tv.avm.de/tvapp/logos/tv5monde_europe_hd.png" group-title="Ausland",TV5MONDE EUROPE HD
+#EXTINF:-1 tvg-id="TV5MONDE EUROPE HD" tvg-name="TV5MONDE EUROPE HD" tvg-logo="https://tv.avm.de/tvapp/logos/tv5monde.png" group-title="Ausland",TV5MONDE EUROPE HD
 #EXTVLCOPT:network-caching=2000
 rtsp://192.168.11.251:554/?avm=1&freq=138&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6915,615,635,835,935,936,937,938,939,940,942
 #EXTINF:-1 tvg-id="TVT International" tvg-name="TVT International" tvg-logo="https://tv.avm.de/tvapp/logos/tvt_international.png" group-title="Ausland",TVT International
@@ -254,16 +254,16 @@ rtsp://192.168.11.251:554/?avm=1&freq=778&bw=8&msys=dvbc&mtype=256qam&sr=6900&sp
 #EXTINF:-1 tvg-id="ORTB TV" tvg-name="ORTB TV" tvg-logo="https://tv.avm.de/tvapp/logos/ortb_tv.png" group-title="Ausland",ORTB TV
 #EXTVLCOPT:network-caching=2000
 rtsp://192.168.11.251:554/?avm=1&freq=778&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1160,1161,1162
-#EXTINF:-1 tvg-id="RTI1" tvg-name="RTI1" tvg-logo="https://tv.avm.de/tvapp/logos/rti1.png" group-title="Ausland",RTI1
+#EXTINF:-1 tvg-id="RTI1" tvg-name="RTI1" tvg-logo="https://tv.avm.de/tvapp/logos/rti.png" group-title="Ausland",RTI1
 #EXTVLCOPT:network-caching=2000
 rtsp://192.168.11.251:554/?avm=1&freq=778&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,153
-#EXTINF:-1 tvg-id="TFM Senegal" tvg-name="TFM Senegal" tvg-logo="https://tv.avm.de/tvapp/logos/tfm_senegal.png" group-title="Ausland",TFM Senegal
+#EXTINF:-1 tvg-id="TFM Senegal" tvg-name="TFM Senegal" tvg-logo="https://tv.avm.de/tvapp/logos/tfm.png" group-title="Ausland",TFM Senegal
 #EXTVLCOPT:network-caching=2000
 rtsp://192.168.11.251:554/?avm=1&freq=778&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1010,1011,1012
 #EXTINF:-1 tvg-id="AL SHARJAH HD" tvg-name="AL SHARJAH HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/al_sharjah_hd.png" group-title="Ausland",AL SHARJAH HD
 #EXTVLCOPT:network-caching=2000
 rtsp://192.168.11.251:554/?avm=1&freq=754&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1312,4341,4342
-#EXTINF:-1 tvg-id="ABUDHABI TV HD" tvg-name="ABUDHABI TV HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/abudhabi_tv_hd.png" group-title="Ausland",ABUDHABI TV HD
+#EXTINF:-1 tvg-id="ABUDHABI TV HD" tvg-name="ABUDHABI TV HD" tvg-logo="https://tv.avm.de/tvapp/logos/abu_dhabi_tv.png" group-title="Ausland",ABUDHABI TV HD
 #EXTVLCOPT:network-caching=2000
 rtsp://192.168.11.251:554/?avm=1&freq=754&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1315,4371,4372,4373
 #EXTINF:-1 tvg-id="AL SHARQIYA HD" tvg-name="AL SHARQIYA HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/al_sharqiya_hd.png" group-title="Ausland",AL SHARQIYA HD

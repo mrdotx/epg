@@ -140,15 +140,15 @@ rtsp://192.168.11.251:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&sp
 
 
 
-#EXTINF:-1 tvg-id="SAT.1" tvg-name="SAT.1" tvg-logo="https://tv.avm.de/tvapp/logos/sat1.png" group-title="Haupt;Unterhaltung",SAT.1
+#EXTINF:-1 tvg-id="SAT.1 HH/SH" tvg-name="SAT.1 HH/SH" tvg-logo="https://tv.avm.de/tvapp/logos/sat1_hh_sh.png" group-title="Haupt;Unterhaltung",SAT.1 HH/SH
 #EXTVLCOPT:network-caching=2000
-rtsp://192.168.11.251:554/?avm=1&freq=714&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1116,255,32,256,259,261
+rtsp://192.168.11.251:554/?avm=1&freq=746&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3624,2047,40,2048,2051,2053
 #EXTINF:-1 tvg-id="SAT.1 NS/Bremen" tvg-name="SAT.1 NS/Bremen" tvg-logo="https://tv.avm.de/tvapp/logos/sat1_ns_bremen.png" group-title="Haupt;Unterhaltung",SAT.1 NS/Bremen
 #EXTVLCOPT:network-caching=2000
 rtsp://192.168.11.251:554/?avm=1&freq=746&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3625,2047,40,2053,2054,2055,2048,2051
-#EXTINF:-1 tvg-id="RTL Television" tvg-name="RTL Television" tvg-logo="https://tv.avm.de/tvapp/logos/rtl.png" group-title="Haupt;Unterhaltung",RTL Television
+#EXTINF:-1 tvg-id="RTL HH SH" tvg-name="RTL HH SH" tvg-logo="https://tv.avm.de/tvapp/logos/rtl_hh_sh.png" group-title="Haupt;Unterhaltung",RTL HH SH
 #EXTVLCOPT:network-caching=2000
-rtsp://192.168.11.251:554/?avm=1&freq=682&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3811,163,104,108,105,106,110,111,112
+rtsp://192.168.11.251:554/?avm=1&freq=746&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,32,163,105,108,111,112,104,110
 #EXTINF:-1 tvg-id="RTL HB NDS" tvg-name="RTL HB NDS" tvg-logo="https://tv.avm.de/tvapp/logos/rtl.png" group-title="Haupt;Unterhaltung",RTL HB NDS
 #EXTVLCOPT:network-caching=2000
 rtsp://192.168.11.251:554/?avm=1&freq=682&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3813,163,105,108,111,112,104,110
@@ -173,7 +173,7 @@ rtsp://192.168.11.251:554/?avm=1&freq=794&bw=8&msys=dvbc&mtype=256qam&sr=6900&sp
 
 
 
-#EXTINF:-1 tvg-id="Nick/Comedy Central+1" tvg-name="Nick/Comedy Central+1" tvg-logo="https://tv.avm.de/tvapp/logos/nick_comedy_central+1.png" group-title="Kinder",Nick/Comedy Central+1
+#EXTINF:-1 tvg-id="Nick/Comedy Central+1" tvg-name="Nick/Comedy Central+1" tvg-logo="https://tv.avm.de/tvapp/logos/nick_comedy_central.png" group-title="Kinder",Nick/Comedy Central+1
 #EXTVLCOPT:network-caching=2000
 rtsp://192.168.11.251:554/?avm=1&freq=378&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,420,4101,4102,4103,4105,4109
 #EXTINF:-1 tvg-id="KiKA" tvg-name="KiKA" tvg-logo="https://tv.avm.de/tvapp/logos/kika.png" group-title="Kinder",KiKA
