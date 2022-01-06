@@ -155,9 +155,6 @@ rtsp://192.168.11.251:554/?avm=1&freq=730&bw=8&msys=dvbc&mtype=256qam&sr=6900&sp
 #EXTINF:-1 tvg-id="ntv" tvg-name="ntv" tvg-logo="https://tv.avm.de/tvapp/logos/ntv.png" group-title="News|Dokus|Kultur",ntv
 #EXTVLCOPT:network-caching=2000
 rtsp://192.168.11.251:554/?avm=1&freq=682&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3898,169,73,77,490,80,261,262
-#EXTINF:-1 tvg-id="EURONEWS FRENCH SD" tvg-name="EURONEWS FRENCH SD" tvg-logo="https://tv.avm.de/tvapp/logos/euronews_french_sd.png" group-title="News|Dokus|Kultur",EURONEWS FRENCH SD
-#EXTVLCOPT:network-caching=2000
-rtsp://192.168.11.251:554/?avm=1&freq=746&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6644,2432,2435
 #EXTINF:-1 tvg-id="WELT" tvg-name="WELT" tvg-logo="https://tv.avm.de/tvapp/logos/welt.png" group-title="News|Dokus|Kultur",WELT
 #EXTVLCOPT:network-caching=2000
 rtsp://192.168.11.251:554/?avm=1&freq=714&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1119,1023,35,1024,1029
@@ -203,15 +200,18 @@ rtsp://192.168.11.251:554/?avm=1&freq=130&bw=8&msys=dvbc&mtype=256qam&sr=6900&sp
 #EXTINF:-1 tvg-id="CNBC HD" tvg-name="CNBC HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/cnbc_hd.png" group-title="News International",CNBC HD
 #EXTVLCOPT:network-caching=2000
 rtsp://192.168.11.251:554/?avm=1&freq=738&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,105,2559,2563
+#EXTINF:-1 tvg-id="Bloomberg Europe TV" tvg-name="Bloomberg Europe TV" tvg-logo="https://tv.avm.de/tvapp/logos/bloomberg_europe_tv.png" group-title="News International",Bloomberg Europe TV
+#EXTVLCOPT:network-caching=2000
+rtsp://192.168.11.251:554/?avm=1&freq=130&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1875,1360,1320
 #EXTINF:-1 tvg-id="France 24 (In English)" tvg-name="France 24 (In English)" tvg-logo="https://tv.avm.de/tvapp/logos/france_24_(in_english).png" group-title="News International",France 24 (In English)
 #EXTVLCOPT:network-caching=2000
 rtsp://192.168.11.251:554/?avm=1&freq=138&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6906,606,626,1002,6702
 #EXTINF:-1 tvg-id="France 24 (en Francais)" tvg-name="France 24 (en Francais)" tvg-logo="https://tv.avm.de/tvapp/logos/france_24_(en_francais).png" group-title="News International",France 24 (en Francais)
 #EXTVLCOPT:network-caching=2000
 rtsp://192.168.11.251:554/?avm=1&freq=138&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6905,605,625,1001,6701
-#EXTINF:-1 tvg-id="Bloomberg Europe TV" tvg-name="Bloomberg Europe TV" tvg-logo="https://tv.avm.de/tvapp/logos/bloomberg_europe_tv.png" group-title="News International",Bloomberg Europe TV
+#EXTINF:-1 tvg-id="EURONEWS FRENCH SD" tvg-name="EURONEWS FRENCH SD" tvg-logo="https://tv.avm.de/tvapp/logos/euronews_french_sd.png" group-title="News|Dokus|Kultur",EURONEWS FRENCH SD
 #EXTVLCOPT:network-caching=2000
-rtsp://192.168.11.251:554/?avm=1&freq=130&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1875,1360,1320
+rtsp://192.168.11.251:554/?avm=1&freq=746&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6644,2432,2435
 #EXTINF:-1 tvg-id="Al Jazeera English HD" tvg-name="Al Jazeera English HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/al_jazeera_english_hd.png" group-title="News International",Al Jazeera English HD
 #EXTVLCOPT:network-caching=2000
 rtsp://192.168.11.251:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5031,3101,3102,3103
