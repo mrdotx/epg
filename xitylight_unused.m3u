@@ -42,15 +42,15 @@ rtsp://192.168.11.251:554/?avm=1&freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&sp
 #EXTINF:-1 tvg-id="MDR S-Anhalt HD" tvg-name="MDR S-Anhalt HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/mdr_hd.png" group-title="Öffentlich",MDR S-Anhalt HD
 #EXTVLCOPT:network-caching=2000
 rtsp://192.168.11.251:554/?avm=1&freq=722&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2161,5331,5332,5333,5334,5336,2171,2876,3670,3672,5335
-#EXTINF:-1 tvg-id="MDR Thüringen HD" tvg-name="MDR Thüringen HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/mdr_hd.png" group-title="Öffentlich",MDR Thüringen HD
+#EXTINF:-1 tvg-id="MDR Sachsen HD" tvg-name="MDR Sachsen HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/mdr_hd.png" group-title="Öffentlich",MDR Sachsen HD
 #EXTVLCOPT:network-caching=2000
-rtsp://192.168.11.251:554/?avm=1&freq=722&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2162,5331,2171,2876,3670,3672,5332,5333,5334,5336,5335
-#EXTINF:-1 tvg-id="MDR Sachsen" tvg-name="MDR Sachsen" tvg-logo="https://tv.avm.de/tvapp/logos/mdr.png" group-title="Öffentlich",MDR Sachsen
-#EXTVLCOPT:network-caching=2000
-rtsp://192.168.11.251:554/?avm=1&freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3652,2901,2171,2870,2876,2902,2903,2904,2905
+rtsp://192.168.11.251:554/?avm=1&freq=722&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2160,5331,2171,2876,3670,3672,5332,5333,5334,5336,5335
 #EXTINF:-1 tvg-id="MDR S-Anhalt" tvg-name="MDR S-Anhalt" tvg-logo="https://tv.avm.de/tvapp/logos/mdr_sanhalt.png" group-title="Öffentlich",MDR S-Anhalt
 #EXTVLCOPT:network-caching=2000
 rtsp://192.168.11.251:554/?avm=1&freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3653,2901,2902,2903,2904,2171,2870,2876,2905
+#EXTINF:-1 tvg-id="MDR Sachsen" tvg-name="MDR Sachsen" tvg-logo="https://tv.avm.de/tvapp/logos/mdr.png" group-title="Öffentlich",MDR Sachsen
+#EXTVLCOPT:network-caching=2000
+rtsp://192.168.11.251:554/?avm=1&freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3652,2901,2171,2870,2876,2902,2903,2904,2905
 #EXTINF:-1 tvg-id="MDR Thüringen" tvg-name="MDR Thüringen" tvg-logo="https://tv.avm.de/tvapp/logos/mdr.png" group-title="Öffentlich",MDR Thüringen
 #EXTVLCOPT:network-caching=2000
 rtsp://192.168.11.251:554/?avm=1&freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3654,2901,2171,2870,2876,2902,2903,2904,2905
@@ -120,9 +120,9 @@ rtsp://192.168.11.251:554/?avm=1&freq=362&bw=8&msys=dvbc&mtype=256qam&sr=6900&sp
 #EXTVLCOPT:network-caching=2000
 rtsp://192.168.11.251:554/?avm=1&freq=362&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3819,501,502,504,2171,2370,2376,503,505
 
-#EXTINF:-1 tvg-id="SWR BW HD" tvg-name="SWR BW HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/swr_hd.png" group-title="Öffentlich",SWR BW HD
+#EXTINF:-1 tvg-id="SWR RP HD" tvg-name="SWR RP HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/swr_hd.png" group-title="Öffentlich",SWR RP HD
 #EXTVLCOPT:network-caching=2000
-rtsp://192.168.11.251:554/?avm=1&freq=698&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2111,5121,5122,5123,5124,5126,1370,2171,2476,5125,5174
+rtsp://192.168.11.251:554/?avm=1&freq=698&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2112,5121,5134,1371,2171,2476,5135,5176,5122,5123,5126
 #EXTINF:-1 tvg-id="SWR Fernsehen BW" tvg-name="SWR Fernsehen BW" tvg-logo="https://tv.avm.de/tvapp/logos/swr.png" group-title="Öffentlich",SWR Fernsehen BW
 #EXTVLCOPT:network-caching=2000
 rtsp://192.168.11.251:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3537,801,802,803,804,806,1270,2171,2476

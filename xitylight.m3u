@@ -11,18 +11,18 @@ rtsp://192.168.11.251:554/?avm=1&freq=706&bw=8&msys=dvbc&mtype=256qam&sr=6900&sp
 #EXTINF:-1 tvg-id="rbb Berlin HD" tvg-name="rbb Berlin HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/rbb_hd.png" group-title="Öffentlich",rbb Berlin HD
 #EXTVLCOPT:network-caching=2000
 rtsp://192.168.11.251:554/?avm=1&freq=722&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2159,5311,5312,5313,5314,5316,2171,2176,3770,3772,5315
-#EXTINF:-1 tvg-id="MDR Sachsen HD" tvg-name="MDR Sachsen HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/mdr_hd.png" group-title="Öffentlich",MDR Sachsen HD
+#EXTINF:-1 tvg-id="MDR Thüringen HD" tvg-name="MDR Thüringen HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/mdr_hd.png" group-title="Öffentlich",MDR Thüringen HD
 #EXTVLCOPT:network-caching=2000
-rtsp://192.168.11.251:554/?avm=1&freq=722&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2160,5331,2171,2876,3670,3672,5332,5333,5334,5336,5335
+rtsp://192.168.11.251:554/?avm=1&freq=722&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2162,5331,2171,2876,3670,3672,5332,5333,5334,5336,5335
 #EXTINF:-1 tvg-id="BR Fernsehen Süd HD" tvg-name="BR Fernsehen Süd HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/br_hd.png" group-title="Öffentlich",BR Fernsehen Süd HD
 #EXTVLCOPT:network-caching=2000
 rtsp://192.168.11.251:554/?avm=1&freq=706&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2133,5201,5202,5203,5204,5206,1076,1570,2171,5205,5209,5275
 #EXTINF:-1 tvg-id="WDR HD Köln" tvg-name="WDR HD Köln" tvg-logo="https://tv.avm.de/tvapp/logos/hd/wdr_hd.png" group-title="Öffentlich",WDR HD Köln
 #EXTVLCOPT:network-caching=2000
 rtsp://192.168.11.251:554/?avm=1&freq=362&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3756,101,102,103,104,106,2172,2372,2378,2379,105
-#EXTINF:-1 tvg-id="SWR RP HD" tvg-name="SWR RP HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/swr_hd.png" group-title="Öffentlich",SWR RP HD
+#EXTINF:-1 tvg-id="SWR BW HD" tvg-name="SWR BW HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/swr_hd.png" group-title="Öffentlich",SWR BW HD
 #EXTVLCOPT:network-caching=2000
-rtsp://192.168.11.251:554/?avm=1&freq=698&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2112,5121,5134,1371,2171,2476,5135,5176,5122,5123,5126
+rtsp://192.168.11.251:554/?avm=1&freq=698&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2111,5121,5122,5123,5124,5126,1370,2171,2476,5125,5174
 #EXTINF:-1 tvg-id="SR Fernsehen HD" tvg-name="SR Fernsehen HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/sr_hd.png" group-title="Öffentlich",SR Fernsehen HD
 #EXTVLCOPT:network-caching=2000
 rtsp://192.168.11.251:554/?avm=1&freq=730&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2186,5431,5432,5433,5434,5436,2171,2976,4370,4372,5435
