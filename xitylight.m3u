@@ -62,7 +62,7 @@ rtsp://192.168.11.251:554/?avm=1&freq=682&bw=8&msys=dvbc&mtype=256qam&sr=6900&sp
 #EXTINF:-1 tvg-id="RTLZWEI" tvg-name="RTLZWEI" tvg-logo="https://tv.avm.de/tvapp/logos/rtl2.png" group-title="Haupt;Unterhaltung",RTLZWEI
 #EXTVLCOPT:network-caching=2000
 rtsp://192.168.11.251:554/?avm=1&freq=682&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3828,166,128,69,68,75,271,272
-#EXTINF:-1 tvg-id="RTLup" tvg-name="RTLup" tvg-logo="https://tv.avm.de/tvapp/logos/rtlup.png" group-title="Haupt;Unterhaltung",RTLplus
+#EXTINF:-1 tvg-id="RTLup" tvg-name="RTLup" tvg-logo="https://tv.avm.de/tvapp/logos/rtlup.png" group-title="Haupt;Unterhaltung",RTLup
 #EXTVLCOPT:network-caching=2000
 rtsp://192.168.11.251:554/?avm=1&freq=682&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3888,168,70,137,290,291,292
 #EXTINF:-1 tvg-id="NITRO" tvg-name="NITRO" tvg-logo="https://tv.avm.de/tvapp/logos/nitro.png" group-title="Haupt;Unterhaltung",NITRO
