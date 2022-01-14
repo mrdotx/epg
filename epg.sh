@@ -3,7 +3,7 @@
 # path:   /home/klassiker/.local/share/repos/epg/epg.sh
 # author: klassiker [mrdotx]
 # github: https://github.com/mrdotx/epg
-# date:   2022-01-12T10:00:16+0100
+# date:   2022-01-14T14:03:09+0100
 
 source_file="$HOME/wg++/guide.xml"
 destination_file="/srv/http/epg/epg.xml"
@@ -23,10 +23,10 @@ copy_to() {
 }
 
 case $host_name in
-    hermes)
-        copy_to "prometheus"
+    pi)
+        copy_to "pi2"
         ;;
-    prometheus)
-        copy_to "hermes"
+    pi2)
+        copy_to "pi"
         ;;
 esac
