@@ -140,6 +140,9 @@ rtsp://10.10.10.9:554/?avm=1&freq=786&bw=8&msys=dvbc&mtype=256qam&sr=6900&specin
 #EXTINF:-1 tvg-id="TOGGO plus" tvg-name="TOGGO plus" tvg-logo="https://tv.avm.de/tvapp/logos/toggo_plus.png" group-title="Kinder",TOGGO plus
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=682&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3838,301,303,360
+#EXTINF:-1 tvg-id="Nickelodeon Ukraine Pluto TV" tvg-name="Nickelodeon Ukraine Pluto TV" tvg-logo="https://tv.avm.de/tvapp/logos/nickelodeon_ukraine_pluto_tv.png" group-title="Kinder",Nickelodeon Ukraine Pluto TV
+#EXTVLCOPT:network-caching=2000
+rtsp://10.10.10.9:554/?avm=1&freq=378&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,410,4011,4012
 
 
 
@@ -203,15 +206,12 @@ rtsp://10.10.10.9:554/?avm=1&freq=138&bw=8&msys=dvbc&mtype=256qam&sr=6900&specin
 #EXTINF:-1 tvg-id="France 24 (en Francais)" tvg-name="France 24 (en Francais)" tvg-logo="https://tv.avm.de/tvapp/logos/france_24_(en_francais).png" group-title="News International",France 24 (en Francais)
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=138&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6905,605,625,1001,6701
-#EXTINF:-1 tvg-id="EURONEWS FRENCH" tvg-name="EURONEWS FRENCH" tvg-logo="https://tv.avm.de/tvapp/logos/euronews_french_sd.png" group-title="News|Dokus|Kultur",EURONEWS FRENCH
+#EXTINF:-1 tvg-id="EURONEWS FRENCH" tvg-name="EURONEWS FRENCH" tvg-logo="https://tv.avm.de/tvapp/logos/euronews_french_sd.png" group-title="News International",EURONEWS FRENCH
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=746&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6644,2432,2435
-#EXTINF:-1 tvg-id="Ukraine 24 HD" tvg-name="Ukraine 24 HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/ukraine_24_hd.png" group-title="News|Dokus|Kultur",Ukraine 24 HD
+#EXTINF:-1 tvg-id="Ukraine 24 HD" tvg-name="Ukraine 24 HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/ukraine_24_hd.png" group-title="News International",Ukraine 24 HD
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1221,1224,1225
-#EXTINF:-1 tvg-id="Nickelodeon Ukraine Pluto TV" tvg-name="Nickelodeon Ukraine Pluto TV" tvg-logo="https://tv.avm.de/tvapp/logos/nickelodeon_ukraine_pluto_tv.png" group-title="News|Dokus|Kultur",Nickelodeon Ukraine Pluto TV
-#EXTVLCOPT:network-caching=2000
-rtsp://10.10.10.9:554/?avm=1&freq=378&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,410,4011,4012
 #EXTINF:-1 tvg-id="Al Jazeera English HD" tvg-name="Al Jazeera English HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/al_jazeera_english_hd.png" group-title="News International",Al Jazeera English HD
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5031,3101,3102,3103
