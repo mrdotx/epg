@@ -10,16 +10,16 @@ rtsp://10.10.10.9:554/?avm=1&freq=346&bw=8&msys=dvbc&mtype=256qam&sr=6900&specin
 rtsp://10.10.10.9:554/?avm=1&freq=706&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2138,5221,5224,1770,2171,2676,5255,5273,5222,5223,5226
 #EXTINF:-1 tvg-id="rbb Berlin HD" tvg-name="rbb Berlin HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/rbb_hd.png" group-title="Öffentlich",rbb Berlin HD
 #EXTVLCOPT:network-caching=2000
-rtsp://10.10.10.9:554/?avm=1&freq=722&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2159,5311,5312,5313,5314,5316,2171,2176,3770,3772,5315
+rtsp://10.10.10.9:554/?avm=1&freq=722&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2159,5311,5312,5313,5314,5316,2171,2176,3770,3772,5315,5317
 #EXTINF:-1 tvg-id="MDR Thüringen HD" tvg-name="MDR Thüringen HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/mdr_hd.png" group-title="Öffentlich",MDR Thüringen HD
 #EXTVLCOPT:network-caching=2000
-rtsp://10.10.10.9:554/?avm=1&freq=722&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2162,5331,2171,2876,3670,3672,5332,5333,5334,5336,5335
+rtsp://10.10.10.9:554/?avm=1&freq=722&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2162,5341,2171,2876,3670,3672,5342,5343,5344,5346,5345
 #EXTINF:-1 tvg-id="BR Fernsehen Süd HD" tvg-name="BR Fernsehen Süd HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/br_hd.png" group-title="Öffentlich",BR Fernsehen Süd HD
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=706&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2133,5201,5202,5203,5204,5206,1076,1570,2171,5205,5209,5275
 #EXTINF:-1 tvg-id="WDR HD Köln" tvg-name="WDR HD Köln" tvg-logo="https://tv.avm.de/tvapp/logos/hd/wdr_hd.png" group-title="Öffentlich",WDR HD Köln
 #EXTVLCOPT:network-caching=2000
-rtsp://10.10.10.9:554/?avm=1&freq=362&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3756,101,102,103,104,106,2172,2372,2378,2379,105
+rtsp://10.10.10.9:554/?avm=1&freq=362&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3756,101,102,103,107,104,106,105,2172,2372,2378,2379
 #EXTINF:-1 tvg-id="SWR BW HD" tvg-name="SWR BW HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/swr_hd.png" group-title="Öffentlich",SWR BW HD
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=698&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2111,5121,5122,5123,5124,5126,1370,2171,2476,5125,5174
@@ -32,15 +32,9 @@ rtsp://10.10.10.9:554/?avm=1&freq=722&bw=8&msys=dvbc&mtype=256qam&sr=6900&specin
 #EXTINF:-1 tvg-id="3sat HD" tvg-name="3sat HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/3sat_hd.png" group-title="Öffentlich",3sat HD
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=786&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2958,6510,6520,6521,6522,6523,6530,6531,6570
-#EXTINF:-1 tvg-id="Hamburg 1" tvg-name="Hamburg 1" tvg-logo="https://tv.avm.de/tvapp/logos/hamburg_1.png" group-title="Öffentlich",Hamburg 1
-#EXTVLCOPT:network-caching=2000
-rtsp://10.10.10.9:554/?avm=1&freq=746&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2688,2689,2690,2695,2696
 #EXTINF:-1 tvg-id="Radio Bremen TV" tvg-name="Radio Bremen TV" tvg-logo="https://tv.avm.de/tvapp/logos/radio_bremen_tv.png" group-title="Öffentlich",Radio Bremen TV
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=362&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3809,1201,1202,1204,2171,2570,2576
-#EXTINF:-1 tvg-id="rhein main tv" tvg-name="rhein main tv" tvg-logo="https://tv.avm.de/tvapp/logos/rhein_main_tv.png" group-title="Öffentlich",rhein main tv
-#EXTVLCOPT:network-caching=2000
-rtsp://10.10.10.9:554/?avm=1&freq=746&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4422,208,308,608
 #EXTINF:-1 tvg-id="L-TV" tvg-name="L-TV" tvg-logo="https://tv.avm.de/tvapp/logos/ltv.png" group-title="Öffentlich",L-TV
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4921,2130,2131,2139
@@ -58,16 +52,16 @@ rtsp://10.10.10.9:554/?avm=1&freq=714&bw=8&msys=dvbc&mtype=256qam&sr=6900&specin
 rtsp://10.10.10.9:554/?avm=1&freq=714&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1120,1279,36,1280,1285
 #EXTINF:-1 tvg-id="RTL Television" tvg-name="RTL Television" tvg-logo="https://tv.avm.de/tvapp/logos/rtl.png" group-title="Haupt;Unterhaltung",RTL Television
 #EXTVLCOPT:network-caching=2000
-rtsp://10.10.10.9:554/?avm=1&freq=682&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3811,163,104,108,105,106,110,111,112
+rtsp://10.10.10.9:554/?avm=1&freq=682&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3811,163,104,108,105,106,110,112,113
 #EXTINF:-1 tvg-id="RTLZWEI" tvg-name="RTLZWEI" tvg-logo="https://tv.avm.de/tvapp/logos/rtl2.png" group-title="Haupt;Unterhaltung",RTLZWEI
 #EXTVLCOPT:network-caching=2000
-rtsp://10.10.10.9:554/?avm=1&freq=682&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3828,166,128,69,68,75,271,272
+rtsp://10.10.10.9:554/?avm=1&freq=682&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3828,166,128,69,68,272,273,75
 #EXTINF:-1 tvg-id="RTLup" tvg-name="RTLup" tvg-logo="https://tv.avm.de/tvapp/logos/rtlup.png" group-title="Haupt;Unterhaltung",RTLup
 #EXTVLCOPT:network-caching=2000
-rtsp://10.10.10.9:554/?avm=1&freq=682&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3888,168,70,137,290,291,292
+rtsp://10.10.10.9:554/?avm=1&freq=682&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3888,168,70,137,290,292,293
 #EXTINF:-1 tvg-id="NITRO" tvg-name="NITRO" tvg-logo="https://tv.avm.de/tvapp/logos/nitro.png" group-title="Haupt;Unterhaltung",NITRO
 #EXTVLCOPT:network-caching=2000
-rtsp://10.10.10.9:554/?avm=1&freq=682&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3869,173,146,85,84,86,281,282
+rtsp://10.10.10.9:554/?avm=1&freq=682&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3869,173,146,85,84,86,282,283
 #EXTINF:-1 tvg-id="ProSieben" tvg-name="ProSieben" tvg-logo="https://tv.avm.de/tvapp/logos/pro7.png" group-title="Haupt;Unterhaltung",ProSieben
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=714&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1117,511,33,512,515,517
@@ -79,10 +73,10 @@ rtsp://10.10.10.9:554/?avm=1&freq=714&bw=8&msys=dvbc&mtype=256qam&sr=6900&specin
 rtsp://10.10.10.9:554/?avm=1&freq=714&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1118,767,34,768,773
 #EXTINF:-1 tvg-id="VOX" tvg-name="VOX" tvg-logo="https://tv.avm.de/tvapp/logos/vox.png" group-title="Haupt;Unterhaltung",VOX
 #EXTVLCOPT:network-caching=2000
-rtsp://10.10.10.9:554/?avm=1&freq=682&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3868,167,136,72,71,74,251,252
-#EXTINF:-1 tvg-id="VOXup SD" tvg-name="VOXup SD" tvg-logo="https://tv.avm.de/tvapp/logos/voxup_sd.png" group-title="Haupt;Unterhaltung",VOXup SD
+rtsp://10.10.10.9:554/?avm=1&freq=682&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3868,167,136,72,71,74,252,253
+#EXTINF:-1 tvg-id="VOXup" tvg-name="VOXup" tvg-logo="https://tv.avm.de/tvapp/logos/voxup_sd.png" group-title="Haupt;Unterhaltung",VOXup
 #EXTVLCOPT:network-caching=2000
-rtsp://10.10.10.9:554/?avm=1&freq=306&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2800,2801,2802,2803,2804,2805,2806
+rtsp://10.10.10.9:554/?avm=1&freq=306&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2800,2801,2802,2803,2804,11
 #EXTINF:-1 tvg-id="TELE 5" tvg-name="TELE 5" tvg-logo="https://tv.avm.de/tvapp/logos/tele5.png" group-title="Haupt;Unterhaltung",TELE 5
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=690&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,51,1535,38,54,1536,1541,1542,1543
@@ -91,7 +85,7 @@ rtsp://10.10.10.9:554/?avm=1&freq=690&bw=8&msys=dvbc&mtype=256qam&sr=6900&specin
 rtsp://10.10.10.9:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,776,767,35,768,773
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://tv.avm.de/tvapp/logos/comedy_central.png" group-title="Haupt;Unterhaltung",Comedy Central
 #EXTVLCOPT:network-caching=2000
-rtsp://10.10.10.9:554/?avm=1&freq=754&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4100,4061,4062,4069
+rtsp://10.10.10.9:554/?avm=1&freq=378&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,416,4061,4062,4069
 
 
 
@@ -115,7 +109,7 @@ rtsp://10.10.10.9:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specin
 rtsp://10.10.10.9:554/?avm=1&freq=130&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3930,33,34,36,109
 #EXTINF:-1 tvg-id="EWTN katholisches TV" tvg-name="EWTN katholisches TV" tvg-logo="https://tv.avm.de/tvapp/logos/ewtn_katholisches_tv.png" group-title="Sparte",EWTN katholisches TV
 #EXTVLCOPT:network-caching=2000
-rtsp://10.10.10.9:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,62,1023,1024,1029,1030
+rtsp://10.10.10.9:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,62,1023,1024
 #EXTINF:-1 tvg-id="K-TV" tvg-name="K-TV" tvg-logo="https://tv.avm.de/tvapp/logos/ktv.png" group-title="Sparte",K-TV
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=746&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4409,202,302
@@ -127,16 +121,16 @@ rtsp://10.10.10.9:554/?avm=1&freq=690&bw=8&msys=dvbc&mtype=256qam&sr=6900&specin
 rtsp://10.10.10.9:554/?avm=1&freq=746&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4408,200,300,600,500
 #EXTINF:-1 tvg-id="Lilo TV" tvg-name="Lilo TV" tvg-logo="https://tv.avm.de/tvapp/logos/lilo_tv.png" group-title="Sparte",Lilo TV
 #EXTVLCOPT:network-caching=2000
-rtsp://10.10.10.9:554/?avm=1&freq=746&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4441,233,333
+rtsp://10.10.10.9:554/?avm=1&freq=746&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4441,233,333,633
 
 
 
 #EXTINF:-1 tvg-id="SUPER RTL" tvg-name="SUPER RTL" tvg-logo="https://tv.avm.de/tvapp/logos/superrtl.png" group-title="Haupt;Kinder",SUPER RTL
 #EXTVLCOPT:network-caching=2000
-rtsp://10.10.10.9:554/?avm=1&freq=682&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3848,165,120,67,65,66,311,312
+rtsp://10.10.10.9:554/?avm=1&freq=682&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3848,165,120,67,65,66,312,313
 #EXTINF:-1 tvg-id="Nick/Comedy Central+1" tvg-name="Nick/Comedy Central+1" tvg-logo="https://tv.avm.de/tvapp/logos/nick_comedy_central.png" group-title="Kinder",Nick/Comedy Central+1
 #EXTVLCOPT:network-caching=2000
-rtsp://10.10.10.9:554/?avm=1&freq=754&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4104,4101,4102,4103,4106,4109
+rtsp://10.10.10.9:554/?avm=1&freq=378&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,420,4101,4102,4103,4105,4109
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://tv.avm.de/tvapp/logos/disney_channel.png" group-title="Kinder",Disney Channel
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1793,2047,36,2048,2051,2053
@@ -154,7 +148,7 @@ rtsp://10.10.10.9:554/?avm=1&freq=682&bw=8&msys=dvbc&mtype=256qam&sr=6900&specin
 rtsp://10.10.10.9:554/?avm=1&freq=730&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2183,5401,5402,5403,5404,5406,176,2171,3970,4072
 #EXTINF:-1 tvg-id="ntv" tvg-name="ntv" tvg-logo="https://tv.avm.de/tvapp/logos/ntv.png" group-title="News|Dokus|Kultur",ntv
 #EXTVLCOPT:network-caching=2000
-rtsp://10.10.10.9:554/?avm=1&freq=682&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3898,169,73,77,490,80,261,262
+rtsp://10.10.10.9:554/?avm=1&freq=682&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3898,169,73,77,490,80,262,263
 #EXTINF:-1 tvg-id="WELT" tvg-name="WELT" tvg-logo="https://tv.avm.de/tvapp/logos/welt.png" group-title="News|Dokus|Kultur",WELT
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=714&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1119,1023,35,1024,1029
@@ -193,7 +187,7 @@ rtsp://10.10.10.9:554/?avm=1&freq=778&bw=8&msys=dvbc&mtype=256qam&sr=6900&specin
 rtsp://10.10.10.9:554/?avm=1&freq=778&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,433,400,401,402,403,404,405,406,407,408,409,410,411,412,413,414,415,416,417,418,419,420,421,422,423,424,425,426,427,428,429,430,432
 #EXTINF:-1 tvg-id="BBC World News Europe HD" tvg-name="BBC World News Europe HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/bbc_world_news_hd.png" group-title="News International",BBC World News Europe HD
 #EXTVLCOPT:network-caching=2000
-rtsp://10.10.10.9:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5001,2091,2092
+rtsp://10.10.10.9:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5001,2091,1221,2092
 #EXTINF:-1 tvg-id="CNN Int." tvg-name="CNN Int." tvg-logo="https://tv.avm.de/tvapp/logos/cnn.png" group-title="News International",CNN Int.
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=130&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4422,169,100
@@ -209,9 +203,15 @@ rtsp://10.10.10.9:554/?avm=1&freq=138&bw=8&msys=dvbc&mtype=256qam&sr=6900&specin
 #EXTINF:-1 tvg-id="France 24 (en Francais)" tvg-name="France 24 (en Francais)" tvg-logo="https://tv.avm.de/tvapp/logos/france_24_(en_francais).png" group-title="News International",France 24 (en Francais)
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=138&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6905,605,625,1001,6701
-#EXTINF:-1 tvg-id="EURONEWS FRENCH SD" tvg-name="EURONEWS FRENCH SD" tvg-logo="https://tv.avm.de/tvapp/logos/euronews_french_sd.png" group-title="News|Dokus|Kultur",EURONEWS FRENCH SD
+#EXTINF:-1 tvg-id="EURONEWS FRENCH" tvg-name="EURONEWS FRENCH" tvg-logo="https://tv.avm.de/tvapp/logos/euronews_french_sd.png" group-title="News|Dokus|Kultur",EURONEWS FRENCH
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=746&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6644,2432,2435
+#EXTINF:-1 tvg-id="Ukraine 24 HD" tvg-name="Ukraine 24 HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/ukraine_24_hd.png" group-title="News|Dokus|Kultur",Ukraine 24 HD
+#EXTVLCOPT:network-caching=2000
+rtsp://10.10.10.9:554/?avm=1&freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1221,1224,1225
+#EXTINF:-1 tvg-id="Nickelodeon Ukraine Pluto TV" tvg-name="Nickelodeon Ukraine Pluto TV" tvg-logo="https://tv.avm.de/tvapp/logos/nickelodeon_ukraine_pluto_tv.png" group-title="News|Dokus|Kultur",Nickelodeon Ukraine Pluto TV
+#EXTVLCOPT:network-caching=2000
+rtsp://10.10.10.9:554/?avm=1&freq=378&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,410,4011,4012
 #EXTINF:-1 tvg-id="Al Jazeera English HD" tvg-name="Al Jazeera English HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/al_jazeera_english_hd.png" group-title="News International",Al Jazeera English HD
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5031,3101,3102,3103
@@ -226,10 +226,10 @@ rtsp://10.10.10.9:554/?avm=1&freq=754&bw=8&msys=dvbc&mtype=256qam&sr=6900&specin
 
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://tv.avm.de/tvapp/logos/mtv.png" group-title="Musik",MTV
 #EXTVLCOPT:network-caching=2000
-rtsp://10.10.10.9:554/?avm=1&freq=378&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,411,4011,4012,4013,4089
+rtsp://10.10.10.9:554/?avm=1&freq=378&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,418,4081,4082,4083,4089
 #EXTINF:-1 tvg-id="Deutsches Musik Fernsehen" tvg-name="Deutsches Musik Fernsehen" tvg-logo="https://tv.avm.de/tvapp/logos/dmf.png" group-title="Musik",Deutsches Musik Fernsehen
 #EXTVLCOPT:network-caching=2000
-rtsp://10.10.10.9:554/?avm=1&freq=746&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4412,53,54,604,6
+rtsp://10.10.10.9:554/?avm=1&freq=746&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4412,53,54,604,504
 
 
 
@@ -275,18 +275,18 @@ rtsp://10.10.10.9:554/?avm=1&freq=754&bw=8&msys=dvbc&mtype=256qam&sr=6900&specin
 #EXTINF:-1 tvg-id="1-2-3.tv" tvg-name="1-2-3.tv" tvg-logo="https://tv.avm.de/tvapp/logos/einszweidrei_tv.png" group-title="Einkaufen",1-2-3.tv
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,662,2815,32,2816,2821
-#EXTINF:-1 tvg-id="QVC HD" tvg-name="QVC HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/qvc_hd.png" group-title="Einkaufen",QVC HD
+#EXTINF:-1 tvg-id="QVC Deutschland" tvg-name="QVC Deutschland" tvg-logo="https://tv.avm.de/tvapp/logos/qvc_deutschland.png" group-title="Einkaufen",QVC Deutschland
 #EXTVLCOPT:network-caching=2000
-rtsp://10.10.10.9:554/?avm=1&freq=794&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4719,1023,35,1027,1029
+rtsp://10.10.10.9:554/?avm=1&freq=130&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3908,165,166,167,1029
 #EXTINF:-1 tvg-id="QVC2" tvg-name="QVC2" tvg-logo="https://tv.avm.de/tvapp/logos/qvc2.png" group-title="Einkaufen",QVC2
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=130&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3394,168,144,146,1413
 #EXTINF:-1 tvg-id="QVC STYLE" tvg-name="QVC STYLE" tvg-logo="https://tv.avm.de/tvapp/logos/qvc_style.png" group-title="Einkaufen",QVC STYLE
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,64,1791,38,1792,1797
-#EXTINF:-1 tvg-id="HSE24 HD" tvg-name="HSE24 HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/hse24_hd.png" group-title="Einkaufen",HSE24 HD
+#EXTINF:-1 tvg-id="HSE24" tvg-name="HSE24" tvg-logo="https://tv.avm.de/tvapp/logos/hse24.png" group-title="Einkaufen",HSE24
 #EXTVLCOPT:network-caching=2000
-rtsp://10.10.10.9:554/?avm=1&freq=794&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4720,1279,36,1283,1285,1286
+rtsp://10.10.10.9:554/?avm=1&freq=690&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,41,1279,37,1280,1285
 #EXTINF:-1 tvg-id="HSE24 EXTRA" tvg-name="HSE24 EXTRA" tvg-logo="https://tv.avm.de/tvapp/logos/hse24_extra.png" group-title="Einkaufen",HSE24 EXTRA
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=746&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6634,512,660,580,576
