@@ -284,13 +284,13 @@ rtsp://10.10.10.9:554/?avm=1&freq=130&bw=8&msys=dvbc&mtype=256qam&sr=6900&specin
 #EXTINF:-1 tvg-id="QVC STYLE" tvg-name="QVC STYLE" tvg-logo="https://tv.avm.de/tvapp/logos/qvc_style.png" group-title="Einkaufen",QVC STYLE
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,64,1791,38,1792,1797
-#EXTINF:-1 tvg-id="HSE24" tvg-name="HSE24" tvg-logo="https://tv.avm.de/tvapp/logos/hse24.png" group-title="Einkaufen",HSE24
+#EXTINF:-1 tvg-id="HSE" tvg-name="HSE" tvg-logo="https://tv.avm.de/tvapp/logos/hse_sd.png" group-title="Einkaufen",HSE
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=690&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,41,1279,37,1280,1285
-#EXTINF:-1 tvg-id="HSE24 EXTRA" tvg-name="HSE24 EXTRA" tvg-logo="https://tv.avm.de/tvapp/logos/hse24_extra.png" group-title="Einkaufen",HSE24 EXTRA
+#EXTINF:-1 tvg-id="HSE Extra" tvg-name="HSE Extra" tvg-logo="https://tv.avm.de/tvapp/logos/hse_extra.png" group-title="Einkaufen",HSE Extra
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=746&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6634,512,660,580,576
-#EXTINF:-1 tvg-id="HSE24 Trend" tvg-name="HSE24 Trend" tvg-logo="https://tv.avm.de/tvapp/logos/hse24_trend.png" group-title="Einkaufen",HSE24 Trend
+#EXTINF:-1 tvg-id="HSE Trend" tvg-name="HSE Trend" tvg-logo="https://tv.avm.de/tvapp/logos/hse_trend_sd.png" group-title="Einkaufen",HSE Trend
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=690&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,77,3071,37,1285,3072
 #EXTINF:-1 tvg-id="sonnenklar.TV" tvg-name="sonnenklar.TV" tvg-logo="https://tv.avm.de/tvapp/logos/sonnenklar.png" group-title="Einkaufen",sonnenklar.TV
