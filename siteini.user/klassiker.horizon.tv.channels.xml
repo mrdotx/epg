@@ -34,9 +34,9 @@
     <channel site="klassiker.horizon.tv" site_id="DE/deu__lgi-obolite-de-prod-master:SV_09999_18119___https://wp28-images-de-dynamic.horizon.tv/ChannelLogos/02/france_24_(in_english).png" xmltv_id="France 24 (In English)">France 24 (In English)</channel>
     <channel site="klassiker.horizon.tv" site_id="DE/deu__lgi-obolite-de-prod-master:SparhandyTV___https://wp12-images-de-dynamic.horizon.tv/ChannelLogos/02/handystar_1.png" xmltv_id="Handystar TV">Handystar TV</channel>
     <channel site="klassiker.horizon.tv" site_id="DE/deu__lgi-obolite-de-prod-master:hr_HD___https://wp6-images-de-dynamic.horizon.tv/ChannelLogos/02/hr_hd_1.png" xmltv_id="hr-fernsehen HD">hr-fernsehen HD</channel>
-    <channel site="klassiker.horizon.tv" site_id="DE/deu__lgi-obolite-de-prod-master:HSE24___https://wp23-images-de-dynamic.horizon.tv/ChannelLogos/02/hse24.png" xmltv_id="HSE24">HSE24</channel>
-    <channel site="klassiker.horizon.tv" site_id="DE/deu__lgi-obolite-de-prod-master:HSE24_EXTRA___https://wp1-images-de-dynamic.horizon.tv/ChannelLogos/02/hse_extra_1.png" xmltv_id="HSE24 EXTRA">HSE24 EXTRA</channel>
-    <channel site="klassiker.horizon.tv" site_id="DE/deu__lgi-obolite-de-prod-master:HSE24_TREND___https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/hse24_trend.png" xmltv_id="HSE24 Trend">HSE24 Trend</channel>
+    <channel site="klassiker.horizon.tv" site_id="DE/deu__lgi-obolite-de-prod-master:HSE24___https://wp23-images-de-dynamic.horizon.tv/ChannelLogos/02/hse24.png" xmltv_id="HSE">HSE</channel>
+    <channel site="klassiker.horizon.tv" site_id="DE/deu__lgi-obolite-de-prod-master:HSE24_EXTRA___https://wp1-images-de-dynamic.horizon.tv/ChannelLogos/02/hse_extra_1.png" xmltv_id="HSE EXTRA">HSE EXTRA</channel>
+    <channel site="klassiker.horizon.tv" site_id="DE/deu__lgi-obolite-de-prod-master:HSE24_TREND___https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/hse24_trend.png" xmltv_id="HSE Trend">HSE Trend</channel>
     <channel site="klassiker.horizon.tv" site_id="DE/deu__lgi-obolite-de-prod-master:Juwelo___https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/juwelo_1.png" xmltv_id="JuweloTV">JuweloTV</channel>
     <channel site="klassiker.horizon.tv" site_id="DE/deu__lgi-obolite-de-prod-master:Kabel_1___https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/kabel_1.png" xmltv_id="kabel eins">kabel eins</channel>
     <channel site="klassiker.horizon.tv" site_id="DE/deu__lgi-obolite-de-prod-master:kabel_eins_Doku___https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/kabel1_doku.png" xmltv_id="kabel eins Doku">kabel eins Doku</channel>
@@ -52,7 +52,7 @@
     <channel site="klassiker.horizon.tv" site_id="DE/deu__lgi-obolite-de-prod-master:Phoenix_HD___https://wp9-images-de-dynamic.horizon.tv/ChannelLogos/02/phoenix_das_ganze_bild.png" xmltv_id="phoenix HD">phoenix HD</channel>
     <channel site="klassiker.horizon.tv" site_id="DE/deu__lgi-obolite-de-prod-master:ProSieben___https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/prosieben_1.png" xmltv_id="ProSieben">ProSieben</channel>
     <channel site="klassiker.horizon.tv" site_id="DE/deu__lgi-obolite-de-prod-master:Pro7_Maxx___https://wp20-images-de-dynamic.horizon.tv/ChannelLogos/02/prosieben_maxx.png" xmltv_id="ProSieben MAXX">ProSieben MAXX</channel>
-    <channel site="klassiker.horizon.tv" site_id="DE/deu__lgi-obolite-de-prod-master:QVC___https://wp14-images-de-dynamic.horizon.tv/ChannelLogos/02/qvc.png" xmltv_id="QVC">QVC</channel>
+    <channel site="klassiker.horizon.tv" site_id="DE/deu__lgi-obolite-de-prod-master:QVC___https://wp14-images-de-dynamic.horizon.tv/ChannelLogos/02/qvc.png" xmltv_id="QVC Deutschland">QVC Deutschland</channel>
     <channel site="klassiker.horizon.tv" site_id="DE/deu__lgi-obolite-de-prod-master:SV_09999_17117___https://wp26-images-de-dynamic.horizon.tv/ChannelLogos/02/qvc_zwei.png" xmltv_id="QVC2">QVC2</channel>
     <channel site="klassiker.horizon.tv" site_id="DE/deu__lgi-obolite-de-prod-master:SV_09999_44103___https://wp21-images-de-dynamic.horizon.tv/ChannelLogos/02/qvc_style_2.png" xmltv_id="QVC STYLE">QVC STYLE</channel>
     <channel site="klassiker.horizon.tv" site_id="DE/deu__lgi-obolite-de-prod-master:SV_09999_22130___https://wp23-images-de-dynamic.horizon.tv/ChannelLogos/02/radiobremen_2.png" xmltv_id="Radio Bremen TV">Radio Bremen TV</channel>
