@@ -3,10 +3,10 @@
 # path:   /home/klassiker/.local/share/repos/epg/epg.sh
 # author: klassiker [mrdotx]
 # github: https://github.com/mrdotx/epg
-# date:   2022-02-13T20:19:33+0100
+# date:   2022-10-31T11:51:14+0100
 
 source_file="$HOME/wg++/guide.xml"
-destination_file="/srv/http/epg/epg.xml"
+destination_file="/srv/http/download/epg/epg.xml"
 
 # execute webgrab++
 wg++
