@@ -1,14 +1,14 @@
 # path:   /home/klassiker/.local/share/repos/epg/epg.timer
 # author: klassiker [mrdotx]
 # github: https://github.com/mrdotx/epg
-# date:   2021-01-15T13:34:50+0100
+# date:   2022-11-15T12:42:36+0100
 
 [Unit]
 Description=daily run epg.service
 
 [Timer]
-OnCalendar=0:15:00
-AccuracySec=5m
+OnCalendar=5:00:00
+AccuracySec=15m
 Unit=epg.service
 
 [Install]
