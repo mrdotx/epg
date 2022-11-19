@@ -3,7 +3,7 @@
 # path:   /home/klassiker/.local/share/repos/epg/epg.sh
 # author: klassiker [mrdotx]
 # github: https://github.com/mrdotx/epg
-# date:   2022-11-19T19:16:30+0100
+# date:   2022-11-19T19:46:38+0100
 
 source_file="$HOME/wg++/guide.xml"
 destination_file="/srv/http/download/epg/epg.xml"
@@ -15,7 +15,7 @@ wg++
 copy_to() {
     chmod 755 "$source_file"
     rsync -acqPh "$source_file" "$1":$destination_file \
-        && printf "%s copied to %s" "$destination_file" "$1"
+        && printf "%s copied to %s\n" "$destination_file" "$1"
     rm -f "$source_file"
 }
 
