@@ -3,7 +3,7 @@
 # path:   /home/klassiker/.local/share/repos/epg/epg.sh
 # author: klassiker [mrdotx]
 # github: https://github.com/mrdotx/epg
-# date:   2022-10-31T17:03:21+0100
+# date:   2022-11-19T19:16:30+0100
 
 source_file="$HOME/wg++/guide.xml"
 destination_file="/srv/http/download/epg/epg.xml"
@@ -11,21 +11,13 @@ destination_file="/srv/http/download/epg/epg.xml"
 # execute webgrab++
 wg++
 
-# move to webserver
-mv -f "$source_file" $destination_file
-chmod 755 $destination_file
-
-# copy to 2nd webserver
+# helper
 copy_to() {
-    rsync -acqPh $destination_file "$1":$destination_file \
+    chmod 755 "$source_file"
+    rsync -acqPh "$source_file" "$1":$destination_file \
         && printf "%s copied to %s" "$destination_file" "$1"
+    rm -f "$source_file"
 }
 
-case "$(hostname)" in
-    pi2)
-        copy_to "pi"
-        ;;
-    pi)
-        copy_to "pi2"
-        ;;
-esac
+# copy to webserver
+copy_to "pi"
