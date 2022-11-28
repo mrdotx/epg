@@ -3,7 +3,7 @@
 
   <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
 
-  <filename>guide.xml</filename>
+  <filename>epg.xml</filename>
   <mode>nomark</mode>
   <postprocess grab="y" run="n">mdb</postprocess>
   <user-agent></user-agent>
