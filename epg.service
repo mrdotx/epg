@@ -1,10 +1,10 @@
 # path:   /home/klassiker/.local/share/repos/epg/epg.service
 # author: klassiker [mrdotx]
 # github: https://github.com/mrdotx/epg
-# date:   2023-01-20T12:27:27+0100
+# date:   2023-01-20T12:55:07+0100
 
 [Unit]
-Description=processing and uploading epg data in user context alarm
+Description=processing and uploading epg data to webserver
 
 [Service]
 Type=oneshot
