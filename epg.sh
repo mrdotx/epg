@@ -3,7 +3,7 @@
 # path:   /home/klassiker/.local/share/repos/epg/epg.sh
 # author: klassiker [mrdotx]
 # github: https://github.com/mrdotx/epg
-# date:   2023-01-20T12:27:00+0100
+# date:   2023-01-20T12:57:24+0100
 
 source_file="$HOME/wg++/epg.xml"
 destination_file="/srv/http/download/epg/epg.xml"
@@ -12,7 +12,15 @@ destination_file="/srv/http/download/epg/epg.xml"
 wg++
 
 # helper
-copy_to() {
+copy_local() {
+    rsync -acqPh \
+        --chmod=F755 \
+        --remove-source-files \
+        "$source_file" "$destination_file" \
+        && printf "%s copied to %s\n" "$source_file" "$destination_file"
+}
+
+copy_remote() {
     rsync -acqPh \
         --chmod=F755 \
         --remove-source-files \
@@ -21,4 +29,5 @@ copy_to() {
 }
 
 # copy to webserver
-copy_to "m625q"
+copy_local
+#copy_remote "hostname"
