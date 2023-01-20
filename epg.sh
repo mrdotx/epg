@@ -3,7 +3,7 @@
 # path:   /home/klassiker/.local/share/repos/epg/epg.sh
 # author: klassiker [mrdotx]
 # github: https://github.com/mrdotx/epg
-# date:   2023-01-11T18:27:48+0100
+# date:   2023-01-20T12:27:00+0100
 
 source_file="$HOME/wg++/epg.xml"
 destination_file="/srv/http/download/epg/epg.xml"
@@ -21,4 +21,4 @@ copy_to() {
 }
 
 # copy to webserver
-copy_to "pi"
+copy_to "m625q"
