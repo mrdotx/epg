@@ -1,10 +1,10 @@
 # path:   /home/klassiker/.local/share/repos/epg/epg.service
 # author: klassiker [mrdotx]
 # github: https://github.com/mrdotx/epg
-# date:   2023-02-24T09:51:15+0100
+# date:   2023-02-24T10:30:56+0100
 
 [Unit]
-Description=processing and uploading epg data to webserver
+Description=processing and uploading data to webserver
 
 [Service]
 Type=oneshot
