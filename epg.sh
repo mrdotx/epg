@@ -3,12 +3,7 @@
 # path:   /home/klassiker/.local/share/repos/epg/epg.sh
 # author: klassiker [mrdotx]
 # github: https://github.com/mrdotx/epg
-# date:   2023-02-25T08:54:10+0100
-
-source_epg="$HOME/wg++/epg.xml"
-destination_epg="/srv/http/download/epg/epg.xml"
-source_m3u="$HOME/.local/share/repos/epg/xitylight.m3u"
-destination_m3u="/srv/http/download/epg/channels.m3u"
+# date:   2023-06-07T07:41:59+0200
 
 # helper
 copy_file() {
@@ -30,5 +25,9 @@ sync_file() {
 wg++
 
 # transfer to webserver
-copy_file "$source_epg" "$destination_epg"
-sync_file "$source_m3u" "$destination_m3u"
+copy_file \
+    "$HOME/wg++/epg.xml" \
+    "/srv/http/download/epg/epg.xml"
+sync_file \
+    "$HOME/.local/share/repos/epg/xitylight.m3u" \
+    "/srv/http/download/epg/channels.m3u"
