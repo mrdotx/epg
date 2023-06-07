@@ -3,7 +3,7 @@
 # path:   /home/klassiker/.local/share/repos/epg/epg.sh
 # author: klassiker [mrdotx]
 # github: https://github.com/mrdotx/epg
-# date:   2023-06-07T07:41:59+0200
+# date:   2023-06-07T07:47:28+0200
 
 # helper
 copy_file() {
@@ -18,7 +18,7 @@ sync_file() {
     rsync -acqPh \
         --chmod=F644 \
         "$1" "$2" \
-        && printf "%s synced with %s\n" "$1" "$2"
+        && printf "%s synced to %s\n" "$1" "$2"
 }
 
 # execute webgrab++
