@@ -13,69 +13,68 @@
   <update>f</update>
 
     <!-- Öffentlich -->
-    <channel site="m.tvtoday.de" site_id="ard" xmltv_id="Das Erste HD">Das Erste HD</channel>
-    <channel site="m.tvtoday.de" site_id="zdf" xmltv_id="ZDF HD">ZDF HD</channel>
-    <channel site="m.tvtoday.de" site_id="n3" xmltv_id="NDR FS SH HD">NDR FS SH HD</channel>
-    <channel site="m.tvtoday.de" site_id="rbb" xmltv_id="rbb Berlin HD">rbb Berlin HD</channel>
-    <channel site="m.tvtoday.de" site_id="mdr" xmltv_id="MDR Thüringen HD">MDR Thüringen HD</channel>
-    <channel site="m.tvtoday.de" site_id="br" xmltv_id="BR Fernsehen Süd HD">BR Fernsehen Süd HD</channel>
-    <channel site="m.tvtoday.de" site_id="wdr" xmltv_id="WDR HD Köln">WDR HD Köln</channel>
-    <channel site="m.tvtoday.de" site_id="swr" xmltv_id="SWR BW HD">SWR BW HD</channel>
-    <channel site="klack.de" site_id="221/sr-fernsehen" xmltv_id="SR Fernsehen HD">SR Fernsehen HD</channel>
-    <channel site="m.tvtoday.de" site_id="hr" xmltv_id="hr-fernsehen HD">hr-fernsehen HD</channel>
-    <channel site="m.tvtoday.de" site_id="3sat" xmltv_id="3sat HD">3sat HD</channel>
+    <channel site="m.tvtoday.de" site_id="ard" xmltv_id="Das Erste">Das Erste</channel>
+    <channel site="m.tvtoday.de" site_id="zdf" xmltv_id="ZDF">ZDF</channel>
+    <channel site="m.tvtoday.de" site_id="n3" xmltv_id="NDR">NDR</channel>
+    <channel site="m.tvtoday.de" site_id="rbb" xmltv_id="rbb">rbb</channel>
+    <channel site="m.tvtoday.de" site_id="mdr" xmltv_id="MDR">MDR</channel>
+    <channel site="m.tvtoday.de" site_id="br" xmltv_id="BR">BR</channel>
+    <channel site="m.tvtoday.de" site_id="wdr" xmltv_id="WDR">WDR</channel>
+    <channel site="m.tvtoday.de" site_id="swr" xmltv_id="SWR">SWR</channel>
+    <channel site="klack.de" site_id="221/sr-fernsehen" xmltv_id="SR">SR</channel>
+    <channel site="m.tvtoday.de" site_id="hr" xmltv_id="hr">hr</channel>
+    <channel site="m.tvtoday.de" site_id="3sat" xmltv_id="3sat">3sat</channel>
 
     <!-- Unterhaltung -->
     <channel site="m.tvtoday.de" site_id="sat1" xmltv_id="SAT.1">SAT.1</channel>
     <channel site="m.tvtoday.de" site_id="sat1g" xmltv_id="SAT.1 Gold">SAT.1 Gold</channel>
-    <channel site="m.tvtoday.de" site_id="rtl" xmltv_id="RTL Television">RTL Television</channel>
+    <channel site="m.tvtoday.de" site_id="rtl" xmltv_id="RTL">RTL</channel>
     <channel site="m.tvtoday.de" site_id="rtl2" xmltv_id="RTLZWEI">RTLZWEI</channel>
     <channel site="m.tvtoday.de" site_id="rtlpl" xmltv_id="RTLup">RTLup</channel>
     <channel site="m.tvtoday.de" site_id="rtl-n" xmltv_id="NITRO">NITRO</channel>
     <channel site="m.tvtoday.de" site_id="pro7" xmltv_id="ProSieben">ProSieben</channel>
-    <channel site="m.tvtoday.de" site_id="pro7m" xmltv_id="ProSieben MAXX">ProSieben MAXX</channel>
+    <channel site="m.tvtoday.de" site_id="pro7m" xmltv_id="Pro7 MAXX">Pro7 MAXX</channel>
     <channel site="m.tvtoday.de" site_id="k1" xmltv_id="kabel eins">kabel eins</channel>
     <channel site="m.tvtoday.de" site_id="vox" xmltv_id="VOX">VOX</channel>
     <channel site="m.tvtoday.de" site_id="voxup" xmltv_id="VOXup">VOXup</channel>
     <channel site="m.tvtoday.de" site_id="tele5" xmltv_id="TELE 5">TELE 5</channel>
-    <channel site="m.tvtoday.de" site_id="sixx" xmltv_id="sixx">sixx</channel>
+    <channel site="m.tvtoday.de" site_id="sixx" xmltv_id="SIXX">SIXX</channel>
     <channel site="m.tvtoday.de" site_id="cc" xmltv_id="Comedy Central">Comedy Central</channel>
 
     <!-- Sparte -->
     <channel site="m.tvtoday.de" site_id="dmax" xmltv_id="DMAX">DMAX</channel>
-    <channel site="m.tvtoday.de" site_id="fes" xmltv_id="ONE HD">ONE HD</channel>
-    <channel site="m.tvtoday.de" site_id="2neo" xmltv_id="zdf_neo HD">zdf_neo HD</channel>
+    <channel site="m.tvtoday.de" site_id="fes" xmltv_id="ONE">ONE</channel>
+    <channel site="m.tvtoday.de" site_id="2neo" xmltv_id="zdf_neo">zdf_neo</channel>
     <channel site="m.tvtoday.de" site_id="tlc" xmltv_id="TLC">TLC</channel>
-    <channel site="m.tvtoday.de" site_id="anixe" xmltv_id="ANIXE+">ANIXE+</channel>
+    <channel site="m.tvtoday.de" site_id="anixe" xmltv_id="ANIXE">ANIXE</channel>
     <channel site="m.tvtoday.de" site_id="bibel" xmltv_id="Bibel TV">Bibel TV</channel>
 
     <!-- Kinder -->
     <channel site="m.tvtoday.de" site_id="super" xmltv_id="SUPER RTL">SUPER RTL</channel>
     <channel site="m.tvtoday.de" site_id="nick" xmltv_id="Nick/Comedy Central+1">Nick/Comedy Central+1</channel>
     <channel site="m.tvtoday.de" site_id="disne" xmltv_id="Disney Channel">Disney Channel</channel>
-    <channel site="m.tvtoday.de" site_id="kika" xmltv_id="KiKA HD">KiKA HD</channel>
+    <channel site="m.tvtoday.de" site_id="kika" xmltv_id="KiKA">KiKA</channel>
     <channel site="m.tvtoday.de" site_id="toggo" xmltv_id="TOGGO plus">TOGGO plus</channel>
 
     <!-- News|Dokus|Kultur -->
-    <channel site="m.tvtoday.de" site_id="tag24" xmltv_id="tagesschau24 HD">tagesschau24 HD</channel>
+    <channel site="m.tvtoday.de" site_id="tag24" xmltv_id="tagesschau24">tagesschau24</channel>
     <channel site="m.tvtoday.de" site_id="ntv" xmltv_id="ntv">ntv</channel>
     <channel site="m.tvtoday.de" site_id="welt" xmltv_id="WELT">WELT</channel>
     <channel site="m.tvtoday.de" site_id="k1doku" xmltv_id="kabel eins Doku">kabel eins Doku</channel>
     <channel site="m.tvtoday.de" site_id="n24doku" xmltv_id="N24 DOKU">N24 DOKU</channel>
-    <channel site="m.tvtoday.de" site_id="servu" xmltv_id="ServusTV HD Deutschland">ServusTV HD Deutschland</channel>
-    <channel site="m.tvtoday.de" site_id="phoen" xmltv_id="phoenix HD">phoenix HD</channel>
-    <channel site="m.tvtoday.de" site_id="arte" xmltv_id="arte HD">arte HD</channel>
-    <channel site="m.tvtoday.de" site_id="alpha" xmltv_id="ARD alpha HD">ARD alpha HD</channel>
-    <channel site="m.tvtoday.de" site_id="zinfo" xmltv_id="ZDFinfo HD">ZDFinfo HD</channel>
+    <channel site="m.tvtoday.de" site_id="servu" xmltv_id="ServusTV Deutschland">ServusTV Deutschland</channel>
+    <channel site="m.tvtoday.de" site_id="phoen" xmltv_id="phoenix">phoenix</channel>
+    <channel site="m.tvtoday.de" site_id="arte" xmltv_id="arte">arte</channel>
+    <channel site="m.tvtoday.de" site_id="alpha" xmltv_id="ARD alpha">ARD alpha</channel>
+    <channel site="m.tvtoday.de" site_id="zinfo" xmltv_id="ZDFinfo">ZDFinfo</channel>
 
     <!-- News International -->
-    <channel site="m.tvtoday.de" site_id="bbc" xmltv_id="BBC World News Europe HD">BBC World News Europe HD</channel>
+    <channel site="m.tvtoday.de" site_id="bbc" xmltv_id="BBC News">BBC News</channel>
     <channel site="m.tvtoday.de" site_id="cnn" xmltv_id="CNN Int.">CNN Int.</channel>
-    <channel site="m.tvtoday.de" site_id="cnbc" xmltv_id="CNBC HD">CNBC HD</channel>
-    <channel site="m.tvtoday.de" site_id="blm" xmltv_id="Bloomberg Europe TV">Bloomberg Europe TV</channel>
+    <channel site="m.tvtoday.de" site_id="cnbc" xmltv_id="CNBC">CNBC</channel>
     <channel site="m.tvtoday.de" site_id="fr24e" xmltv_id="France 24 (In English)">France 24 (In English)</channel>
     <channel site="m.tvtoday.de" site_id="fr24f" xmltv_id="France 24 (en Francais)">France 24 (en Francais)</channel>
-    <channel site="m.tvtoday.de" site_id="aljaz" xmltv_id="Al Jazeera English HD">Al Jazeera English HD</channel>
+    <channel site="m.tvtoday.de" site_id="aljaz" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
 
     <!-- Musik -->
     <channel site="m.tvtoday.de" site_id="mtv" xmltv_id="MTV">MTV</channel>
@@ -84,13 +83,13 @@
     <channel site="m.tvtoday.de" site_id="sport" xmltv_id="SPORT1">SPORT1</channel>
 
     <!-- Ausland -->
-    <channel site="m.tvtoday.de" site_id="tv5" xmltv_id="TV5MONDE EUROPE HD">TV5MONDE EUROPE HD</channel>
+    <channel site="m.tvtoday.de" site_id="tv5" xmltv_id="TV5MONDE EUROPE">TV5MONDE EUROPE</channel>
 
     <!-- Einkaufen -->
     <channel site="m.tvtoday.de" site_id="123tv" xmltv_id="1-2-3.tv">1-2-3.tv</channel>
-    <channel site="m.tvtoday.de" site_id="qvc" xmltv_id="QVC Deutschland">QVC Deutschland</channel>
+    <channel site="m.tvtoday.de" site_id="qvc" xmltv_id="QVC">QVC</channel>
     <channel site="m.tvtoday.de" site_id="qvcp" xmltv_id="QVC2">QVC2</channel>
     <channel site="m.tvtoday.de" site_id="hse" xmltv_id="HSE">HSE</channel>
-    <channel site="m.tvtoday.de" site_id="sklar" xmltv_id="sonnenklar.TV">sonnenklar.TV</channel>
+    <channel site="m.tvtoday.de" site_id="sklar" xmltv_id="Sonnenklar TV">Sonnenklar TV</channel>
 
 </settings>
