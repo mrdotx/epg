@@ -2,37 +2,37 @@
 #EXTINF:-1 tvg-id="Das Erste" tvg-logo="https://tv.avm.de/tvapp/logos/hd/das_erste_hd.png" group-title="Haupt;Öffentlich",Das Erste HD
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=698&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2109,5101,5102,5103,5104,5106,1170,1176,2171,5172,5107,5105,5108
-#EXTINF:-1 tvg-id="Das Erste" tvg-logo="https://tv.avm.de/tvapp/logos/das_erste.png" group-title="Haupt;Öffentlich",Das Erste
+#EXTINF:-1 tvg-id="Das Erste" tvg-logo="https://tv.avm.de/tvapp/logos/das_erste.png" group-title="Öffentlich",Das Erste
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3530,101,102,103,104,106,84,105,1176,2070,2171
 #EXTINF:-1 tvg-id="ZDF" tvg-logo="https://tv.avm.de/tvapp/logos/hd/zdf_hd.png" group-title="Haupt;Öffentlich",ZDF HD
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=346&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2918,6110,6120,6121,6122,6123,6130,6131,6132,6170
-#EXTINF:-1 tvg-id="ZDF" tvg-logo="https://tv.avm.de/tvapp/logos/zdf.png" group-title="Haupt;Öffentlich",ZDF
+#EXTINF:-1 tvg-id="ZDF" tvg-logo="https://tv.avm.de/tvapp/logos/zdf.png" group-title="Öffentlich",ZDF
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3430,110,120,121,122,125,131,84,950,130
 #EXTINF:-1 tvg-id="NDR" tvg-logo="https://tv.avm.de/tvapp/logos/hd/ndr_hd.png" group-title="Haupt;Öffentlich",NDR FS SH HD
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=706&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2138,5221,5224,1770,2171,2676,5255,5273,5222,5223,5227,5226
-#EXTINF:-1 tvg-id="NDR" tvg-logo="https://tv.avm.de/tvapp/logos/hd/ndr_hd.png" group-title="Haupt;Öffentlich",NDR FS HH HD
+#EXTINF:-1 tvg-id="NDR" tvg-logo="https://tv.avm.de/tvapp/logos/hd/ndr_hd.png" group-title="Öffentlich",NDR FS HH HD
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=706&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2137,5221,5224,1770,2171,2676,5245,5273,5222,5223,5227,5226
-#EXTINF:-1 tvg-id="NDR" tvg-logo="https://tv.avm.de/tvapp/logos/hd/ndr_hd.png" group-title="Haupt;Öffentlich",NDR FS MV HD
+#EXTINF:-1 tvg-id="NDR" tvg-logo="https://tv.avm.de/tvapp/logos/hd/ndr_hd.png" group-title="Öffentlich",NDR FS MV HD
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=706&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2136,5221,5224,1770,2171,2676,5235,5273,5222,5223,5227,5226
-#EXTINF:-1 tvg-id="NDR" tvg-logo="https://tv.avm.de/tvapp/logos/hd/ndr_hd.png" group-title="Haupt;Öffentlich",NDR FS NDS HD
+#EXTINF:-1 tvg-id="NDR" tvg-logo="https://tv.avm.de/tvapp/logos/hd/ndr_hd.png" group-title="Öffentlich",NDR FS NDS HD
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=706&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2135,5221,5222,5223,5224,5226,1770,2171,2676,5225,5273,5227
-#EXTINF:-1 tvg-id="NDR" tvg-logo="https://tv.avm.de/tvapp/logos/ndr.png" group-title="Haupt;Öffentlich",NDR FS SH
+#EXTINF:-1 tvg-id="NDR" tvg-logo="https://tv.avm.de/tvapp/logos/ndr.png" group-title="Öffentlich",NDR FS SH
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3651,2601,2604,2171,2670,2676,2602,2603
-#EXTINF:-1 tvg-id="NDR" tvg-logo="https://tv.avm.de/tvapp/logos/ndr.png" group-title="Haupt;Öffentlich",NDR FS HH
+#EXTINF:-1 tvg-id="NDR" tvg-logo="https://tv.avm.de/tvapp/logos/ndr.png" group-title="Öffentlich",NDR FS HH
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3649,2601,2604,2171,2670,2676,2602,2603
-#EXTINF:-1 tvg-id="NDR" tvg-logo="https://tv.avm.de/tvapp/logos/ndr.png" group-title="Haupt;Öffentlich",NDR FS MV
+#EXTINF:-1 tvg-id="NDR" tvg-logo="https://tv.avm.de/tvapp/logos/ndr.png" group-title="Öffentlich",NDR FS MV
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3648,2601,2604,2171,2670,2676,2602,2603
-#EXTINF:-1 tvg-id="NDR" tvg-logo="https://tv.avm.de/tvapp/logos/ndr.png" group-title="Haupt;Öffentlich",NDR FS NDS
+#EXTINF:-1 tvg-id="NDR" tvg-logo="https://tv.avm.de/tvapp/logos/ndr.png" group-title="Öffentlich",NDR FS NDS
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3650,2601,2602,2603,2604,2171,2670,2676
 #EXTINF:-1 tvg-id="rbb" tvg-logo="https://tv.avm.de/tvapp/logos/hd/rbb_hd.png" group-title="Öffentlich",rbb Berlin HD
@@ -172,10 +172,10 @@ rtsp://10.10.10.9:554/?avm=1&freq=714&bw=8&msys=dvbc&mtype=256qam&sr=6900&specin
 #EXTINF:-1 tvg-id="RTL" tvg-logo="https://tv.avm.de/tvapp/logos/rtl.png" group-title="Haupt;Unterhaltung",RTL Television
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=682&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3811,163,104,108,105,106,112,113,110
-#EXTINF:-1 tvg-id="RTL" tvg-logo="https://tv.avm.de/tvapp/logos/rtl.png" group-title="Haupt;Unterhaltung",RTL HB NDS
+#EXTINF:-1 tvg-id="RTL" tvg-logo="https://tv.avm.de/tvapp/logos/rtl.png" group-title="Unterhaltung",RTL HB NDS
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=682&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3813,163,105,108,104,110,112,113
-#EXTINF:-1 tvg-id="RTL" tvg-logo="https://tv.avm.de/tvapp/logos/rtl_bayern.png" group-title="Haupt;Unterhaltung",RTL Bayern
+#EXTINF:-1 tvg-id="RTL" tvg-logo="https://tv.avm.de/tvapp/logos/rtl_bayern.png" group-title="Unterhaltung",RTL Bayern
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=682&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3814,163,105,108,104,110,112,113
 #EXTINF:-1 tvg-id="RTLZWEI" tvg-logo="https://tv.avm.de/tvapp/logos/rtl2.png" group-title="Haupt;Unterhaltung",RTLZWEI
@@ -211,10 +211,10 @@ rtsp://10.10.10.9:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specin
 #EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://tv.avm.de/tvapp/logos/comedy_central.png" group-title="Haupt;Unterhaltung",Comedy Central
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=378&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,416,4061,4062,4063,4069
-#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://tv.avm.de/tvapp/logos/comedy_central.png" group-title="Haupt;Unterhaltung",Comedy Central_
+#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://tv.avm.de/tvapp/logos/comedy_central.png" group-title="Unterhaltung",Comedy Central_
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=754&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4100,4061,4062,4063,4069
-#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://tv.avm.de/tvapp/logos/comedy_central.png" group-title="Haupt;Unterhaltung",Comedy Central__
+#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://tv.avm.de/tvapp/logos/comedy_central.png" group-title="Unterhaltung",Comedy Central__
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=834&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2208,2209,2210,2233,2211
 
@@ -228,7 +228,7 @@ rtsp://10.10.10.9:554/?avm=1&freq=730&bw=8&msys=dvbc&mtype=256qam&sr=6900&specin
 #EXTINF:-1 tvg-id="zdf_neo" tvg-logo="https://tv.avm.de/tvapp/logos/hd/zdf_neo_hd.png" group-title="Haupt;Sparte",zdf_neo HD
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=346&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2938,6310,6320,6321,6322,6323,6330,6331,6370
-#EXTINF:-1 tvg-id="zdf_neo" tvg-logo="https://tv.avm.de/tvapp/logos/zdf_neo.png" group-title="Haupt;Sparte",zdf_neo
+#EXTINF:-1 tvg-id="zdf_neo" tvg-logo="https://tv.avm.de/tvapp/logos/zdf_neo.png" group-title="Sparte",zdf_neo
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3438,660,670,671,675,672,681,690,680
 #EXTINF:-1 tvg-id="TLC" tvg-logo="https://tv.avm.de/tvapp/logos/tlc.png" group-title="Haupt;Sparte",TLC
@@ -453,232 +453,232 @@ rtsp://10.10.10.9:554/?avm=1&freq=754&bw=8&msys=dvbc&mtype=256qam&sr=6900&specin
 
 
 
-#EXTINF:-1 tvg-id="DASDING" tvg-logo="https://tv.avm.de/tvapp/logos/radio/dasding.png" radio="true" group-title="Alternative",DASDING
+#EXTINF:-1 tvg-id="DASDING" tvg-logo="https://tv.avm.de/tvapp/logos/radio/dasding.png" group-title="Alternative [Radio]",DASDING
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2254,562,2178,7170,2167
-#EXTINF:-1 tvg-id="egoFM" tvg-logo="https://tv.avm.de/tvapp/logos/radio/egofm.png" radio="true" group-title="Alternative",egoFM
+#EXTINF:-1 tvg-id="egoFM" tvg-logo="https://tv.avm.de/tvapp/logos/radio/egofm.png" group-title="Alternative [Radio]",egoFM
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,172,384
 
 
-#EXTINF:-1 tvg-id="JAM FM" tvg-logo="https://tv.avm.de/tvapp/logos/radio/jam_fm.png" radio="true" group-title="Hip Hop",JAM FM
+#EXTINF:-1 tvg-id="JAM FM" tvg-logo="https://tv.avm.de/tvapp/logos/radio/jam_fm.png" group-title="Hip Hop [Radio]",JAM FM
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,177,528
 
 
-#EXTINF:-1 tvg-id="1LIVE diGGi" tvg-logo="https://tv.avm.de/tvapp/logos/radio/1live_diggi.png" radio="true" group-title="Electro",1LIVE diGGi
+#EXTINF:-1 tvg-id="1LIVE diGGi" tvg-logo="https://tv.avm.de/tvapp/logos/radio/1live_diggi.png" group-title="Electro [Radio]",1LIVE diGGi
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2265,661,2178,2167,2085
-#EXTINF:-1 tvg-id="PULS" tvg-logo="https://tv.avm.de/tvapp/logos/radio/puls.png" radio="true" group-title="Electro",PULS
+#EXTINF:-1 tvg-id="PULS" tvg-logo="https://tv.avm.de/tvapp/logos/radio/puls.png" group-title="Electro [Radio]",PULS
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2215,171,2086,2178,2167
-#EXTINF:-1 tvg-id="YOU FM" tvg-logo="https://tv.avm.de/tvapp/logos/radio/you_fm.png" radio="true" group-title="Electro",YOU FM
+#EXTINF:-1 tvg-id="YOU FM" tvg-logo="https://tv.avm.de/tvapp/logos/radio/you_fm.png" group-title="Electro [Radio]",YOU FM
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2277,741,2074,2166,2179
 
 
-#EXTINF:-1 tvg-id="BR-KLASSIK" tvg-logo="https://tv.avm.de/tvapp/logos/radio/brklassik.png" radio="true" group-title="Klassik",BR-KLASSIK
+#EXTINF:-1 tvg-id="BR-KLASSIK" tvg-logo="https://tv.avm.de/tvapp/logos/radio/brklassik.png" group-title="Klassik [Radio]",BR-KLASSIK
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2211,131,133,2086,2178,2167
-#EXTINF:-1 tvg-id="Dlf Kultur" tvg-logo="https://tv.avm.de/tvapp/logos/radio/dlf_kultur.png" radio="true" group-title="Klassik",Dlf Kultur
+#EXTINF:-1 tvg-id="Dlf Kultur" tvg-logo="https://tv.avm.de/tvapp/logos/radio/dlf_kultur.png" group-title="Klassik [Radio]",Dlf Kultur
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3436,710,711,750
-#EXTINF:-1 tvg-id="Klassik Radio" tvg-logo="https://tv.avm.de/tvapp/logos/radio/klassik_radio.png" radio="true" group-title="Klassik",Klassik Radio
+#EXTINF:-1 tvg-id="Klassik Radio" tvg-logo="https://tv.avm.de/tvapp/logos/radio/klassik_radio.png" group-title="Klassik [Radio]",Klassik Radio
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,173,336
-#EXTINF:-1 tvg-id="MDR KLASSIK" tvg-logo="https://tv.avm.de/tvapp/logos/radio/mdr_klassik.png" radio="true" group-title="Klassik",MDR KLASSIK
+#EXTINF:-1 tvg-id="MDR KLASSIK" tvg-logo="https://tv.avm.de/tvapp/logos/radio/mdr_klassik.png" group-title="Klassik [Radio]",MDR KLASSIK
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2289,871,2074,2166,2179
-#EXTINF:-1 tvg-id="MDR KULTUR" tvg-logo="https://tv.avm.de/tvapp/logos/radio/mdr_kultur.png" radio="true" group-title="Klassik",MDR KULTUR
+#EXTINF:-1 tvg-id="MDR KULTUR" tvg-logo="https://tv.avm.de/tvapp/logos/radio/mdr_kultur.png" group-title="Klassik [Radio]",MDR KULTUR
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2285,831,2074,2166,2179
-#EXTINF:-1 tvg-id="NDR Kultur" tvg-logo="https://tv.avm.de/tvapp/logos/radio/ndr_kultur.png" radio="true" group-title="Klassik",NDR Kultur
+#EXTINF:-1 tvg-id="NDR Kultur" tvg-logo="https://tv.avm.de/tvapp/logos/radio/ndr_kultur.png" group-title="Klassik [Radio]",NDR Kultur
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2221,213,2086,2178,2167
-#EXTINF:-1 tvg-id="SR 2 KulturRadio" tvg-logo="https://tv.avm.de/tvapp/logos/radio/sr_2_kulturradio.png" radio="true" group-title="Klassik",SR 2 KulturRadio
+#EXTINF:-1 tvg-id="SR 2 KulturRadio" tvg-logo="https://tv.avm.de/tvapp/logos/radio/sr_2_kulturradio.png" group-title="Klassik [Radio]",SR 2 KulturRadio
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2241,411,2086,2178,2167
-#EXTINF:-1 tvg-id="WDR 3" tvg-logo="https://tv.avm.de/tvapp/logos/radio/wdr_3.png" radio="true" group-title="Klassik",WDR 3
+#EXTINF:-1 tvg-id="WDR 3" tvg-logo="https://tv.avm.de/tvapp/logos/radio/wdr_3.png" group-title="Klassik [Radio]",WDR 3
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2261,621,2178,2167,2090
-#EXTINF:-1 tvg-id="hr2" tvg-logo="https://tv.avm.de/tvapp/logos/radio/hr2.png" radio="true" group-title="Klassik",hr2
+#EXTINF:-1 tvg-id="hr2" tvg-logo="https://tv.avm.de/tvapp/logos/radio/hr2.png" group-title="Klassik [Radio]",hr2
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2274,711,2074,2166,2179
-#EXTINF:-1 tvg-id="rbbKultur" tvg-logo="https://tv.avm.de/tvapp/logos/radio/rbbkultur.png" radio="true" group-title="Klassik",rbbKultur
+#EXTINF:-1 tvg-id="rbbKultur" tvg-logo="https://tv.avm.de/tvapp/logos/radio/rbbkultur.png" group-title="Klassik [Radio]",rbbKultur
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2293,911,5370,2166,2179
 
 
-#EXTINF:-1 tvg-id="Bayern 2" tvg-logo="https://tv.avm.de/tvapp/logos/radio/bayern_2.png" radio="true" group-title="Jazz",Bayern 2
+#EXTINF:-1 tvg-id="Bayern 2" tvg-logo="https://tv.avm.de/tvapp/logos/radio/bayern_2.png" group-title="Jazz [Radio]",Bayern 2
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2209,111,2086,2178,2167
-#EXTINF:-1 tvg-id="Bremen Zwei" tvg-logo="https://tv.avm.de/tvapp/logos/radio/bremen_zwei.png" radio="true" group-title="Jazz",Bremen Zwei
+#EXTINF:-1 tvg-id="Bremen Zwei" tvg-logo="https://tv.avm.de/tvapp/logos/radio/bremen_zwei.png" group-title="Jazz [Radio]",Bremen Zwei
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2235,311,2086,2178,2167
-#EXTINF:-1 tvg-id="Dlf" tvg-logo="https://tv.avm.de/tvapp/logos/radio/dlf.png" radio="true" group-title="Jazz",Dlf
+#EXTINF:-1 tvg-id="Dlf" tvg-logo="https://tv.avm.de/tvapp/logos/radio/dlf.png" group-title="Jazz [Radio]",Dlf
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3437,810,850
-#EXTINF:-1 tvg-id="SWR2" tvg-logo="https://tv.avm.de/tvapp/logos/radio/swr2.png" radio="true" group-title="Jazz",SWR2
+#EXTINF:-1 tvg-id="SWR2" tvg-logo="https://tv.avm.de/tvapp/logos/radio/swr2.png" group-title="Jazz [Radio]",SWR2
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2250,522,2178,6770,2167
 
 
-#EXTINF:-1 tvg-id="BR24" tvg-logo="https://tv.avm.de/tvapp/logos/radio/br24.png" radio="true" group-title="Talk",BR24
+#EXTINF:-1 tvg-id="BR24" tvg-logo="https://tv.avm.de/tvapp/logos/radio/br24.png" group-title="Talk [Radio]",BR24
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2212,141,2086,2178,2167
-#EXTINF:-1 tvg-id="BR24live" tvg-logo="https://tv.avm.de/tvapp/logos/radio/br24live.png" radio="true" group-title="Talk",BR24live
+#EXTINF:-1 tvg-id="BR24live" tvg-logo="https://tv.avm.de/tvapp/logos/radio/br24live.png" group-title="Talk [Radio]",BR24live
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2213,151,2086,2178,2167
-#EXTINF:-1 tvg-id="DRadio DokDeb" tvg-logo="https://tv.avm.de/tvapp/logos/radio/dradio_dokdeb.png" radio="true" group-title="Talk",DRadio DokDeb
+#EXTINF:-1 tvg-id="DRadio DokDeb" tvg-logo="https://tv.avm.de/tvapp/logos/radio/dradio_dokdeb.png" group-title="Talk [Radio]",DRadio DokDeb
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3439,510
-#EXTINF:-1 tvg-id="Die Maus" tvg-logo="https://tv.avm.de/tvapp/logos/radio/die_maus.png" radio="true" group-title="Talk",Die Maus
+#EXTINF:-1 tvg-id="Die Maus" tvg-logo="https://tv.avm.de/tvapp/logos/radio/die_maus.png" group-title="Talk [Radio]",Die Maus
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2266,671,2088,2178,2167
-#EXTINF:-1 tvg-id="MDR AKTUELL" tvg-logo="https://tv.avm.de/tvapp/logos/radio/mdr_aktuell.png" radio="true" group-title="Talk",MDR AKTUELL
+#EXTINF:-1 tvg-id="MDR AKTUELL" tvg-logo="https://tv.avm.de/tvapp/logos/radio/mdr_aktuell.png" group-title="Talk [Radio]",MDR AKTUELL
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2288,861,2074,2166,2179
-#EXTINF:-1 tvg-id="NDR Info Spezial" tvg-logo="https://tv.avm.de/tvapp/logos/radio/ndr_info_spezial.png" radio="true" group-title="Talk",NDR Info Spezial
+#EXTINF:-1 tvg-id="NDR Info Spezial" tvg-logo="https://tv.avm.de/tvapp/logos/radio/ndr_info_spezial.png" group-title="Talk [Radio]",NDR Info Spezial
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2228,281,2086,2178,2167
-#EXTINF:-1 tvg-id="SWR Aktuell" tvg-logo="https://tv.avm.de/tvapp/logos/radio/swr_aktuell.png" radio="true" group-title="Talk",SWR Aktuell
+#EXTINF:-1 tvg-id="SWR Aktuell" tvg-logo="https://tv.avm.de/tvapp/logos/radio/swr_aktuell.png" group-title="Talk [Radio]",SWR Aktuell
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2255,572,2178,7270,2167
-#EXTINF:-1 tvg-id="TVT Radio 1 (Radio Lome)" tvg-logo="https://tv.avm.de/tvapp/logos/radio/tvt_radio_1_(radio_lome).png" radio="true" group-title="Talk",TVT Radio 1 (Radio Lome)
+#EXTINF:-1 tvg-id="TVT Radio 1 (Radio Lome)" tvg-logo="https://tv.avm.de/tvapp/logos/radio/tvt_radio_1_(radio_lome).png" group-title="Talk [Radio]",TVT Radio 1 (Radio Lome)
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=778&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,110,119,111
-#EXTINF:-1 tvg-id="TVT Radio 2 (Radio Kara)" tvg-logo="https://tv.avm.de/tvapp/logos/radio/tvt_radio_2_(radio_kara).png" radio="true" group-title="Talk",TVT Radio 2 (Radio Kara)
+#EXTINF:-1 tvg-id="TVT Radio 2 (Radio Kara)" tvg-logo="https://tv.avm.de/tvapp/logos/radio/tvt_radio_2_(radio_kara).png" group-title="Talk [Radio]",TVT Radio 2 (Radio Kara)
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=778&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,120,129,121
-#EXTINF:-1 tvg-id="WDR 5" tvg-logo="https://tv.avm.de/tvapp/logos/radio/wdr_5.png" radio="true" group-title="Talk",WDR 5
+#EXTINF:-1 tvg-id="WDR 5" tvg-logo="https://tv.avm.de/tvapp/logos/radio/wdr_5.png" group-title="Talk [Radio]",WDR 5
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2263,641,2178,2167,2093
-#EXTINF:-1 tvg-id="WDR Event" tvg-logo="https://tv.avm.de/tvapp/logos/radio/wdr_event.png" radio="true" group-title="Talk",WDR Event
+#EXTINF:-1 tvg-id="WDR Event" tvg-logo="https://tv.avm.de/tvapp/logos/radio/wdr_event.png" group-title="Talk [Radio]",WDR Event
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2267,681,2178,2167,2091
-#EXTINF:-1 tvg-id="hr-iNFO" tvg-logo="https://tv.avm.de/tvapp/logos/radio/hrinfo.png" radio="true" group-title="Talk",hr-iNFO
+#EXTINF:-1 tvg-id="hr-iNFO" tvg-logo="https://tv.avm.de/tvapp/logos/radio/hrinfo.png" group-title="Talk [Radio]",hr-iNFO
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2278,751,2074,2166,2179
-#EXTINF:-1 tvg-id="rbb24 Inforadio" tvg-logo="https://tv.avm.de/tvapp/logos/radio/rbb24_inforadio.png" radio="true" group-title="Talk",rbb24 Inforadio
+#EXTINF:-1 tvg-id="rbb24 Inforadio" tvg-logo="https://tv.avm.de/tvapp/logos/radio/rbb24_inforadio.png" group-title="Talk [Radio]",rbb24 Inforadio
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2292,901,5270,2166,2179
 
 
-#EXTINF:-1 tvg-id="1LIVE" tvg-logo="https://tv.avm.de/tvapp/logos/radio/1live.png" radio="true" group-title="Pop",1LIVE
+#EXTINF:-1 tvg-id="1LIVE" tvg-logo="https://tv.avm.de/tvapp/logos/radio/1live.png" group-title="Pop [Radio]",1LIVE
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2259,601,2084,2178,2167
-#EXTINF:-1 tvg-id="BAYERN 3" tvg-logo="https://tv.avm.de/tvapp/logos/radio/bayern_3.png" radio="true" group-title="Pop",BAYERN 3
+#EXTINF:-1 tvg-id="BAYERN 3" tvg-logo="https://tv.avm.de/tvapp/logos/radio/bayern_3.png" group-title="Pop [Radio]",BAYERN 3
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2210,121,2086,2178,2167
-#EXTINF:-1 tvg-id="Bayern 1" tvg-logo="https://tv.avm.de/tvapp/logos/radio/bayern_1.png" radio="true" group-title="Pop",Bayern 1
+#EXTINF:-1 tvg-id="Bayern 1" tvg-logo="https://tv.avm.de/tvapp/logos/radio/bayern_1.png" group-title="Pop [Radio]",Bayern 1
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2208,101,2086,2178,2167
-#EXTINF:-1 tvg-id="Bremen NEXT" tvg-logo="https://tv.avm.de/tvapp/logos/radio/bremen_next.png" radio="true" group-title="Pop",Bremen NEXT
+#EXTINF:-1 tvg-id="Bremen NEXT" tvg-logo="https://tv.avm.de/tvapp/logos/radio/bremen_next.png" group-title="Pop [Radio]",Bremen NEXT
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2237,331,2086,2178,2167
-#EXTINF:-1 tvg-id="Bremen Vier" tvg-logo="https://tv.avm.de/tvapp/logos/radio/bremen_vier.png" radio="true" group-title="Pop",Bremen Vier
+#EXTINF:-1 tvg-id="Bremen Vier" tvg-logo="https://tv.avm.de/tvapp/logos/radio/bremen_vier.png" group-title="Pop [Radio]",Bremen Vier
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2236,321,2086,2178,2167
-#EXTINF:-1 tvg-id="COSMO" tvg-logo="https://tv.avm.de/tvapp/logos/radio/cosmo.png" radio="true" group-title="Pop",COSMO
+#EXTINF:-1 tvg-id="COSMO" tvg-logo="https://tv.avm.de/tvapp/logos/radio/cosmo.png" group-title="Pop [Radio]",COSMO
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2264,651,2178,2167,2087
-#EXTINF:-1 tvg-id="Dlf Nova" tvg-logo="https://tv.avm.de/tvapp/logos/radio/dlf_nova.png" radio="true" group-title="Pop",Dlf Nova
+#EXTINF:-1 tvg-id="Dlf Nova" tvg-logo="https://tv.avm.de/tvapp/logos/radio/dlf_nova.png" group-title="Pop [Radio]",Dlf Nova
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3441,410,450
-#EXTINF:-1 tvg-id="Fritz" tvg-logo="https://tv.avm.de/tvapp/logos/radio/fritz.png" radio="true" group-title="Pop",Fritz
+#EXTINF:-1 tvg-id="Fritz" tvg-logo="https://tv.avm.de/tvapp/logos/radio/fritz.png" group-title="Pop [Radio]",Fritz
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2297,951,5770,2166,2179
-#EXTINF:-1 tvg-id="MDR JUMP" tvg-logo="https://tv.avm.de/tvapp/logos/radio/mdr_jump.png" radio="true" group-title="Pop",MDR JUMP
+#EXTINF:-1 tvg-id="MDR JUMP" tvg-logo="https://tv.avm.de/tvapp/logos/radio/mdr_jump.png" group-title="Pop [Radio]",MDR JUMP
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2286,841,2074,2166,2179
-#EXTINF:-1 tvg-id="MDR SPUTNIK" tvg-logo="https://tv.avm.de/tvapp/logos/radio/mdr_sputnik.png" radio="true" group-title="Pop",MDR SPUTNIK
+#EXTINF:-1 tvg-id="MDR SPUTNIK" tvg-logo="https://tv.avm.de/tvapp/logos/radio/mdr_sputnik.png" group-title="Pop [Radio]",MDR SPUTNIK
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2287,851,2074,2166,2179
-#EXTINF:-1 tvg-id="N-JOY" tvg-logo="https://tv.avm.de/tvapp/logos/radio/njoy.png" radio="true" group-title="Pop",N-JOY
+#EXTINF:-1 tvg-id="N-JOY" tvg-logo="https://tv.avm.de/tvapp/logos/radio/njoy.png" group-title="Pop [Radio]",N-JOY
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2223,231,2086,2178,2167
-#EXTINF:-1 tvg-id="NDR 1 Radio MV SN" tvg-logo="https://tv.avm.de/tvapp/logos/radio/ndr_1_radio_mv_sn.png" radio="true" group-title="Pop",NDR 1 Radio MV SN
+#EXTINF:-1 tvg-id="NDR 1 Radio MV SN" tvg-logo="https://tv.avm.de/tvapp/logos/radio/ndr_1_radio_mv_sn.png" group-title="Pop [Radio]",NDR 1 Radio MV SN
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2226,261,2086,2178,2167
-#EXTINF:-1 tvg-id="NDR 2 NDS" tvg-logo="https://tv.avm.de/tvapp/logos/radio/ndr_2_nds.png" radio="true" group-title="Pop",NDR 2 NDS
+#EXTINF:-1 tvg-id="NDR 2 NDS" tvg-logo="https://tv.avm.de/tvapp/logos/radio/ndr_2_nds.png" group-title="Pop [Radio]",NDR 2 NDS
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2220,201,2086,2178,2167
-#EXTINF:-1 tvg-id="NDR Blue" tvg-logo="https://tv.avm.de/tvapp/logos/radio/ndr_blue.png" radio="true" group-title="Pop",NDR Blue
+#EXTINF:-1 tvg-id="NDR Blue" tvg-logo="https://tv.avm.de/tvapp/logos/radio/ndr_blue.png" group-title="Pop [Radio]",NDR Blue
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2229,291,2086,2178,2167
-#EXTINF:-1 tvg-id="SR 1 Europawelle" tvg-logo="https://tv.avm.de/tvapp/logos/radio/sr_1_europawelle.png" radio="true" group-title="Pop",SR 1 Europawelle
+#EXTINF:-1 tvg-id="SR 1 Europawelle" tvg-logo="https://tv.avm.de/tvapp/logos/radio/sr_1_europawelle.png" group-title="Pop [Radio]",SR 1 Europawelle
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2240,401,2086,2178,2167
-#EXTINF:-1 tvg-id="SWR1 BW" tvg-logo="https://tv.avm.de/tvapp/logos/radio/swr1_bw.png" radio="true" group-title="Pop",SWR1 BW
+#EXTINF:-1 tvg-id="SWR1 BW" tvg-logo="https://tv.avm.de/tvapp/logos/radio/swr1_bw.png" group-title="Pop [Radio]",SWR1 BW
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2248,501,2178,6570,2167
-#EXTINF:-1 tvg-id="SWR1 RP" tvg-logo="https://tv.avm.de/tvapp/logos/radio/swr1_rp.png" radio="true" group-title="Pop",SWR1 RP
+#EXTINF:-1 tvg-id="SWR1 RP" tvg-logo="https://tv.avm.de/tvapp/logos/radio/swr1_rp.png" group-title="Pop [Radio]",SWR1 RP
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2249,512,2178,6670,2167
-#EXTINF:-1 tvg-id="SWR3" tvg-logo="https://tv.avm.de/tvapp/logos/radio/swr3.png" radio="true" group-title="Pop",SWR3
+#EXTINF:-1 tvg-id="SWR3" tvg-logo="https://tv.avm.de/tvapp/logos/radio/swr3.png" group-title="Pop [Radio]",SWR3
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2251,533,2178,6870,2167
-#EXTINF:-1 tvg-id="WDR 2 Rheinland" tvg-logo="https://tv.avm.de/tvapp/logos/radio/wdr_2_rheinland.png" radio="true" group-title="Pop",WDR 2 Rheinland
+#EXTINF:-1 tvg-id="WDR 2 Rheinland" tvg-logo="https://tv.avm.de/tvapp/logos/radio/wdr_2_rheinland.png" group-title="Pop [Radio]",WDR 2 Rheinland
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2260,611,2178,2167,2089
-#EXTINF:-1 tvg-id="hr1" tvg-logo="https://tv.avm.de/tvapp/logos/radio/hr1.png" radio="true" group-title="Pop",hr1
+#EXTINF:-1 tvg-id="hr1" tvg-logo="https://tv.avm.de/tvapp/logos/radio/hr1.png" group-title="Pop [Radio]",hr1
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2273,701,2074,2166,2179
-#EXTINF:-1 tvg-id="hr3" tvg-logo="https://tv.avm.de/tvapp/logos/radio/hr3.png" radio="true" group-title="Pop",hr3
+#EXTINF:-1 tvg-id="hr3" tvg-logo="https://tv.avm.de/tvapp/logos/radio/hr3.png" group-title="Pop [Radio]",hr3
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2275,721,2074,2166,2179
-#EXTINF:-1 tvg-id="radioeins" tvg-logo="https://tv.avm.de/tvapp/logos/radio/radioeins.png" radio="true" group-title="Pop",radioeins
+#EXTINF:-1 tvg-id="radioeins" tvg-logo="https://tv.avm.de/tvapp/logos/radio/radioeins.png" group-title="Pop [Radio]",radioeins
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2296,941,5670,2166,2179
-#EXTINF:-1 tvg-id="rbb 88.8" tvg-logo="https://tv.avm.de/tvapp/logos/radio/rbb_888.png" radio="true" group-title="Pop",rbb 88.8
+#EXTINF:-1 tvg-id="rbb 88.8" tvg-logo="https://tv.avm.de/tvapp/logos/radio/rbb_888.png" group-title="Pop [Radio]",rbb 88.8
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2295,931,5570,2166,2179
 
 
-#EXTINF:-1 tvg-id="MDR S-ANHALT MD" tvg-logo="https://tv.avm.de/tvapp/logos/radio/mdr_sanhalt_md.png" radio="true" group-title="Oldies",MDR S-ANHALT MD
+#EXTINF:-1 tvg-id="MDR S-ANHALT MD" tvg-logo="https://tv.avm.de/tvapp/logos/radio/mdr_sanhalt_md.png" group-title="Oldies [Radio]",MDR S-ANHALT MD
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2283,811,2074,2166,2179
-#EXTINF:-1 tvg-id="MDR THÜR Mitte-W" tvg-logo="https://tv.avm.de/tvapp/logos/radio/mdr_thuer_mittew.png" radio="true" group-title="Oldies",MDR THÜR Mitte-W
+#EXTINF:-1 tvg-id="MDR THÜR Mitte-W" tvg-logo="https://tv.avm.de/tvapp/logos/radio/mdr_thuer_mittew.png" group-title="Oldies [Radio]",MDR THÜR Mitte-W
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2284,821,2074,2166,2179
-#EXTINF:-1 tvg-id="NDR 1 Nieders. HAN" tvg-logo="https://tv.avm.de/tvapp/logos/radio/ndr_1_nieders_han.png" radio="true" group-title="Oldies",NDR 1 Nieders. HAN
+#EXTINF:-1 tvg-id="NDR 1 Nieders. HAN" tvg-logo="https://tv.avm.de/tvapp/logos/radio/ndr_1_nieders_han.png" group-title="Oldies [Radio]",NDR 1 Nieders. HAN
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2227,271,2086,2178,2167
-#EXTINF:-1 tvg-id="NDR 90.3" tvg-logo="https://tv.avm.de/tvapp/logos/radio/ndr903.png" radio="true" group-title="Oldies",NDR 90.3
+#EXTINF:-1 tvg-id="NDR 90.3" tvg-logo="https://tv.avm.de/tvapp/logos/radio/ndr903.png" group-title="Oldies [Radio]",NDR 90.3
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2224,241,2086,2178,2167
-#EXTINF:-1 tvg-id="NDR1 Welle Nord KI" tvg-logo="https://tv.avm.de/tvapp/logos/radio/ndr1_welle_nord_ki.png" radio="true" group-title="Oldies",NDR1 Welle Nord KI
+#EXTINF:-1 tvg-id="NDR1 Welle Nord KI" tvg-logo="https://tv.avm.de/tvapp/logos/radio/ndr1_welle_nord_ki.png" group-title="Oldies [Radio]",NDR1 Welle Nord KI
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2225,251,2086,2178,2167
-#EXTINF:-1 tvg-id="SWR4 BW" tvg-logo="https://tv.avm.de/tvapp/logos/radio/swr4_bw.png" radio="true" group-title="Oldies",SWR4 BW
+#EXTINF:-1 tvg-id="SWR4 BW" tvg-logo="https://tv.avm.de/tvapp/logos/radio/swr4_bw.png" group-title="Oldies [Radio]",SWR4 BW
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2252,542,2178,6970,2167
-#EXTINF:-1 tvg-id="SWR4 RP" tvg-logo="https://tv.avm.de/tvapp/logos/radio/swr4_rp.png" radio="true" group-title="Oldies",SWR4 RP
+#EXTINF:-1 tvg-id="SWR4 RP" tvg-logo="https://tv.avm.de/tvapp/logos/radio/swr4_rp.png" group-title="Oldies [Radio]",SWR4 RP
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2253,552,2178,7070,2167
-#EXTINF:-1 tvg-id="WDR 4" tvg-logo="https://tv.avm.de/tvapp/logos/radio/wdr_4.png" radio="true" group-title="Oldies",WDR 4
+#EXTINF:-1 tvg-id="WDR 4" tvg-logo="https://tv.avm.de/tvapp/logos/radio/wdr_4.png" group-title="Oldies [Radio]",WDR 4
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2262,631,2178,2167,2092
 
 
-#EXTINF:-1 tvg-id="Antenne Brbg." tvg-logo="https://tv.avm.de/tvapp/logos/radio/antenne_brbg.png" radio="true" group-title="Schlager",Antenne Brbg.
+#EXTINF:-1 tvg-id="Antenne Brbg." tvg-logo="https://tv.avm.de/tvapp/logos/radio/antenne_brbg.png" group-title="Schlager [Radio]",Antenne Brbg.
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2294,921,5470,2166,2179
-#EXTINF:-1 tvg-id="BR Schlager" tvg-logo="https://tv.avm.de/tvapp/logos/radio/br_schlager.png" radio="true" group-title="Schlager",BR Schlager
+#EXTINF:-1 tvg-id="BR Schlager" tvg-logo="https://tv.avm.de/tvapp/logos/radio/br_schlager.png" group-title="Schlager [Radio]",BR Schlager
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2214,161,2086,2178,2167
-#EXTINF:-1 tvg-id="BR-Heimat" tvg-logo="https://tv.avm.de/tvapp/logos/radio/brheimat.png" radio="true" group-title="Schlager",BR-Heimat
+#EXTINF:-1 tvg-id="BR-Heimat" tvg-logo="https://tv.avm.de/tvapp/logos/radio/brheimat.png" group-title="Schlager [Radio]",BR-Heimat
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2216,181,2086,2178,2167
-#EXTINF:-1 tvg-id="MDR SACHSEN DD" tvg-logo="https://tv.avm.de/tvapp/logos/radio/mdr_sachsen_dd.png" radio="true" group-title="Schlager",MDR SACHSEN DD
+#EXTINF:-1 tvg-id="MDR SACHSEN DD" tvg-logo="https://tv.avm.de/tvapp/logos/radio/mdr_sachsen_dd.png" group-title="Schlager [Radio]",MDR SACHSEN DD
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2282,801,2074,2166,2179
-#EXTINF:-1 tvg-id="NDR Schlager" tvg-logo="https://tv.avm.de/tvapp/logos/radio/ndr_schlager.png" radio="true" group-title="Schlager",NDR Schlager
+#EXTINF:-1 tvg-id="NDR Schlager" tvg-logo="https://tv.avm.de/tvapp/logos/radio/ndr_schlager.png" group-title="Schlager [Radio]",NDR Schlager
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2230,296,2086,2178,2167
-#EXTINF:-1 tvg-id="SR 3 Saarlandwelle" tvg-logo="https://tv.avm.de/tvapp/logos/radio/sr_3_saarlandwelle.png" radio="true" group-title="Schlager",SR 3 Saarlandwelle
+#EXTINF:-1 tvg-id="SR 3 Saarlandwelle" tvg-logo="https://tv.avm.de/tvapp/logos/radio/sr_3_saarlandwelle.png" group-title="Schlager [Radio]",SR 3 Saarlandwelle
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2242,421,2086,2178,2167
-#EXTINF:-1 tvg-id="hr4" tvg-logo="https://tv.avm.de/tvapp/logos/radio/hr4.png" radio="true" group-title="Schlager",hr4
+#EXTINF:-1 tvg-id="hr4" tvg-logo="https://tv.avm.de/tvapp/logos/radio/hr4.png" group-title="Schlager [Radio]",hr4
 #EXTVLCOPT:network-caching=1000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2276,731,2074,2166,2179
