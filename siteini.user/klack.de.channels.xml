@@ -61,7 +61,8 @@
     <channel site="klack.de" site_id="60/welt" xmltv_id="WELT">WELT</channel>
     <channel site="klack.de" site_id="183/kabel-1-doku" xmltv_id="kabel eins Doku">kabel eins Doku</channel>
     <channel site="klack.de" site_id="186/n24-doku" xmltv_id="N24 DOKU">N24 DOKU</channel>
-    <channel site="klack.de" site_id="135/servus-tv" xmltv_id="ServusTV Deutschland">ServusTV Deutschland</channel>
+    <channel site="klack.de" site_id="12146/bild" xmltv_id="BILD">BILD</channel>
+    <channel site="klack.de" site_id="135/servus-tv" xmltv_id="ServusTV">ServusTV</channel>
     <channel site="klack.de" site_id="77/phoenix" xmltv_id="phoenix">phoenix</channel>
     <channel site="klack.de" site_id="6/arte" xmltv_id="arte">arte</channel>
     <channel site="klack.de" site_id="2/ard-alpha" xmltv_id="ARD alpha">ARD alpha</channel>

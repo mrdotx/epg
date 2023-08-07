@@ -61,14 +61,16 @@
     <channel site="m.tvtoday.de" site_id="welt" xmltv_id="WELT">WELT</channel>
     <channel site="m.tvtoday.de" site_id="k1doku" xmltv_id="kabel eins Doku">kabel eins Doku</channel>
     <channel site="m.tvtoday.de" site_id="n24doku" xmltv_id="N24 DOKU">N24 DOKU</channel>
-    <channel site="m.tvtoday.de" site_id="servu" xmltv_id="ServusTV Deutschland">ServusTV Deutschland</channel>
+    <channel site="m.tvtoday.de" site_id="bild" xmltv_id="BILD">BILD</channel>
+    <channel site="m.tvtoday.de" site_id="servu" xmltv_id="ServusTV">ServusTV</channel>
     <channel site="m.tvtoday.de" site_id="phoen" xmltv_id="phoenix">phoenix</channel>
     <channel site="m.tvtoday.de" site_id="arte" xmltv_id="arte">arte</channel>
     <channel site="m.tvtoday.de" site_id="alpha" xmltv_id="ARD alpha">ARD alpha</channel>
     <channel site="m.tvtoday.de" site_id="zinfo" xmltv_id="ZDFinfo">ZDFinfo</channel>
 
     <!-- News International -->
-    <channel site="m.tvtoday.de" site_id="bbc" xmltv_id="BBC News">BBC News</channel>
+    <channel site="m.tvtoday.de" site_id="bbc" xmltv_id="BBC WORLD">BBC WORLD</channel>
+    <channel site="m.tvtoday.de" site_id="bbc-n" xmltv_id="BBC News">BBC News</channel>
     <channel site="m.tvtoday.de" site_id="cnn" xmltv_id="CNN Int.">CNN Int.</channel>
     <channel site="m.tvtoday.de" site_id="cnbc" xmltv_id="CNBC">CNBC</channel>
     <channel site="m.tvtoday.de" site_id="fr24e" xmltv_id="France 24 (In English)">France 24 (In English)</channel>
@@ -76,6 +78,7 @@
     <channel site="m.tvtoday.de" site_id="aljaz" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
 
     <!-- Musik -->
+    <channel site="m.tvtoday.de" site_id="dmc" xmltv_id="DELUXE MUSIC">DELUXE MUSIC</channel>
     <channel site="m.tvtoday.de" site_id="mtv" xmltv_id="MTV">MTV</channel>
 
     <!-- Sport -->
@@ -89,6 +92,7 @@
     <channel site="m.tvtoday.de" site_id="qvc" xmltv_id="QVC">QVC</channel>
     <channel site="m.tvtoday.de" site_id="qvcp" xmltv_id="QVC2">QVC2</channel>
     <channel site="m.tvtoday.de" site_id="hse" xmltv_id="HSE">HSE</channel>
+    <channel site="m.tvtoday.de" site_id="ch21" xmltv_id="Channel21">Channel21</channel>
     <channel site="m.tvtoday.de" site_id="sklar" xmltv_id="Sonnenklar TV">Sonnenklar TV</channel>
 
 </settings>

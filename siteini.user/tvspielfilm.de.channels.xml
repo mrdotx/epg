@@ -61,7 +61,8 @@
     <channel site="tvspielfilm.de" site_id="welt,WELT" xmltv_id="WELT">WELT</channel>
     <channel site="tvspielfilm.de" site_id="kabel-eins-doku,K1DOKU" xmltv_id="kabel eins Doku">kabel eins Doku</channel>
     <channel site="tvspielfilm.de" site_id="n24-doku,N24DOKU" xmltv_id="N24 DOKU">N24 DOKU</channel>
-    <channel site="tvspielfilm.de" site_id="servustv-deutschland,SERVU" xmltv_id="ServusTV Deutschland">ServusTV Deutschland</channel>
+    <channel site="tvspielfilm.de" site_id="bild-tv,BILD" xmltv_id="BILD">BILD</channel>
+    <channel site="tvspielfilm.de" site_id="servustv-deutschland,SERVU" xmltv_id="ServusTV">ServusTV</channel>
     <channel site="tvspielfilm.de" site_id="phoenix,PHOEN" xmltv_id="phoenix HD">phoenix HD</channel>
     <channel site="tvspielfilm.de" site_id="arte,ARTE" xmltv_id="arte">arte</channel>
     <channel site="tvspielfilm.de" site_id="ard-alpha,ALPHA" xmltv_id="ARD alpha">ARD alpha</channel>
@@ -69,6 +70,7 @@
 
     <!-- News International -->
     <channel site="tvspielfilm.de" site_id="bbc-world-news,BBC" xmltv_id="BBC WORLD">BBC WORLD</channel>
+    <channel site="tvspielfilm.de" site_id="bbc-news,BBC-N" xmltv_id="BBC News">BBC News</channel>
     <channel site="tvspielfilm.de" site_id="cnn-international,CNN" xmltv_id="CNN Int.">CNN Int.</channel>
     <channel site="tvspielfilm.de" site_id="cnbc,CNBC" xmltv_id="CNBC">CNBC</channel>
     <channel site="tvspielfilm.de" site_id="france-24-engl,FR24E" xmltv_id="France 24 (In English)">France 24 (In English)</channel>
@@ -76,6 +78,7 @@
     <channel site="tvspielfilm.de" site_id="al-jazeera,ALJAZ" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
 
     <!-- Musik -->
+    <channel site="tvspielfilm.de" site_id="deluxe-music,DMC" xmltv_id="DELUXE MUSIC">DELUXE MUSIC</channel>
     <channel site="tvspielfilm.de" site_id="mtv,MTV" xmltv_id="MTV">MTV</channel>
 
     <!-- Sport -->
@@ -86,9 +89,10 @@
 
     <!-- Einkaufen -->
     <channel site="tvspielfilm.de" site_id="123tv,123TV" xmltv_id="1-2-3.tv">1-2-3.tv</channel>
-    <channel site="tvspielfilm.de" site_id="qvc,QVC" xmltv_id="QVC Deutschland">QVC</channel>
+    <channel site="tvspielfilm.de" site_id="qvc,QVC" xmltv_id="QVC">QVC</channel>
     <channel site="tvspielfilm.de" site_id="qvc2,QVCP" xmltv_id="QVC2">QVC2</channel>
     <channel site="tvspielfilm.de" site_id="hse24,HSE" xmltv_id="HSE">HSE</channel>
+    <channel site="tvspielfilm.de" site_id="channel21,CH21" xmltv_id="Channel21">Channel21</channel>
     <channel site="tvspielfilm.de" site_id="sonnenklar-tv,SKLAR" xmltv_id="Sonnenklar TV">Sonnenklar TV</channel>
 
 </settings>
