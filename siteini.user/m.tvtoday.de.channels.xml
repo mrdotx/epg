@@ -20,7 +20,7 @@
     <channel site="m.tvtoday.de" site_id="mdr" xmltv_id="MDR">MDR</channel>
     <channel site="m.tvtoday.de" site_id="br" xmltv_id="BR">BR</channel>
     <channel site="m.tvtoday.de" site_id="wdr" xmltv_id="WDR">WDR</channel>
-    <channel site="m.tvtoday.de" site_id="swr" xmltv_id="SWR">SWR</channel>
+    <channel site="m.tvtoday.de" site_id="swr" xmltv_id="SWR/SR">SWR/SR</channel>
     <channel site="m.tvtoday.de" site_id="hr" xmltv_id="hr">hr</channel>
     <channel site="m.tvtoday.de" site_id="3sat" xmltv_id="3sat">3sat</channel>
 
