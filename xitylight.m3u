@@ -125,22 +125,22 @@ rtsp://10.10.10.9:554/?avm=1&freq=362&bw=8&msys=dvbc&mtype=256qam&sr=6900&specin
 #EXTINF:-1 tvg-id="WDR" tvg-logo="https://tv.avm.de/tvapp/logos/wdr_siegen.png" group-title="Public [TV]",WDR Siegen
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=362&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3736,801,504,2171,2370,2376,802,803,505
-#EXTINF:-1 tvg-id="SWR" tvg-logo="https://tv.avm.de/tvapp/logos/hd/swr_bw_hd.png" group-title="Public [TV]",SWR BW HD
+#EXTINF:-1 tvg-id="SWR/SR" tvg-logo="https://tv.avm.de/tvapp/logos/hd/swr_bw_hd.png" group-title="Public [TV]",SWR BW HD
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=698&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2111,5121,5122,5123,5124,5126,1370,2171,2476,5174,5127,5125
-#EXTINF:-1 tvg-id="SWR" tvg-logo="https://tv.avm.de/tvapp/logos/hd/swr_hd.png" group-title="Public [TV]",SWR RP HD
+#EXTINF:-1 tvg-id="SWR/SR" tvg-logo="https://tv.avm.de/tvapp/logos/hd/swr_hd.png" group-title="Public [TV]",SWR RP HD
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=698&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2112,5121,5134,1371,2171,2476,5176,5135,5122,5123,5127,5126
-#EXTINF:-1 tvg-id="SWR" tvg-logo="https://tv.avm.de/tvapp/logos/swr.png" group-title="Public [TV]",SWR Fernsehen BW
+#EXTINF:-1 tvg-id="SWR/SR" tvg-logo="https://tv.avm.de/tvapp/logos/swr.png" group-title="Public [TV]",SWR Fernsehen BW
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3537,801,802,803,804,806,1270,2171,2476
-#EXTINF:-1 tvg-id="SWR" tvg-logo="https://tv.avm.de/tvapp/logos/swr.png" group-title="Public [TV]",SWR Fernsehen RP
+#EXTINF:-1 tvg-id="SWR/SR" tvg-logo="https://tv.avm.de/tvapp/logos/swr.png" group-title="Public [TV]",SWR Fernsehen RP
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3655,3101,3102,3103,3104,3106,2171,2470,2476
-#EXTINF:-1 tvg-id="SR" tvg-logo="https://tv.avm.de/tvapp/logos/hd/sr_hd.png" group-title="Public [TV]",SR Fernsehen HD
+#EXTINF:-1 tvg-id="SWR/SR" tvg-logo="https://tv.avm.de/tvapp/logos/hd/sr_hd.png" group-title="Public [TV]",SR Fernsehen HD
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2186,5431,5432,5433,5434,5436,2171,2976,4370,4372,5435,5437
-#EXTINF:-1 tvg-id="SR" tvg-logo="https://tv.avm.de/tvapp/logos/hd/sr_hd.png" group-title="Public [TV]",SR Fernsehen HD_
+#EXTINF:-1 tvg-id="SWR/SR" tvg-logo="https://tv.avm.de/tvapp/logos/hd/sr_hd.png" group-title="Public [TV]",SR Fernsehen HD_
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=730&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2186,5431,5432,5433,5434,5436,2171,2976,4370,4372,5435,5437
 #EXTINF:-1 tvg-id="hr" tvg-logo="https://tv.avm.de/tvapp/logos/hd/hr_hd.png" group-title="Public [TV]",hr-fernsehen HD
