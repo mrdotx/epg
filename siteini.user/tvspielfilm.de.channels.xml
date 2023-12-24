@@ -9,7 +9,7 @@
   <user-agent></user-agent>
   <logging>off</logging>
   <retry time-out="5">4</retry>
-  <timespan>2</timespan>
+  <timespan>3</timespan>
   <update>f</update>
 
     <!-- Öffentlich -->
@@ -61,7 +61,6 @@
     <channel site="tvspielfilm.de" site_id="welt,WELT" xmltv_id="WELT">WELT</channel>
     <channel site="tvspielfilm.de" site_id="kabel-eins-doku,K1DOKU" xmltv_id="kabel eins Doku">kabel eins Doku</channel>
     <channel site="tvspielfilm.de" site_id="n24-doku,N24DOKU" xmltv_id="N24 DOKU">N24 DOKU</channel>
-    <channel site="tvspielfilm.de" site_id="bild-tv,BILD" xmltv_id="BILD">BILD</channel>
     <channel site="tvspielfilm.de" site_id="servustv-deutschland,SERVU" xmltv_id="ServusTV">ServusTV</channel>
     <channel site="tvspielfilm.de" site_id="phoenix,PHOEN" xmltv_id="phoenix HD">phoenix HD</channel>
     <channel site="tvspielfilm.de" site_id="arte,ARTE" xmltv_id="arte">arte</channel>
