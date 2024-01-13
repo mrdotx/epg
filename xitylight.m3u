@@ -292,9 +292,6 @@ rtsp://10.10.10.9:554/?avm=1&freq=714&bw=8&msys=dvbc&mtype=256qam&sr=6900&specin
 #EXTINF:-1 tvg-id="N24 DOKU" tvg-logo="https://tv.avm.de/tvapp/logos/n24_doku.png" group-title="News|Docus|Culture [TV]",N24 DOKU
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,48,511,512,517
-#EXTINF:-1 tvg-id="BILD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/bild_hd.png" group-title="News|Docus|Culture [TV]",BILD HD
-#EXTVLCOPT:network-caching=2000
-rtsp://10.10.10.9:554/?avm=1&freq=794&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1909,511,515,517,34
 #EXTINF:-1 tvg-id="ServusTV" tvg-logo="https://tv.avm.de/tvapp/logos/hd/servustv_hd_deutschland.png" group-title="News|Docus|Culture [TV]",ServusTV HD Deutschland
 #EXTVLCOPT:network-caching=2000
 rtsp://10.10.10.9:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4914,4920,91,4922,4923,4924,4925,4929
