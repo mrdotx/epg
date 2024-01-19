@@ -3,7 +3,7 @@
 # path:   /home/klassiker/.local/share/repos/epg/epg.sh
 # author: klassiker [mrdotx]
 # github: https://github.com/mrdotx/epg
-# date:   2024-01-04T12:12:59+0100
+# date:   2024-01-19T10:43:56+0100
 
 # helper
 move_file() {
@@ -29,5 +29,5 @@ move_file \
     "$HOME/wg++/epg.xml" \
     "/srv/http/download/epg/epg.xml"
 sync_file \
-    "$HOME/.local/share/repos/epg/xitylight.m3u" \
+    "$HOME/.local/share/repos/epg/playlists/xitylight.m3u" \
     "/srv/http/download/epg/channels.m3u"
