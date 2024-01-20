@@ -215,17 +215,17 @@ https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u
 rtsp://10.10.10.9:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,62,1023,1024,1029,1030
 #EXTINF:-1 tvg-name="EWTN katholisches TV (IPTV)" group-title="Alternative (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/ewtn_katholisches_tv.png" tvg-id="EWTN",EWTN katholisches TV (IPTV)
 https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-name="AstroTV HD" group-title="Alternative (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/hd/astrotv_hd.png" tvg-id="AstroTV",AstroTV HD
+#EXTINF:-1 tvg-name="AstroTV HD" group-title="Alternative (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/astrotv.png" tvg-id="AstroTV",AstroTV HD
 rtsp://10.10.10.9:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4949,2410,2419,2411
-#EXTINF:-1 tvg-name="AstroTV HD (IPTV)" group-title="Alternative (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/hd/astrotv_hd.png" tvg-id="AstroTV",AstroTV HD (IPTV)
+#EXTINF:-1 tvg-name="AstroTV HD (IPTV)" group-title="Alternative (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/astrotv.png" tvg-id="AstroTV",AstroTV HD (IPTV)
 https://ythls.armelin.one/channel/UCwS3E2NaN3uorr9wf2_i6Cg.m3u8
 #EXTINF:-1 tvg-name="AstroTV" group-title="Alternative (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/astrotv.png" tvg-id="AstroTV",AstroTV
 rtsp://10.10.10.9:554/?avm=1&freq=690&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,661,2559,2560,2565
 #EXTINF:-1 tvg-name="SUPER RTL" group-title="Main;Kids (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/superrtl.png" tvg-id="SUPER RTL",SUPER RTL
 rtsp://10.10.10.9:554/?avm=1&freq=682&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3848,165,120,67,65,66,312,313
-#EXTINF:-1 tvg-name="Nick/Comedy Central+1" group-title="Kids (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/nick_comedy_central+1.png" tvg-id="Nick/Comedy Central+1",Nick/Comedy Central+1
+#EXTINF:-1 tvg-name="Nick/Comedy Central+1" group-title="Kids (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/nick_comedy_central.png" tvg-id="Nick/Comedy Central+1",Nick/Comedy Central+1
 rtsp://10.10.10.9:554/?avm=1&freq=754&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4104,4101,4102,4103,4106,4109
-#EXTINF:-1 tvg-name="Nick/Comedy Central+1 (IPTV)" group-title="Kids (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/nick_comedy_central+1.png" tvg-id="Nick/Comedy Central+1",Nick/Comedy Central+1 (IPTV)
+#EXTINF:-1 tvg-name="Nick/Comedy Central+1 (IPTV)" group-title="Kids (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/nick_comedy_central.png" tvg-id="Nick/Comedy Central+1",Nick/Comedy Central+1 (IPTV)
 https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
 #EXTINF:-1 tvg-name="Disney Channel" group-title="Kids (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/disney_channel.png" tvg-id="Disney Channel",Disney Channel
 rtsp://10.10.10.9:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1793,2047,36,2048,2051,2053
@@ -301,7 +301,7 @@ rtsp://10.10.10.9:554/?avm=1&freq=138&bw=8&msys=dvbc&mtype=256qam&sr=6900&specin
 rtsp://10.10.10.9:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5031,3101,3102,3103
 #EXTINF:-1 tvg-name="Al Jazeera English HD (IPTV)" group-title="News International (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/hd/al_jazeera_english_hd.png" tvg-id="Al Jazeera English",Al Jazeera English HD (IPTV)
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-name="AL Arabia HD" group-title="News International (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/hd/al_arabia_hd.png" tvg-id="AL Arabia",AL Arabia HD
+#EXTINF:-1 tvg-name="AL Arabia HD" group-title="News International (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/al_arabia.png" tvg-id="AL Arabia",AL Arabia HD
 rtsp://10.10.10.9:554/?avm=1&freq=754&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1321,515,643,654
 #EXTINF:-1 tvg-name="Sky News Arabia" group-title="News International (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/hd/sky_news_arabia.png" tvg-id="Sky News Arabia",Sky News Arabia
 rtsp://10.10.10.9:554/?avm=1&freq=754&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1324,4312,4313,4314
@@ -321,11 +321,11 @@ https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/mtvg18ef.m3u8
 rtsp://10.10.10.9:554/?avm=1&freq=690&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,900,1025,39,55,1024,1029,5010,5011
 #EXTINF:-1 tvg-name="Eurosport 1 Deutschland" group-title="Sport (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/eurosport_1_deutschland.png" tvg-id="Eurosport 1 Deutschland",Eurosport 1 Deutschland
 rtsp://10.10.10.9:554/?avm=1&freq=746&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6624,101,102,103,106,107
-#EXTINF:-1 tvg-name="TV5MONDE EUROPE HD" group-title="International (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/tv5monde_europe_hd.png" tvg-id="TV5MONDE EUROPE",TV5MONDE EUROPE HD
+#EXTINF:-1 tvg-name="TV5MONDE EUROPE HD" group-title="International (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/hd/tv5monde_europe_hd.png" tvg-id="TV5MONDE EUROPE",TV5MONDE EUROPE HD
 rtsp://10.10.10.9:554/?avm=1&freq=138&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6915,615,635,835,935,936,937,938,939,940,942
-#EXTINF:-1 tvg-name="TV5MONDE EUROPE HD (IPTV)" group-title="International (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/tv5monde_europe_hd.png" tvg-id="TV5MONDE EUROPE",TV5MONDE EUROPE HD (IPTV)
+#EXTINF:-1 tvg-name="TV5MONDE EUROPE HD (IPTV)" group-title="International (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/hd/tv5monde_europe_hd.png" tvg-id="TV5MONDE EUROPE",TV5MONDE EUROPE HD (IPTV)
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
-#EXTINF:-1 tvg-name="TVT International (?)" group-title="International (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/hd/tvt_international.png" tvg-id="TVT International",TVT International (?)
+#EXTINF:-1 tvg-name="TVT International (?)" group-title="International (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/tvt_international.png" tvg-id="TVT International",TVT International (?)
 rtsp://10.10.10.9:554/?avm=1&freq=778&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,66,101,102
 #EXTINF:-1 tvg-name="RTB TV (?)" group-title="International (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/rtb_tv.png" tvg-id="RTB TV",RTB TV (?)
 rtsp://10.10.10.9:554/?avm=1&freq=778&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,32,33,34
@@ -373,7 +373,7 @@ rtsp://10.10.10.9:554/?avm=1&freq=746&bw=8&msys=dvbc&mtype=256qam&sr=6900&specin
 https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
 #EXTINF:-1 tvg-name="Channel21" group-title="Shopping (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/channel21.png" tvg-id="Channel21",Channel21
 rtsp://10.10.10.9:554/?avm=1&freq=802&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,769,1023,1024
-#EXTINF:-1 tvg-name="Genius Plus TV" group-title="Shopping (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/genius_plus_tv.png" tvg-id="Genius Plus TV",Genius Plus TV
+#EXTINF:-1 tvg-name="Genius Plus TV" group-title="Shopping (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/genius_plus.png" tvg-id="Genius Plus TV",Genius Plus TV
 rtsp://10.10.10.9:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4918,1110,1111,1119
 #EXTINF:-1 tvg-name="Sonnenklar TV" group-title="Shopping (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/sonnenklar.png" tvg-id="Sonnenklar TV",Sonnenklar TV
 rtsp://10.10.10.9:554/?avm=1&freq=690&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,32,2303,40,2304,2309
