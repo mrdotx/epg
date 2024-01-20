@@ -12,7 +12,7 @@
   <timespan>2</timespan>
   <update>f</update>
 
-    <!-- Öffentlich -->
+    <!-- Public -->
     <channel site="klack.de" site_id="5/das-erste" xmltv_id="Das Erste">Das Erste</channel>
     <channel site="klack.de" site_id="129/zdf" xmltv_id="ZDF">ZDF</channel>
     <channel site="klack.de" site_id="67/ndr" xmltv_id="NDR">NDR</channel>
@@ -25,7 +25,7 @@
     <channel site="klack.de" site_id="49/hr" xmltv_id="hr">hr</channel>
     <channel site="klack.de" site_id="1/3sat" xmltv_id="3sat">3sat</channel>
 
-    <!-- Unterhaltung -->
+    <!-- Entertainment -->
     <channel site="klack.de" site_id="92/sat-1" xmltv_id="SAT.1">SAT.1</channel>
     <channel site="klack.de" site_id="151/sat-1-gold" xmltv_id="SAT.1 Gold">SAT.1 Gold</channel>
     <channel site="klack.de" site_id="86/rtl" xmltv_id="RTL">RTL</channel>
@@ -41,43 +41,45 @@
     <channel site="klack.de" site_id="133/sixx" xmltv_id="SIXX">SIXX</channel>
     <channel site="klack.de" site_id="23/comedy-central" xmltv_id="Comedy Central">Comedy Central</channel>
 
-    <!-- Sparte -->
+    <!-- Alternative -->
     <channel site="klack.de" site_id="30/dmax" xmltv_id="DMAX">DMAX</channel>
     <channel site="klack.de" site_id="38/one" xmltv_id="ONE">ONE</channel>
     <channel site="klack.de" site_id="131/zdfneo" xmltv_id="zdf_neo">zdf_neo</channel>
     <channel site="klack.de" site_id="155/tlc" xmltv_id="TLC">TLC</channel>
     <channel site="klack.de" site_id="16/bibel-tv" xmltv_id="Bibel TV">Bibel TV</channel>
 
-    <!-- Kinder -->
+    <!-- Kids -->
     <channel site="klack.de" site_id="113/super-rtl" xmltv_id="SUPER RTL">SUPER RTL</channel>
     <channel site="klack.de" site_id="64/nick" xmltv_id="Nick/Comedy Central+1">Nick/Comedy Central+1</channel>
     <channel site="klack.de" site_id="25/disney-channel" xmltv_id="Disney Channel">Disney Channel</channel>
     <channel site="klack.de" site_id="54/kika" xmltv_id="KiKA">KiKA</channel>
     <channel site="klack.de" site_id="180/toggo-plus" xmltv_id="TOGGO plus">TOGGO plus</channel>
 
-    <!-- News|Dokus|Kultur -->
+    <!-- News|Docus|Culture -->
     <channel site="klack.de" site_id="37/tagesschau24" xmltv_id="tagesschau24">tagesschau24</channel>
     <channel site="klack.de" site_id="68/n-tv" xmltv_id="ntv">ntv</channel>
     <channel site="klack.de" site_id="60/welt" xmltv_id="WELT">WELT</channel>
     <channel site="klack.de" site_id="183/kabel-1-doku" xmltv_id="kabel eins Doku">kabel eins Doku</channel>
     <channel site="klack.de" site_id="186/n24-doku" xmltv_id="N24 DOKU">N24 DOKU</channel>
-    <channel site="klack.de" site_id="135/servus-tv" xmltv_id="ServusTV">ServusTV</channel>
+    <channel site="klack.de" site_id="12190/df1" xmltv_id="DF1">DF1</channel>
     <channel site="klack.de" site_id="77/phoenix" xmltv_id="phoenix">phoenix</channel>
     <channel site="klack.de" site_id="6/arte" xmltv_id="arte">arte</channel>
     <channel site="klack.de" site_id="2/ard-alpha" xmltv_id="ARD alpha">ARD alpha</channel>
     <channel site="klack.de" site_id="130/zdfinfo" xmltv_id="ZDFinfo">ZDFinfo</channel>
 
     <!-- News International -->
+    <channel site="klack.de" site_id="35/euronews" xmltv_id="Euronews">Euronews</channel>
     <channel site="klack.de" site_id="14/bbc-world-news" xmltv_id="BBC WORLD">BBC WORLD</channel>
     <channel site="klack.de" site_id="22/cnn" xmltv_id="CNN Int.">CNN Int.</channel>
 
-    <!-- Musik -->
+    <!-- Music -->
     <channel site="klack.de" site_id="57/mtv" xmltv_id="MTV">MTV</channel>
 
     <!-- Sport -->
     <channel site="klack.de" site_id="33/sport1" xmltv_id="SPORT1">SPORT1</channel>
+    <channel site="klack.de" site_id="36/eurosport-1" xmltv_id="Eurosport 1">Eurosport 1</channel>
 
-    <!-- Einkaufen -->
+    <!-- Shopping -->
     <channel site="klack.de" site_id="81/qvc" xmltv_id="QVC">QVC</channel>
     <channel site="klack.de" site_id="48/hse" xmltv_id="HSE">HSE</channel>
     <channel site="klack.de" site_id="109/sonnenklar-tv" xmltv_id="Sonnenklar TV">Sonnenklar TV</channel>

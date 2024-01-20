@@ -12,7 +12,7 @@
   <timespan>2</timespan>
   <update>f</update>
 
-    <!-- Öffentlich -->
+    <!-- Public -->
     <channel site="tvspielfilm.de" site_id="das-erste,ARD" xmltv_id="Das Erste">Das Erste</channel>
     <channel site="tvspielfilm.de" site_id="zdf,ZDF" xmltv_id="ZDF">ZDF</channel>
     <channel site="tvspielfilm.de" site_id="ndr,N3" xmltv_id="NDR">NDR</channel>
@@ -23,8 +23,9 @@
     <channel site="tvspielfilm.de" site_id="swrsr,SWR" xmltv_id="SWR/SR">SWR/SR</channel>
     <channel site="tvspielfilm.de" site_id="hr,HR" xmltv_id="hr">hr</channel>
     <channel site="tvspielfilm.de" site_id="3sat,3SAT" xmltv_id="3sat">3sat</channel>
+    <channel site="tvspielfilm.de" site_id="rheinmain-tv,RMTV" xmltv_id="rhein main tv">rhein main tv</channel>
 
-    <!-- Unterhaltung -->
+    <!-- Entertainment -->
     <channel site="tvspielfilm.de" site_id="sat1,SAT1" xmltv_id="SAT.1">SAT.1</channel>
     <channel site="tvspielfilm.de" site_id="sat1-gold,SAT1G" xmltv_id="SAT.1 Gold">SAT.1 Gold</channel>
     <channel site="tvspielfilm.de" site_id="rtl,RTL" xmltv_id="RTL">RTL</channel>
@@ -40,7 +41,7 @@
     <channel site="tvspielfilm.de" site_id="sixx,SIXX" xmltv_id="SIXX">SIXX</channel>
     <channel site="tvspielfilm.de" site_id="comedy-central,CC" xmltv_id="Comedy Central">Comedy Central</channel>
 
-    <!-- Sparte -->
+    <!-- Alternative -->
     <channel site="tvspielfilm.de" site_id="dmax,DMAX" xmltv_id="DMAX">DMAX</channel>
     <channel site="tvspielfilm.de" site_id="one,FES" xmltv_id="ONE">ONE</channel>
     <channel site="tvspielfilm.de" site_id="zdfneo,2NEO" xmltv_id="zdf_neo">zdf_neo</channel>
@@ -48,27 +49,27 @@
     <channel site="tvspielfilm.de" site_id="anixe,ANIXE" xmltv_id="ANIXE">ANIXE</channel>
     <channel site="tvspielfilm.de" site_id="bibel-tv,BIBEL" xmltv_id="Bibel TV">Bibel TV</channel>
 
-    <!-- Kinder -->
+    <!-- Kids -->
     <channel site="tvspielfilm.de" site_id="super-rtl,SUPER" xmltv_id="SUPER RTL">SUPER RTL</channel>
     <channel site="tvspielfilm.de" site_id="nickmtv,NICK" xmltv_id="Nick/Comedy Central+1">Nick/Comedy Central+1</channel>
     <channel site="tvspielfilm.de" site_id="disney-channel,DISNE" xmltv_id="Disney Channel">Disney Channel</channel>
     <channel site="tvspielfilm.de" site_id="kika,KIKA" xmltv_id="KiKA">KiKA</channel>
     <channel site="tvspielfilm.de" site_id="toggo-plus,TOGGO" xmltv_id="TOGGO plus">TOGGO plus</channel>
 
-    <!-- News|Dokus|Kultur -->
+    <!-- News|Docus|Culture -->
     <channel site="tvspielfilm.de" site_id="tagesschau-24,TAG24" xmltv_id="tagesschau24">tagesschau24</channel>
     <channel site="tvspielfilm.de" site_id="n-tv,NTV" xmltv_id="ntv">ntv</channel>
     <channel site="tvspielfilm.de" site_id="welt,WELT" xmltv_id="WELT">WELT</channel>
     <channel site="tvspielfilm.de" site_id="kabel-eins-doku,K1DOKU" xmltv_id="kabel eins Doku">kabel eins Doku</channel>
     <channel site="tvspielfilm.de" site_id="n24-doku,N24DOKU" xmltv_id="N24 DOKU">N24 DOKU</channel>
-    <channel site="tvspielfilm.de" site_id="servustv-deutschland,SERVU" xmltv_id="ServusTV">ServusTV</channel>
+    <channel site="tvspielfilm.de" site_id="df1,DF1" xmltv_id="DF1">DF1</channel>
     <channel site="tvspielfilm.de" site_id="phoenix,PHOEN" xmltv_id="phoenix HD">phoenix HD</channel>
     <channel site="tvspielfilm.de" site_id="arte,ARTE" xmltv_id="arte">arte</channel>
     <channel site="tvspielfilm.de" site_id="ard-alpha,ALPHA" xmltv_id="ARD alpha">ARD alpha</channel>
     <channel site="tvspielfilm.de" site_id="zdfinfo,ZINFO" xmltv_id="ZDFinfo">ZDFinfo</channel>
 
     <!-- News International -->
-    <channel site="tvspielfilm.de" site_id="bbc-world-news,BBC" xmltv_id="BBC WORLD">BBC WORLD</channel>
+    <channel site="tvspielfilm.de" site_id="euronews,EURON" xmltv_id="Euronews">Euronews</channel>
     <channel site="tvspielfilm.de" site_id="bbc-news,BBC-N" xmltv_id="BBC News">BBC News</channel>
     <channel site="tvspielfilm.de" site_id="cnn-international,CNN" xmltv_id="CNN Int.">CNN Int.</channel>
     <channel site="tvspielfilm.de" site_id="cnbc,CNBC" xmltv_id="CNBC">CNBC</channel>
@@ -76,21 +77,23 @@
     <channel site="tvspielfilm.de" site_id="france-24-franz,FR24F" xmltv_id="France 24 (en Francais)">France 24 (en Francais)</channel>
     <channel site="tvspielfilm.de" site_id="al-jazeera,ALJAZ" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
 
-    <!-- Musik -->
+    <!-- Music -->
     <channel site="tvspielfilm.de" site_id="deluxe-music,DMC" xmltv_id="DELUXE MUSIC">DELUXE MUSIC</channel>
     <channel site="tvspielfilm.de" site_id="mtv,MTV" xmltv_id="MTV">MTV</channel>
 
     <!-- Sport -->
     <channel site="tvspielfilm.de" site_id="sport1,SPORT" xmltv_id="SPORT1">SPORT1</channel>
+    <channel site="tvspielfilm.de" site_id="eurosport-1,EURO" xmltv_id="Eurosport 1">Eurosport 1</channel>
 
-    <!-- Ausland -->
+    <!-- International -->
     <channel site="tvspielfilm.de" site_id="tv5-monde,TV5" xmltv_id="TV5MONDE EUROPE">TV5MONDE EUROPE</channel>
 
-    <!-- Einkaufen -->
+    <!-- Shopping -->
     <channel site="tvspielfilm.de" site_id="123tv,123TV" xmltv_id="1-2-3.tv">1-2-3.tv</channel>
     <channel site="tvspielfilm.de" site_id="qvc,QVC" xmltv_id="QVC">QVC</channel>
     <channel site="tvspielfilm.de" site_id="qvc2,QVCP" xmltv_id="QVC2">QVC2</channel>
     <channel site="tvspielfilm.de" site_id="hse24,HSE" xmltv_id="HSE">HSE</channel>
+    <channel site="tvspielfilm.de" site_id="hse-extra,HSEEXTRA" xmltv_id="HSE Extra">HSE Extra</channel>
     <channel site="tvspielfilm.de" site_id="channel21,CH21" xmltv_id="Channel21">Channel21</channel>
     <channel site="tvspielfilm.de" site_id="sonnenklar-tv,SKLAR" xmltv_id="Sonnenklar TV">Sonnenklar TV</channel>
 
