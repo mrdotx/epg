@@ -7,7 +7,7 @@ https://mcdn.daserste.de/daserste/de/master.m3u8
 rtsp://10.10.10.9:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3530,101,102,103,104,106,84,105,1176,2070,2171
 #EXTINF:-1 tvg-name="ZDF HD" group-title="Main;Public (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/hd/zdf_hd.png" tvg-id="ZDF",ZDF HD
 rtsp://10.10.10.9:554/?avm=1&freq=346&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2918,6110,6120,6121,6122,6123,6130,6131,6132,6170
-#EXTINF:-1 tvg-name="ZDF HD (IPTV)" group-title="Public (IP)" tvg-logo="https://tv.avm.de/tvapp/logos/hd/zdf_hd.png" tvg-id="ZDF",ZDF HD (IPTV)
+#EXTINF:-1 tvg-name="ZDF HD (IPTV)" group-title="Public (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/hd/zdf_hd.png" tvg-id="ZDF",ZDF HD (IPTV)
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="ZDF" group-title="Public (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/zdf.png" tvg-id="ZDF",ZDF
 rtsp://10.10.10.9:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3430,110,120,121,122,125,131,84,950,130
