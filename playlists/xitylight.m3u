@@ -319,7 +319,7 @@ rtsp://10.10.10.9:554/?avm=1&freq=378&bw=8&msys=dvbc&mtype=256qam&sr=6900&specin
 https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/mtvg18ef.m3u8
 #EXTINF:-1 tvg-name="SPORT1" group-title="Sport (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/sport1.png" tvg-id="SPORT1",SPORT1
 rtsp://10.10.10.9:554/?avm=1&freq=690&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,900,1025,39,55,1024,1029,5010,5011
-#EXTINF:-1 tvg-name="Eurosport 1 Deutschland" group-title="Sport (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/eurosport_1_deutschland.png" tvg-id="Eurosport 1 Deutschland",Eurosport 1 Deutschland
+#EXTINF:-1 tvg-name="Eurosport 1" group-title="Sport (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/eurosport_1_deutschland.png" tvg-id="Eurosport 1",Eurosport 1
 rtsp://10.10.10.9:554/?avm=1&freq=746&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6624,101,102,103,106,107
 #EXTINF:-1 tvg-name="TV5MONDE EUROPE HD" group-title="International (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/hd/tv5monde_europe_hd.png" tvg-id="TV5MONDE EUROPE",TV5MONDE EUROPE HD
 rtsp://10.10.10.9:554/?avm=1&freq=138&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6915,615,635,835,935,936,937,938,939,940,942
