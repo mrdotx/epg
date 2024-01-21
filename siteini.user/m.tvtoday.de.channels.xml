@@ -93,7 +93,7 @@
     <channel site="m.tvtoday.de" site_id="qvc" xmltv_id="QVC">QVC</channel>
     <channel site="m.tvtoday.de" site_id="qvcp" xmltv_id="QVC2">QVC2</channel>
     <channel site="m.tvtoday.de" site_id="hse" xmltv_id="HSE">HSE</channel>
-    <channel site="m.tvtoday.de" site_id="hseextra" xmltv_id="HSE">HSE Extra</channel>
+    <channel site="m.tvtoday.de" site_id="hseextra" xmltv_id="HSE Extra">HSE Extra</channel>
     <channel site="m.tvtoday.de" site_id="ch21" xmltv_id="Channel21">Channel21</channel>
     <channel site="m.tvtoday.de" site_id="sklar" xmltv_id="Sonnenklar TV">Sonnenklar TV</channel>
 
