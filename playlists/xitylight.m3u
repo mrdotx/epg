@@ -383,8 +383,6 @@ http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
 rtsp://10.10.10.9:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,659,3071,3072
 #EXTINF:-1 tvg-name="Handystar TV (IPTV)" group-title="Shopping (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/handystar_tv.png" tvg-id="Handystar TV",Handystar TV (IPTV)
 https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
-#EXTINF:-1 tvg-name="Handystar TV 2" group-title="Shopping (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/handystar_tv_2.png" tvg-id="Handystar TV 2",Handystar TV 2
-rtsp://10.10.10.9:554/?avm=1&freq=690&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,46,1791,1792
 #EXTINF:-1 tvg-name="MediaShop- Neuheiten" group-title="Shopping (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/mediashop_neuheiten.png" tvg-id="MediaShop- Neuheiten",MediaShop- Neuheiten
 rtsp://10.10.10.9:554/?avm=1&freq=690&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,898,255,256
 #EXTINF:-1 tvg-name="meinTVshop" group-title="Shopping (TV)" tvg-logo="https://tv.avm.de/tvapp/logos/meintvshop.png" tvg-id="meinTVshop",meinTVshop
