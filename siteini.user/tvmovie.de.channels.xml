@@ -45,7 +45,7 @@
     <channel site="tvmovie.de" site_id="one" xmltv_id="ONE">ONE</channel>
     <channel site="tvmovie.de" site_id="zdf-neo" xmltv_id="zdf_neo">zdf_neo</channel>
     <channel site="tvmovie.de" site_id="tlc" xmltv_id="TLC">TLC</channel>
-    <channel site="tvmovie.de" site_id="anixe-hd" xmltv_id="ANIXE">ANIXE</channel>
+    <channel site="tvmovie.de" site_id="anixe-hd" xmltv_id="ANIXE+">ANIXE+</channel>
     <channel site="tvmovie.de" site_id="bibel-tv" xmltv_id="Bibel TV">Bibel TV</channel>
 
     <!-- Kids -->

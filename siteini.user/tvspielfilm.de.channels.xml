@@ -46,7 +46,7 @@
     <channel site="tvspielfilm.de" site_id="one,FES" xmltv_id="ONE">ONE</channel>
     <channel site="tvspielfilm.de" site_id="zdfneo,2NEO" xmltv_id="zdf_neo">zdf_neo</channel>
     <channel site="tvspielfilm.de" site_id="tlc,TLC" xmltv_id="TLC">TLC</channel>
-    <channel site="tvspielfilm.de" site_id="anixe,ANIXE" xmltv_id="ANIXE">ANIXE</channel>
+    <channel site="tvspielfilm.de" site_id="anixe,ANIXE" xmltv_id="ANIXE+">ANIXE+</channel>
     <channel site="tvspielfilm.de" site_id="bibel-tv,BIBEL" xmltv_id="Bibel TV">Bibel TV</channel>
 
     <!-- Kids -->

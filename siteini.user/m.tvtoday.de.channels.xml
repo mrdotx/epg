@@ -46,7 +46,7 @@
     <channel site="m.tvtoday.de" site_id="fes" xmltv_id="ONE">ONE</channel>
     <channel site="m.tvtoday.de" site_id="2neo" xmltv_id="zdf_neo">zdf_neo</channel>
     <channel site="m.tvtoday.de" site_id="tlc" xmltv_id="TLC">TLC</channel>
-    <channel site="m.tvtoday.de" site_id="anixe" xmltv_id="ANIXE">ANIXE</channel>
+    <channel site="m.tvtoday.de" site_id="anixe" xmltv_id="ANIXE+">ANIXE+</channel>
     <channel site="m.tvtoday.de" site_id="bibel" xmltv_id="Bibel TV">Bibel TV</channel>
 
     <!-- Kids -->
