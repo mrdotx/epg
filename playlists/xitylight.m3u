@@ -135,7 +135,7 @@ rtsp://10.10.10.9:554/?avm=1&freq=722&bw=8&msys=dvbc&mtype=256qam&sr=6900&specin
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
 #EXTINF:-1 tvg-name="hr-fernsehen" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hr.png" tvg-id="hr",hr-fernsehen
 rtsp://10.10.10.9:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3532,301,302,303,304,2171,2270,2276
-#EXTINF:-1 tvg-name="3sat HD (?)" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/3sat_hd.png" tvg-id="3sat",3sat HD (?)
+#EXTINF:-1 tvg-name="3sat HD" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/3sat_hd.png" tvg-id="3sat",3sat HD
 rtsp://10.10.10.9:554/?avm=1&freq=786&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2958,6510,6520,6521,6522,6523,6530,6531,6570
 #EXTINF:-1 tvg-name="3sat HD (IPTV)" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/3sat_hd.png" tvg-id="3sat",3sat HD (IPTV)
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
@@ -229,7 +229,7 @@ rtsp://10.10.10.9:554/?avm=1&freq=754&bw=8&msys=dvbc&mtype=256qam&sr=6900&specin
 https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
 #EXTINF:-1 tvg-name="Disney Channel" group-title="05-Kids" tvg-logo="https://tv.avm.de/tvapp/logos/disney_channel.png" tvg-id="Disney Channel",Disney Channel
 rtsp://10.10.10.9:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1793,2047,36,2048,2051,2053
-#EXTINF:-1 tvg-name="KiKA HD (?)" group-title="05-Kids" tvg-logo="https://tv.avm.de/tvapp/logos/hd/kika_hd.png" tvg-id="KiKA",KiKA HD (?)
+#EXTINF:-1 tvg-name="KiKA HD" group-title="05-Kids" tvg-logo="https://tv.avm.de/tvapp/logos/hd/kika_hd.png" tvg-id="KiKA",KiKA HD
 rtsp://10.10.10.9:554/?avm=1&freq=786&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2968,6610,6620,6621,6622,6630,6670,6631,6623
 #EXTINF:-1 tvg-name="KiKA HD (IPTV)" group-title="05-Kids" tvg-logo="https://tv.avm.de/tvapp/logos/hd/kika_hd.png" tvg-id="KiKA",KiKA HD (IPTV)
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
@@ -267,15 +267,15 @@ https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2185,5421,5422,5423,5424,5426,1476,2171,4270,4272,5425,5427
 #EXTINF:-1 tvg-name="ARD alpha HD (IPTV)" group-title="06-News|Docus|Culture" tvg-logo="https://tv.avm.de/tvapp/logos/hd/ard_alpha_hd.png" tvg-id="ARD alpha",ARD alpha HD (IPTV)
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
-#EXTINF:-1 tvg-name="ZDFinfo HD (?)" group-title="06-News|Docus|Culture" tvg-logo="https://tv.avm.de/tvapp/logos/hd/zdf_info_hd.png" tvg-id="ZDFinfo",ZDFinfo HD (?)
+#EXTINF:-1 tvg-name="ZDFinfo HD" group-title="06-News|Docus|Culture" tvg-logo="https://tv.avm.de/tvapp/logos/hd/zdf_info_hd.png" tvg-id="ZDFinfo",ZDFinfo HD
 rtsp://10.10.10.9:554/?avm=1&freq=786&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2978,6710,6720,6721,6722,6723,6730,6770,6731
 #EXTINF:-1 tvg-name="ZDFinfo HD (IPTV)" group-title="06-News|Docus|Culture" tvg-logo="https://tv.avm.de/tvapp/logos/hd/zdf_info_hd.png" tvg-id="ZDFinfo",ZDFinfo HD (IPTV)
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="ZDFinfo" group-title="06-News|Docus|Culture" tvg-logo="https://tv.avm.de/tvapp/logos/zdf_info.png" tvg-id="ZDFinfo",ZDFinfo
 rtsp://10.10.10.9:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3435,610,631,640,620,621,622,625,630
-#EXTINF:-1 tvg-name="EBSHD (?)" group-title="07-News International" tvg-logo="https://tv.avm.de/tvapp/logos/hd/ebshd.png" tvg-id="EBS",EBSHD (?)
+#EXTINF:-1 tvg-name="EBSHD" group-title="07-News International" tvg-logo="https://tv.avm.de/tvapp/logos/hd/ebshd.png" tvg-id="EBS",EBSHD
 rtsp://10.10.10.9:554/?avm=1&freq=778&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,233,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,232
-#EXTINF:-1 tvg-name="EBS+HD (?)" group-title="07-News International" tvg-logo="https://tv.avm.de/tvapp/logos/hd/ebs+hd.png" tvg-id="EBS+",EBS+HD (?)
+#EXTINF:-1 tvg-name="EBS+HD" group-title="07-News International" tvg-logo="https://tv.avm.de/tvapp/logos/hd/ebs+hd.png" tvg-id="EBS+",EBS+HD
 rtsp://10.10.10.9:554/?avm=1&freq=778&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,433,400,401,402,403,404,405,406,407,408,409,410,411,412,413,414,415,416,417,418,419,420,421,422,423,424,425,426,427,428,429,430,432
 #EXTINF:-1 tvg-name="Euronews (IPTV)" group-title="07-News International" tvg-logo="https://tv.avm.de/tvapp/logos/euronews.png" tvg-id="Euronews",Euronews (IPTV)
 https://rakuten-euronews-5-de.samsung.wurl.tv/manifest/playlist.m3u8
@@ -329,15 +329,15 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 rtsp://10.10.10.9:554/?avm=1&freq=778&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,66,101,102
 #EXTINF:-1 tvg-name="RTB TV (?)" group-title="10-International" tvg-logo="https://tv.avm.de/tvapp/logos/rtb_tv.png" tvg-id="RTB TV",RTB TV (?)
 rtsp://10.10.10.9:554/?avm=1&freq=778&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,32,33,34
-#EXTINF:-1 tvg-name="RTB Radio (?)" group-title="10-International" tvg-logo="https://tv.avm.de/tvapp/logos/rtb_radio.png" tvg-id="RTB Radio",RTB Radio (?)
+#EXTINF:-1 tvg-name="RTB Radio" group-title="10-International" tvg-logo="https://tv.avm.de/tvapp/logos/rtb_radio.png" tvg-id="RTB Radio",RTB Radio
 rtsp://10.10.10.9:554/?avm=1&freq=778&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,48,49
-#EXTINF:-1 tvg-name="ORTB TV (?)" group-title="10-International" tvg-logo="https://tv.avm.de/tvapp/logos/ortb_tv.png" tvg-id="ORTB TV",ORTB TV (?)
+#EXTINF:-1 tvg-name="ORTB TV" group-title="10-International" tvg-logo="https://tv.avm.de/tvapp/logos/ortb_tv.png" tvg-id="ORTB TV",ORTB TV
 rtsp://10.10.10.9:554/?avm=1&freq=778&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1160,1161,1162
-#EXTINF:-1 tvg-name="RTI1 (?)" group-title="10-International" tvg-logo="https://tv.avm.de/tvapp/logos/rti1.png" tvg-id="RTI1",RTI1 (?)
+#EXTINF:-1 tvg-name="RTI1" group-title="10-International" tvg-logo="https://tv.avm.de/tvapp/logos/rti1.png" tvg-id="RTI1",RTI1
 rtsp://10.10.10.9:554/?avm=1&freq=778&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152
-#EXTINF:-1 tvg-name="TFM Senegal (?)" group-title="10-International" tvg-logo="https://tv.avm.de/tvapp/logos/tfm_senegal.png" tvg-id="TFM Senegal",TFM Senegal (?)
+#EXTINF:-1 tvg-name="TFM Senegal" group-title="10-International" tvg-logo="https://tv.avm.de/tvapp/logos/tfm_senegal.png" tvg-id="TFM Senegal",TFM Senegal
 rtsp://10.10.10.9:554/?avm=1&freq=778&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1010,1011,1012
-#EXTINF:-1 tvg-name="RFM Senegal (?)" group-title="10-International" tvg-logo="https://tv.avm.de/tvapp/logos/rfm_senegal.png" tvg-id="RFM Senegal",RFM Senegal (?)
+#EXTINF:-1 tvg-name="RFM Senegal" group-title="10-International" tvg-logo="https://tv.avm.de/tvapp/logos/rfm_senegal.png" tvg-id="RFM Senegal",RFM Senegal
 rtsp://10.10.10.9:554/?avm=1&freq=778&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1020,8191,1022
 #EXTINF:-1 tvg-name="ABUDHABI TV HD" group-title="10-International" tvg-logo="https://tv.avm.de/tvapp/logos/hd/abudhabi_tv_hd.png" tvg-id="ABUDHABI TV",ABUDHABI TV HD
 rtsp://10.10.10.9:554/?avm=1&freq=754&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1315,4371,4372,4373
