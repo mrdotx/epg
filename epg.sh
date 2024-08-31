@@ -3,7 +3,7 @@
 # path:   /home/klassiker/.local/share/repos/epg/epg.sh
 # author: klassiker [mrdotx]
 # github: https://github.com/mrdotx/epg
-# date:   2024-08-30T06:34:09+0200
+# date:   2024-08-31T08:14:01+0200
 
 # helper
 copy_file() {
@@ -31,6 +31,6 @@ copy_file --move \
     "/srv/http/epg/epg.xml"
 
 # epg web
-copy_file
+copy_file \
     "/srv/http/epg/epg.xml" \
     "/srv/http/epg/epg_web.xml"
