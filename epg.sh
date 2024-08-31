@@ -3,7 +3,7 @@
 # path:   /home/klassiker/.local/share/repos/epg/epg.sh
 # author: klassiker [mrdotx]
 # github: https://github.com/mrdotx/epg
-# date:   2024-08-31T08:14:01+0200
+# date:   2024-08-31T08:17:32+0200
 
 # helper
 copy_file() {
@@ -13,7 +13,7 @@ copy_file() {
     [ "$1" = "--move" ] \
         && shift \
         && rsync_options="$rsync_options --remove-source-files" \
-        && result="moved"
+        && result=" moved"
 
     eval "rsync $rsync_options $1 $2" \
         && printf "%s: %s -> %s\n" "$result" "$1" "$2"
