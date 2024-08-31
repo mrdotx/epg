@@ -3,31 +3,34 @@
 # path:   /home/klassiker/.local/share/repos/epg/epg.sh
 # author: klassiker [mrdotx]
 # github: https://github.com/mrdotx/epg
-# date:   2024-01-19T10:43:56+0100
+# date:   2024-08-30T06:34:09+0200
 
 # helper
-move_file() {
-    rsync -acqPh \
-        --chmod=F644 \
-        --remove-source-files \
-        "$1" "$2" \
-        && printf "%s moved to %s\n" "$1" "$2"
-}
+copy_file() {
+    rsync_options="-acqPh --chmod=F644"
+    result="synced"
 
-sync_file() {
-    rsync -acqPh \
-        --chmod=F644 \
-        "$1" "$2" \
-        && printf "%s synced to %s\n" "$1" "$2"
+    [ "$1" = "--move" ] \
+        && shift \
+        && rsync_options="$rsync_options --remove-source-files" \
+        && result="moved"
+
+    eval "rsync $rsync_options $1 $2" \
+        && printf "%s: %s -> %s\n" "$result" "$1" "$2"
 }
 
 # execute webgrab++
 wg++
 
 # transfer to webserver
-move_file \
-    "$HOME/wg++/epg.xml" \
-    "/srv/http/download/epg/epg.xml"
-sync_file \
+copy_file \
     "$HOME/.local/share/repos/epg/playlists/xitylight.m3u" \
-    "/srv/http/download/epg/channels.m3u"
+    "/srv/http/epg/channels.m3u"
+copy_file --move \
+    "$HOME/wg++/epg.xml" \
+    "/srv/http/epg/epg.xml"
+
+# epg web
+copy_file
+    "/srv/http/epg/epg.xml" \
+    "/srv/http/epg/epg_web.xml"
