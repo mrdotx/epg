@@ -3,7 +3,7 @@
 # path:   /home/klassiker/.local/share/repos/epg/epg.sh
 # author: klassiker [mrdotx]
 # github: https://github.com/mrdotx/epg
-# date:   2024-10-04T07:49:14+0200
+# date:   2024-10-05T07:59:24+0200
 
 # helper
 copy_file() {
@@ -48,7 +48,7 @@ update_dates() {
             new_date=$(convert_date "$old_date")
             sed -i "s/$old_date/$new_date/g" "$1"
         done \
-        && printf "updated: convert dates in %s\n to local time zone" "$1"
+        && printf "updated: convert dates in %s to local time zone\n" "$1"
 }
 
 # execute webgrab++
