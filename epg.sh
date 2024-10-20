@@ -3,10 +3,10 @@
 # path:   /home/klassiker/.local/share/repos/epg/epg.sh
 # author: klassiker [mrdotx]
 # github: https://github.com/mrdotx/epg
-# date:   2024-10-05T07:59:24+0200
+# date:   2024-10-20T09:27:21+0200
 
 # helper
-copy_file() {
+sync_file() {
     rsync_options="-acqPh --chmod=F644"
     result=" synced"
 
@@ -48,20 +48,20 @@ update_dates() {
             new_date=$(convert_date "$old_date")
             sed -i "s/$old_date/$new_date/g" "$1"
         done \
-        && printf "updated: convert dates in %s to local time zone\n" "$1"
+        && printf "updated: %s -> convert dates to local time zone\n" "$1"
 }
 
 # execute webgrab++
 wg++
 
-# convert dates to local time zone
+# convert epg dates to local time zone and move file to web server
 update_dates \
     "$HOME/wg++/epg.xml"
-
-# transfer to web server
-copy_file \
-    "$HOME/.local/share/repos/epg/playlists/xitylight.m3u" \
-    "/srv/http/epg/channels.m3u"
-copy_file --move \
+sync_file --move \
     "$HOME/wg++/epg.xml" \
     "/srv/http/epg/epg.xml"
+
+# sync channels with web server
+sync_file \
+    "$HOME/.local/share/repos/epg/playlists/xitylight.m3u" \
+    "/srv/http/epg/channels.m3u"
