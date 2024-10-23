@@ -3,7 +3,7 @@
 # path:   /home/klassiker/.local/share/repos/epg/m3u_converter.sh
 # author: klassiker [mrdotx]
 # github: https://github.com/mrdotx/epg
-# date:   2024-01-17T19:30:19+0100
+# date:   2024-10-23T08:06:48+0200
 
 ext="${1##*.}"
 
@@ -40,7 +40,7 @@ case $ext in
             done
 
         printf "\"%s\" converted to \"%s\"\n" "$1" "$csv"
-    ;;
+        ;;
     *csv)
         m3u="${1%."$ext"}.m3u"
 
@@ -54,5 +54,5 @@ case $ext in
                         "\"," $1 "\n" $5}' >> "$m3u"
 
         printf "\"%s\" converted to \"%s\"\n" "$1" "$m3u"
-    ;;
+        ;;
 esac
