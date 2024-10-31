@@ -6,9 +6,11 @@
   <filename>epg.xml</filename>
   <mode>nomark</mode>
   <postprocess grab="y" run="n">mdb</postprocess>
-  <user-agent></user-agent>
+  <proxy></proxy>
+  <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0</user-agent>
   <logging>off</logging>
-  <retry time-out="5">4</retry>
+  <retry channel-delay="0" index-delay="0" show-delay="0" time-out="5">4</retry>
+  <skip>12,0</skip>
   <timespan>2</timespan>
   <update>f</update>
 
@@ -20,7 +22,7 @@
     <channel site="tvmovie.de" site_id="mdr" xmltv_id="MDR">MDR</channel>
     <channel site="tvmovie.de" site_id="br" xmltv_id="BR">BR</channel>
     <channel site="tvmovie.de" site_id="wdr" xmltv_id="WDR">WDR</channel>
-    <channel site="tvmovie.de" site_id="swr-fernsehen" xmltv_id="SWR">SWR</channel>
+    <channel site="tvmovie.de" site_id="swr-fernsehen" xmltv_id="SWR/SR">SWR/SR</channel>
     <channel site="tvmovie.de" site_id="hr" xmltv_id="hr">hr</channel>
     <channel site="tvmovie.de" site_id="3sat" xmltv_id="3sat">3sat</channel>
 
@@ -61,6 +63,7 @@
     <channel site="tvmovie.de" site_id="welt" xmltv_id="WELT">WELT</channel>
     <channel site="tvmovie.de" site_id="kabel-eins-doku" xmltv_id="kabel eins Doku">kabel eins Doku</channel>
     <channel site="tvmovie.de" site_id="n24-doku" xmltv_id="N24 DOKU">N24 DOKU</channel>
+    <channel site="tvmovie.de" site_id="df1" xmltv_id="DF1">DF1</channel>
     <channel site="tvmovie.de" site_id="phoenix" xmltv_id="phoenix">phoenix</channel>
     <channel site="tvmovie.de" site_id="arte" xmltv_id="arte">arte</channel>
     <channel site="tvmovie.de" site_id="ard-alpha" xmltv_id="ARD alpha">ARD alpha</channel>
