@@ -3,7 +3,10 @@
 # path:   /home/klassiker/.local/share/repos/epg/epg.sh
 # author: klassiker [mrdotx]
 # github: https://github.com/mrdotx/epg
-# date:   2024-10-20T09:27:21+0200
+# date:   2024-10-31T07:17:20+0100
+
+# config
+logo_file="$HOME/.local/share/repos/epg/logos.csv"
 
 # helper
 sync_file() {
@@ -48,20 +51,34 @@ update_dates() {
             new_date=$(convert_date "$old_date")
             sed -i "s/$old_date/$new_date/g" "$1"
         done \
-        && printf "updated: %s -> convert dates to local time zone\n" "$1"
+        && printf "updated: %s -> dates to local time zone\n" "$1"
+}
+
+update_logos() {
+    while IFS= read -r line; do
+        logo=$(printf "%s" "$line" | cut -d';' -f1 | sed 's#\/#\\/#')
+        url=$(printf "%s" "$line" | cut -d';' -f2)
+
+        sed -i "/<display-name.*>$logo<\/display-name>/{n;s#.*#    <icon src=\"$url\" \/>#}" "$1"
+    done < "$logo_file" \
+    && printf "updated: %s -> urls for channel logos\n" "$1"
 }
 
 # execute webgrab++
 wg++
 
-# convert epg dates to local time zone and move file to web server
+# post process
 update_dates \
     "$HOME/wg++/epg.xml"
+update_logos \
+    "$HOME/wg++/epg.xml"
+
+# move epg file to web server
 sync_file --move \
     "$HOME/wg++/epg.xml" \
     "/srv/http/epg/epg.xml"
 
-# sync channels with web server
+# sync channels file with web server
 sync_file \
     "$HOME/.local/share/repos/epg/playlists/xitylight.m3u" \
     "/srv/http/epg/channels.m3u"
