@@ -10,7 +10,7 @@
   <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0</user-agent>
   <logging>off</logging>
   <retry channel-delay="0" index-delay="0" show-delay="0" time-out="5">4</retry>
-  <skip>12,0</skip>
+  <skip>12,1</skip>
   <timespan>2</timespan>
   <update>f</update>
 
