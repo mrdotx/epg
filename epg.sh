@@ -3,7 +3,7 @@
 # path:   /home/klassiker/.local/share/repos/epg/epg.sh
 # author: klassiker [mrdotx]
 # github: https://github.com/mrdotx/epg
-# date:   2024-10-31T07:17:20+0100
+# date:   2024-11-06T05:18:54+0100
 
 # config
 logo_file="$HOME/.local/share/repos/epg/logos.csv"
@@ -22,38 +22,6 @@ sync_file() {
         && printf "%s: %s -> %s\n" "$result" "$1" "$2"
 }
 
-convert_date() {
-    date_string=$( \
-        printf "%s\n" "$1" \
-            | sed \
-                -e 's/./&-/4' \
-                -e 's/./&-/7' \
-                -e 's/./&T/10' \
-                -e 's/./&:/13' \
-                -e 's/./&:/16' \
-    )
-
-    date -d "$date_string" +'%Y%m%d%H%M%S %z'
-}
-
-update_dates() {
-    y99="\(20[0-9][0-9]\)"
-    m12="\([0-1][0-9]\)"
-    d31="\([0-3][0-9]\)"
-    t24="\([0-2][0-9]\)"
-    t60="\([0-5][0-9]\)"
-    z="\(+0000\)"
-    filter="$y99$m12$d31$t24$t60$t60 $z"
-
-    grep -o "$filter" "$1" \
-        | sort -u \
-        | while IFS= read -r old_date; do
-            new_date=$(convert_date "$old_date")
-            sed -i "s/$old_date/$new_date/g" "$1"
-        done \
-        && printf "updated: %s -> dates to local time zone\n" "$1"
-}
-
 update_logos() {
     while IFS= read -r line; do
         logo=$(printf "%s" "$line" | cut -d';' -f1 | sed 's#\/#\\/#')
@@ -68,8 +36,6 @@ update_logos() {
 wg++
 
 # post process
-update_dates \
-    "$HOME/wg++/epg.xml"
 update_logos \
     "$HOME/wg++/epg.xml"
 
