@@ -2,8 +2,8 @@
 
 # path:   /home/klassiker/.local/share/repos/epg/logos.sh
 # author: klassiker [mrdotx]
-# github: https://github.com/mrdotx/shell
-# date:   2024-11-06T05:19:26+0100
+# github: https://github.com/mrdotx/epg
+# date:   2024-11-07T06:33:32+0100
 
 # speed up script and avoid language problems by using standard c
 LC_ALL=C
