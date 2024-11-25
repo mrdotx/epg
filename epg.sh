@@ -3,7 +3,7 @@
 # path:   /home/klassiker/.local/share/repos/epg/epg.sh
 # author: klassiker [mrdotx]
 # github: https://github.com/mrdotx/epg
-# date:   2024-11-06T05:18:54+0100
+# date:   2024-11-25T07:40:57+0100
 
 # config
 logo_file="$HOME/.local/share/repos/epg/logos.csv"
@@ -40,9 +40,10 @@ update_logos \
     "$HOME/wg++/epg.xml"
 
 # move epg file to web server
-sync_file --move \
-    "$HOME/wg++/epg.xml" \
-    "/srv/http/epg/epg.xml"
+[ "$(stat -c %s "$HOME/wg++/epg.xml")" -gt 16384 ] \
+    && sync_file --move \
+        "$HOME/wg++/epg.xml" \
+        "/srv/http/epg/epg.xml"
 
 # sync channels file with web server
 sync_file \
