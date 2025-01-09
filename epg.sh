@@ -3,7 +3,7 @@
 # path:   /home/klassiker/.local/share/repos/epg/epg.sh
 # author: klassiker [mrdotx]
 # github: https://github.com/mrdotx/epg
-# date:   2024-11-25T07:40:57+0100
+# date:   2025-01-09T07:20:07+0100
 
 # config
 logo_file="$HOME/.local/share/repos/epg/logos.csv"
@@ -33,7 +33,7 @@ update_logos() {
 }
 
 # execute webgrab++
-wg++
+wg++ >/dev/null 2>&1
 
 # post process
 update_logos \
