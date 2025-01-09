@@ -3,8 +3,6 @@
 rtsp://10.10.10.9:554/?avm=1&freq=698&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2109,5101,5102,5103,5104,5106,1170,1176,2171,5172,5107,5105,5108
 #EXTINF:-1 tvg-name="Das Erste HD (IPTV)" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/das_erste_hd.png" tvg-id="Das Erste",Das Erste HD (IPTV)
 https://mcdn.daserste.de/daserste/de/master.m3u8
-#EXTINF:-1 tvg-name="Das Erste" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/das_erste.png" tvg-id="Das Erste",Das Erste
-rtsp://10.10.10.9:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3530,101,102,103,104,106,84,105,1176,2070,2171
 #EXTINF:-1 tvg-name="ZDF HD" group-title="01-Main;02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/zdf_hd.png" tvg-id="ZDF",ZDF HD
 rtsp://10.10.10.9:554/?avm=1&freq=346&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2918,6110,6120,6121,6122,6123,6130,6131,6132,6170
 #EXTINF:-1 tvg-name="ZDF HD (IPTV)" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/zdf_hd.png" tvg-id="ZDF",ZDF HD (IPTV)
@@ -29,14 +27,6 @@ rtsp://10.10.10.9:554/?avm=1&freq=706&bw=8&msys=dvbc&mtype=256qam&sr=6900&specin
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 #EXTINF:-1 tvg-name="NDR International HD (IPTV)" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/ndr_hd.png" tvg-id="NDR",NDR International HD (IPTV)
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
-#EXTINF:-1 tvg-name="NDR FS SH" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/ndr.png" tvg-id="NDR",NDR FS SH
-rtsp://10.10.10.9:554/?avm=1&freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3651,2601,2604,2171,2670,2676,2602,2603
-#EXTINF:-1 tvg-name="NDR FS HH" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/ndr.png" tvg-id="NDR",NDR FS HH
-rtsp://10.10.10.9:554/?avm=1&freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3649,2601,2604,2171,2670,2676,2602,2603
-#EXTINF:-1 tvg-name="NDR FS MV" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/ndr.png" tvg-id="NDR",NDR FS MV
-rtsp://10.10.10.9:554/?avm=1&freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3648,2601,2604,2171,2670,2676,2602,2603
-#EXTINF:-1 tvg-name="NDR FS NDS" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/ndr.png" tvg-id="NDR",NDR FS NDS
-rtsp://10.10.10.9:554/?avm=1&freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3650,2601,2602,2603,2604,2171,2670,2676
 #EXTINF:-1 tvg-name="rbb Berlin HD" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/rbb_hd.png" tvg-id="rbb",rbb Berlin HD
 rtsp://10.10.10.9:554/?avm=1&freq=722&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2159,5311,5312,5313,5314,5316,2171,2176,3770,3772,5315,5317
 #EXTINF:-1 tvg-name="rbb Berlin HD (IPTV)" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/rbb_hd.png" tvg-id="rbb",rbb Berlin HD (IPTV)
@@ -45,10 +35,6 @@ https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
 rtsp://10.10.10.9:554/?avm=1&freq=722&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2158,5311,2171,2176,3770,3772,5312,5313,5317,5314,5316,5315
 #EXTINF:-1 tvg-name="rbb Brandenburg HD (IPTV)" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/rbb_hd.png" tvg-id="rbb",rbb Brandenburg HD (IPTV)
 https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
-#EXTINF:-1 tvg-name="rbb Berlin" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/rbb.png" tvg-id="rbb",rbb Berlin
-rtsp://10.10.10.9:554/?avm=1&freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3630,601,602,603,604,670,2171,2176
-#EXTINF:-1 tvg-name="rbb Brandenburg" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/rbb.png" tvg-id="rbb",rbb Brandenburg
-rtsp://10.10.10.9:554/?avm=1&freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3629,601,670,2171,2176,602,603,604
 #EXTINF:-1 tvg-name="MDR Thüringen HD" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/mdr_hd.png" tvg-id="MDR",MDR Thüringen HD
 rtsp://10.10.10.9:554/?avm=1&freq=722&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2162,5331,2171,2876,3670,3672,5332,5333,5337,5334,5336,5335
 #EXTINF:-1 tvg-name="MDR Thüringen HD (IPTV)" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/mdr_hd.png" tvg-id="MDR",MDR Thüringen HD (IPTV)
@@ -61,12 +47,6 @@ https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master.m3u8
 rtsp://10.10.10.9:554/?avm=1&freq=722&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2160,5331,2171,2876,3670,3672,5332,5333,5337,5334,5336,5335
 #EXTINF:-1 tvg-name="MDR Sachsen HD (IPTV)" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/mdr_hd.png" tvg-id="MDR",MDR Sachsen HD (IPTV)
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
-#EXTINF:-1 tvg-name="MDR Thüringen" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/mdr.png" tvg-id="MDR",MDR Thüringen
-rtsp://10.10.10.9:554/?avm=1&freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3654,2901,2171,2870,2876,2902,2903,2904,2905
-#EXTINF:-1 tvg-name="MDR S-Anhalt" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/mdr_sanhalt.png" tvg-id="MDR",MDR S-Anhalt
-rtsp://10.10.10.9:554/?avm=1&freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3653,2901,2902,2903,2904,2171,2870,2876,2905
-#EXTINF:-1 tvg-name="MDR Sachsen" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/mdr.png" tvg-id="MDR",MDR Sachsen
-rtsp://10.10.10.9:554/?avm=1&freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3652,2901,2171,2870,2876,2902,2903,2904,2905
 #EXTINF:-1 tvg-name="BR Fernsehen Süd HD" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/br_hd.png" tvg-id="BR",BR Fernsehen Süd HD
 rtsp://10.10.10.9:554/?avm=1&freq=706&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2133,5201,5202,5203,5204,5206,1076,1570,2171,5205,5209,5275,5207
 #EXTINF:-1 tvg-name="BR Fernsehen Süd HD (IPTV)" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/br_hd.png" tvg-id="BR",BR Fernsehen Süd HD (IPTV)
@@ -75,10 +55,6 @@ https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/master.m3u8
 rtsp://10.10.10.9:554/?avm=1&freq=706&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2134,5201,5204,1076,1570,2171,5209,5275,5205,5202,5203,5207,5206
 #EXTINF:-1 tvg-name="BR Fernsehen Nord HD (IPTV)" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/br_fernsehen_nord_hd.png" tvg-id="BR",BR Fernsehen Nord HD (IPTV)
 https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
-#EXTINF:-1 tvg-name="BR Fernsehen Süd" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/br_fernsehen_sued.png" tvg-id="BR",BR Fernsehen Süd
-rtsp://10.10.10.9:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3531,201,202,203,204,206,205,1076,2171,2178
-#EXTINF:-1 tvg-name="BR Fernsehen Nord" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/br_fernsehen_nord.png" tvg-id="BR",BR Fernsehen Nord
-rtsp://10.10.10.9:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3534,501,502,503,504,506,205,1076,2171,2178
 #EXTINF:-1 tvg-name="WDR Köln HD" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/wdr_hd.png" tvg-id="WDR",WDR Köln HD
 rtsp://10.10.10.9:554/?avm=1&freq=362&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3756,101,102,103,107,104,106,2172,2372,2378,2379,105
 #EXTINF:-1 tvg-name="WDR HD Köln (IPTV)" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/wdr_hd.png" tvg-id="WDR",WDR HD Köln (IPTV)
@@ -99,20 +75,6 @@ rtsp://10.10.10.9:554/?avm=1&freq=362&bw=8&msys=dvbc&mtype=256qam&sr=6900&specin
 rtsp://10.10.10.9:554/?avm=1&freq=362&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3763,101,104,2172,2372,2378,2379,105,102,103,107,106
 #EXTINF:-1 tvg-name="WDR Wuppertal HD" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/wdr_hd_wuppertal.png" tvg-id="WDR",WDR Wuppertal HD
 rtsp://10.10.10.9:554/?avm=1&freq=810&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3766,101,104,2172,2372,2378,2379,105,102,103,107,106
-#EXTINF:-1 tvg-name="WDR Köln" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/wdr.png" tvg-id="WDR",WDR Köln
-rtsp://10.10.10.9:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3535,601,602,603,604,605,2171,2370,2376
-#EXTINF:-1 tvg-name="WDR Bielefeld" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/wdr_bielefeld.png" tvg-id="WDR",WDR Bielefeld
-rtsp://10.10.10.9:554/?avm=1&freq=362&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3730,301,504,2171,2370,2376,302,303,505
-#EXTINF:-1 tvg-name="WDR Dortmund" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/wdr_dortmund.png" tvg-id="WDR",WDR Dortmund
-rtsp://10.10.10.9:554/?avm=1&freq=362&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3731,401,504,2171,2370,2376,402,403,505
-#EXTINF:-1 tvg-name="WDR Düsseldorf" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/wdr_duesseldorf.png" tvg-id="WDR",WDR Düsseldorf
-rtsp://10.10.10.9:554/?avm=1&freq=362&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3733,501,502,504,2171,2370,2376,503,505
-#EXTINF:-1 tvg-name="WDR Essen" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/wdr_essen.png" tvg-id="WDR",WDR Essen
-rtsp://10.10.10.9:554/?avm=1&freq=362&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3734,601,504,2171,2370,2376,602,603,505
-#EXTINF:-1 tvg-name="WDR Münster" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/wdr_muenster.png" tvg-id="WDR",WDR Münster
-rtsp://10.10.10.9:554/?avm=1&freq=362&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3735,701,504,2171,2370,2376,702,703,505
-#EXTINF:-1 tvg-name="WDR Siegen" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/wdr_siegen.png" tvg-id="WDR",WDR Siegen
-rtsp://10.10.10.9:554/?avm=1&freq=362&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3736,801,504,2171,2370,2376,802,803,505
 #EXTINF:-1 tvg-name="SWR BW HD" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/swr_bw_hd.png" tvg-id="SWR/SR",SWR BW HD
 rtsp://10.10.10.9:554/?avm=1&freq=698&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2111,5121,5122,5123,5124,5126,1370,2171,2476,5174,5127,5125
 #EXTINF:-1 tvg-name="SWR BW HD (IPTV)" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/swr_bw_hd.png" tvg-id="SWR/SR",SWR BW HD (IPTV)
@@ -121,10 +83,6 @@ https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
 rtsp://10.10.10.9:554/?avm=1&freq=698&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2112,5121,5134,1371,2171,2476,5176,5135,5122,5123,5127,5126
 #EXTINF:-1 tvg-name="SWR RP HD (IPTV)" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/swr_hd.png" tvg-id="SWR/SR",SWR RP HD (IPTV)
 https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
-#EXTINF:-1 tvg-name="SWR Fernsehen BW" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/swr.png" tvg-id="SWR/SR",SWR Fernsehen BW
-rtsp://10.10.10.9:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3537,801,802,803,804,806,1270,2171,2476
-#EXTINF:-1 tvg-name="SWR Fernsehen RP" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/swr.png" tvg-id="SWR/SR",SWR Fernsehen RP
-rtsp://10.10.10.9:554/?avm=1&freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3655,3101,3102,3103,3104,3106,2171,2470,2476
 #EXTINF:-1 tvg-name="SR Fernsehen HD" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/sr_hd.png" tvg-id="SWR/SR",SR Fernsehen HD
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2186,5431,5432,5433,5434,5436,2171,2976,4370,4372,5435,5437
 #EXTINF:-1 tvg-name="SR Fernsehen HD (IPTV)" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/sr_hd.png" tvg-id="SWR/SR",SR Fernsehen HD (IPTV)
@@ -133,16 +91,12 @@ https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 rtsp://10.10.10.9:554/?avm=1&freq=722&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2163,5351,5352,5353,5354,5356,2171,2276,3570,3572,5355,5357
 #EXTINF:-1 tvg-name="hr-fernsehen HD (IPTV)" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/hr_hd.png" tvg-id="hr",hr-fernsehen HD (IPTV)
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
-#EXTINF:-1 tvg-name="hr-fernsehen" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hr.png" tvg-id="hr",hr-fernsehen
-rtsp://10.10.10.9:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3532,301,302,303,304,2171,2270,2276
 #EXTINF:-1 tvg-name="3sat HD" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/3sat_hd.png" tvg-id="3sat",3sat HD
 rtsp://10.10.10.9:554/?avm=1&freq=786&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2958,6510,6520,6521,6522,6523,6530,6531,6570
 #EXTINF:-1 tvg-name="3sat HD (IPTV)" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/3sat_hd.png" tvg-id="3sat",3sat HD (IPTV)
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="3sat" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/3sat.png" tvg-id="3sat",3sat
 rtsp://10.10.10.9:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3431,210,220,221,225,222,231,250,230
-#EXTINF:-1 tvg-name="Radio Bremen TV" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/radio_bremen_tv.png" tvg-id="Radio Bremen TV",Radio Bremen TV
-rtsp://10.10.10.9:554/?avm=1&freq=362&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3809,1201,1202,1204,2171,2570,2576
 #EXTINF:-1 tvg-name="Radio Bremen TV (IPTV)" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/radio_bremen_tv.png" tvg-id="Radio Bremen TV",Radio Bremen TV (IPTV)
 https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
 #EXTINF:-1 tvg-name="rhein main tv" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/rhein_main_tv.png" tvg-id="rhein main tv",rhein main tv
@@ -185,7 +139,7 @@ rtsp://10.10.10.9:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specin
 rtsp://10.10.10.9:554/?avm=1&freq=834&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2208,2209,2210,2233,2211
 #EXTINF:-1 tvg-name="DMAX" group-title="01-Main;04-Alternative" tvg-logo="https://tv.avm.de/tvapp/logos/dmax.png" tvg-id="DMAX",DMAX
 rtsp://10.10.10.9:554/?avm=1&freq=690&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,63,3327,44,3328,3333,3334,3335
-#EXTINF:-1 tvg-name="ONE HD (?)" group-title="01-Main;04-Alternative" tvg-logo="https://tv.avm.de/tvapp/logos/hd/one_hd.png" tvg-id="ONE",ONE HD (?)
+#EXTINF:-1 tvg-name="ONE HD" group-title="01-Main;04-Alternative" tvg-logo="https://tv.avm.de/tvapp/logos/hd/one_hd.png" tvg-id="ONE",ONE HD
 rtsp://10.10.10.9:554/?avm=1&freq=730&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2184,5411,5412,5413,5414,5416,276,2171,4170,4172,5415,5417
 #EXTINF:-1 tvg-name="ONE HD (IPTV)" group-title="04-Alternative" tvg-logo="https://tv.avm.de/tvapp/logos/hd/one_hd.png" tvg-id="ONE",ONE HD (IPTV)
 https://mcdn.one.ard.de/ardone/hls/master.m3u8
@@ -207,7 +161,7 @@ https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 rtsp://10.10.10.9:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,764,3311,3312,3317,3319,49
 #EXTINF:-1 tvg-name="ANIXE+ (IPTV)" group-title="04-Alternative" tvg-logo="https://tv.avm.de/tvapp/logos/hd/anixe+.png" tvg-id="ANIXE+",ANIXE+ (IPTV)
 https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
-#EXTINF:-1 tvg-name="Bibel TV (?)" group-title="04-Alternative" tvg-logo="https://tv.avm.de/tvapp/logos/bibel_tv.png" tvg-id="Bibel TV",Bibel TV (?)
+#EXTINF:-1 tvg-name="Bibel TV" group-title="04-Alternative" tvg-logo="https://tv.avm.de/tvapp/logos/bibel_tv.png" tvg-id="Bibel TV",Bibel TV
 rtsp://10.10.10.9:554/?avm=1&freq=130&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3930,33,34,36,109
 #EXTINF:-1 tvg-name="Bibel TV (IPTV)" group-title="04-Alternative" tvg-logo="https://tv.avm.de/tvapp/logos/bibel_tv.png" tvg-id="Bibel TV",Bibel TV (IPTV)
 https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8
@@ -237,7 +191,7 @@ https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 rtsp://10.10.10.9:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3432,310,320,321,325,330,350,331,322
 #EXTINF:-1 tvg-name="TOGGO plus" group-title="05-Kids" tvg-logo="https://tv.avm.de/tvapp/logos/toggo_plus.png" tvg-id="TOGGO plus",TOGGO plus
 rtsp://10.10.10.9:554/?avm=1&freq=682&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3838,301,303,360
-#EXTINF:-1 tvg-name="tagesschau24 HD (?)" group-title="06-News|Docus|Culture" tvg-logo="https://tv.avm.de/tvapp/logos/hd/tagesschau24_hd.png" tvg-id="tagesschau24",tagesschau24 HD (?)
+#EXTINF:-1 tvg-name="tagesschau24 HD" group-title="06-News|Docus|Culture" tvg-logo="https://tv.avm.de/tvapp/logos/hd/tagesschau24_hd.png" tvg-id="tagesschau24",tagesschau24 HD
 rtsp://10.10.10.9:554/?avm=1&freq=730&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2183,5401,5402,5403,5404,5406,176,2171,3970,4072,5407
 #EXTINF:-1 tvg-name="tagesschau24 HD (IPTV)" group-title="06-News|Docus|Culture" tvg-logo="https://tv.avm.de/tvapp/logos/hd/tagesschau24_hd.png" tvg-id="tagesschau24",tagesschau24 HD (IPTV)
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
