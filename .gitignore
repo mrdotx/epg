@@ -1,0 +1,6 @@
+# path:   /home/klassiker/.local/share/repos/epg/.gitignore
+# author: klassiker [mrdotx]
+# github: https://github.com/mrdotx/epg
+# date:   2025-01-16T08:17:07+0100
+
+/playlists/*.png
