@@ -103,9 +103,9 @@ https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
 rtsp://10.10.10.9:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4921,2130,2131,2139
 #EXTINF:-1 tvg-name="SAT.1" group-title="01-Main;03-Entertainment" tvg-logo="https://tv.avm.de/tvapp/logos/sat1.png" tvg-id="SAT.1",SAT.1
 rtsp://10.10.10.9:554/?avm=1&freq=714&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1116,255,32,256,259,261
-#EXTINF:-1 tvg-name="SAT.1 HH/SH" group-title="03-Entertainment" tvg-logo="https://tv.avm.de/tvapp/logos/sat1_hh_sh.png" tvg-id="SAT.1",SAT.1 HH/SH
+#EXTINF:-1 tvg-name="SAT.1 HH/SH" group-title="03-Entertainment" tvg-logo="https://tv.avm.de/tvapp/logos/sat1.png" tvg-id="SAT.1",SAT.1 HH/SH
 rtsp://10.10.10.9:554/?avm=1&freq=746&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3624,2047,40,2048,2051,2053
-#EXTINF:-1 tvg-name="SAT.1 NS/Bremen" group-title="03-Entertainment" tvg-logo="https://tv.avm.de/tvapp/logos/sat1_ns_bremen.png" tvg-id="SAT.1",SAT.1 NS/Bremen
+#EXTINF:-1 tvg-name="SAT.1 NS/Bremen" group-title="03-Entertainment" tvg-logo="https://tv.avm.de/tvapp/logos/sat1.png" tvg-id="SAT.1",SAT.1 NS/Bremen
 rtsp://10.10.10.9:554/?avm=1&freq=746&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3625,2047,40,2053,2048,2051
 #EXTINF:-1 tvg-name="SAT.1 Gold" group-title="01-Main;03-Entertainment" tvg-logo="https://tv.avm.de/tvapp/logos/sat1gold.png" tvg-id="SAT.1 Gold",SAT.1 Gold
 rtsp://10.10.10.9:554/?avm=1&freq=714&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1120,1279,36,1280,1285
@@ -165,13 +165,13 @@ https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 rtsp://10.10.10.9:554/?avm=1&freq=130&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3930,33,34,36,109
 #EXTINF:-1 tvg-name="Bibel TV (IPTV)" group-title="04-Alternative" tvg-logo="https://tv.avm.de/tvapp/logos/bibel_tv.png" tvg-id="Bibel TV",Bibel TV (IPTV)
 https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-name="EWTN katholisches TV HD" group-title="04-Alternative" tvg-logo="https://tv.avm.de/tvapp/logos/hd/ewtn_katholisches_tv_hd.png" tvg-id="EWTN",EWTN katholisches TV HD
+#EXTINF:-1 tvg-name="EWTN katholisches TV HD" group-title="04-Alternative" tvg-logo="https://tv.avm.de/tvapp/logos/ewtn_katholisches_tv_hd.png" tvg-id="EWTN",EWTN katholisches TV HD
 rtsp://10.10.10.9:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4949,2410,2411
 #EXTINF:-1 tvg-name="EWTN katholisches TV" group-title="04-Alternative" tvg-logo="https://tv.avm.de/tvapp/logos/ewtn_katholisches_tv.png" tvg-id="EWTN",EWTN katholisches TV
 rtsp://10.10.10.9:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,62,1023,1024,1029,1030
 #EXTINF:-1 tvg-name="EWTN katholisches TV (IPTV)" group-title="04-Alternative" tvg-logo="https://tv.avm.de/tvapp/logos/ewtn_katholisches_tv.png" tvg-id="EWTN",EWTN katholisches TV (IPTV)
 https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-name="K-TV HD" group-title="04-Alternative" tvg-logo="https://tv.avm.de/tvapp/logos/hd/ktv_hd.png" tvg-id="K-TV",K-TV HD
+#EXTINF:-1 tvg-name="K-TV HD" group-title="04-Alternative" tvg-logo="https://tv.avm.de/tvapp/logos/ktv_hd.png" tvg-id="K-TV",K-TV HD
 rtsp://10.10.10.9:554/?avm=1&freq=770&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,99,1023,1024
 #EXTINF:-1 tvg-name="Spirit TV" group-title="04-Alternative" tvg-logo="https://tv.avm.de/tvapp/logos/spirit_tv.png" tvg-id="Spirit TV",Spirit TV
 rtsp://10.10.10.9:554/?avm=1&freq=690&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,661,2559,2560
@@ -235,7 +235,7 @@ rtsp://10.10.10.9:554/?avm=1&freq=778&bw=8&msys=dvbc&mtype=256qam&sr=6900&specin
 rtsp://10.10.10.9:554/?avm=1&freq=778&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,433,400,401,402,403,404,405,406,407,408,409,410,411,412,413,414,415,416,417,418,419,420,421,422,423,424,425,426,427,428,429,430,432
 #EXTINF:-1 tvg-name="Euronews (IPTV)" group-title="07-News International" tvg-logo="https://tv.avm.de/tvapp/logos/euronews.png" tvg-id="Euronews",Euronews (IPTV)
 https://rakuten-euronews-5-de.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="BBC News HD" group-title="07-News International" tvg-logo="https://tv.avm.de/tvapp/logos/bbc_news.png" tvg-id="BBC News",BBC News HD
+#EXTINF:-1 tvg-name="BBC News HD" group-title="07-News International" tvg-logo="https://tv.avm.de/tvapp/logos/hd/bbc_news_hd.png" tvg-id="BBC News",BBC News HD
 rtsp://10.10.10.9:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5001,2091,1221,2092
 #EXTINF:-1 tvg-name="BBC News" group-title="07-News International" tvg-logo="https://tv.avm.de/tvapp/logos/bbc_news.png" tvg-id="BBC News",BBC News
 rtsp://10.10.10.9:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1614,1611,1612
@@ -275,13 +275,11 @@ rtsp://10.10.10.9:554/?avm=1&freq=138&bw=8&msys=dvbc&mtype=256qam&sr=6900&specin
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:-1 tvg-name="RTB TV (?)" group-title="10-International" tvg-logo="https://tv.avm.de/tvapp/logos/rtb_tv.png" tvg-id="RTB TV",RTB TV (?)
 rtsp://10.10.10.9:554/?avm=1&freq=778&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,32,33,34
-#EXTINF:-1 tvg-name="RTB Radio" group-title="10-International" tvg-logo="https://tv.avm.de/tvapp/logos/rtb_radio.png" tvg-id="RTB Radio",RTB Radio
-rtsp://10.10.10.9:554/?avm=1&freq=778&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,48,49
 #EXTINF:-1 tvg-name="ORTB TV" group-title="10-International" tvg-logo="https://tv.avm.de/tvapp/logos/ortb_tv.png" tvg-id="ORTB TV",ORTB TV
 rtsp://10.10.10.9:554/?avm=1&freq=778&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1160,1161,1162
-#EXTINF:-1 tvg-name="RTI1" group-title="10-International" tvg-logo="https://tv.avm.de/tvapp/logos/rti1.png" tvg-id="RTI1",RTI1
+#EXTINF:-1 tvg-name="RTI1" group-title="10-International" tvg-logo="https://tv.avm.de/tvapp/logos/rti.png" tvg-id="RTI1",RTI1
 rtsp://10.10.10.9:554/?avm=1&freq=778&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152
-#EXTINF:-1 tvg-name="TFM Senegal (?)" group-title="10-International" tvg-logo="https://tv.avm.de/tvapp/logos/tfm_senegal.png" tvg-id="TFM Senegal",TFM Senegal (?)
+#EXTINF:-1 tvg-name="TFM Senegal (?)" group-title="10-International" tvg-logo="https://tv.avm.de/tvapp/logos/tfm.png" tvg-id="TFM Senegal",TFM Senegal (?)
 rtsp://10.10.10.9:554/?avm=1&freq=778&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1010,1011,1012
 #EXTINF:-1 tvg-name="ABUDHABI TV HD" group-title="10-International" tvg-logo="https://tv.avm.de/tvapp/logos/hd/abudhabi_tv_hd.png" tvg-id="ABUDHABI TV",ABUDHABI TV HD
 rtsp://10.10.10.9:554/?avm=1&freq=754&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1315,4371,4372,4373
@@ -397,6 +395,8 @@ rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specin
 rtsp://10.10.10.9:554/?avm=1&freq=746&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4464,356
 #EXTINF:-1 tvg-name="Radio HCJB" group-title="56-Talk" tvg-logo="https://tv.avm.de/tvapp/logos/radio/radio_hcjb.png" tvg-id="Radio HCJB",Radio HCJB
 rtsp://10.10.10.9:554/?avm=1&freq=746&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4465,357
+#EXTINF:-1 tvg-name="RTB Radio" group-title="56-Talk" tvg-logo="https://tv.avm.de/tvapp/logos/radio/rtb_radio.png" tvg-id="RTB Radio",RTB Radio
+rtsp://10.10.10.9:554/?avm=1&freq=778&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,48,49
 #EXTINF:-1 tvg-name="1LIVE" group-title="57-Pop" tvg-logo="https://tv.avm.de/tvapp/logos/radio/1live.png" tvg-id="1LIVE",1LIVE
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2259,601,2167,2178,2084
 #EXTINF:-1 tvg-name="BAYERN 3" group-title="57-Pop" tvg-logo="https://tv.avm.de/tvapp/logos/radio/bayern_3.png" tvg-id="BAYERN 3",BAYERN 3
@@ -475,5 +475,5 @@ rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specin
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2242,421,2086,2167,2178
 #EXTINF:-1 tvg-name="hr4" group-title="59-Folk" tvg-logo="https://tv.avm.de/tvapp/logos/radio/hr4.png" tvg-id="hr4",hr4
 rtsp://10.10.10.9:554/?avm=1&freq=674&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2276,731,2074,2166,2179
-#EXTINF:-1 tvg-name="RFM Senegal (?)" group-title="59-Folk" tvg-logo="https://tv.avm.de/tvapp/logos/radio/rfm_senegal.png" tvg-id="RFM Senegal",RFM Senegal (?)
+#EXTINF:-1 tvg-name="RFM Senegal (?)" group-title="59-Folk" tvg-logo="https://tv.avm.de/tvapp/logos/radio/rfm.png" tvg-id="RFM Senegal",RFM Senegal (?)
 rtsp://10.10.10.9:554/?avm=1&freq=778&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1020,8191,1022
