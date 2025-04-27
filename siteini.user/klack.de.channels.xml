@@ -52,7 +52,7 @@
 
     <!-- Kids -->
     <channel site="klack.de" site_id="113/super-rtl" xmltv_id="SUPER RTL">SUPER RTL</channel>
-    <channel site="klack.de" site_id="64/nick" xmltv_id="Nick/Comedy Central+1">Nick/Comedy Central+1</channel>
+    <channel site="klack.de" site_id="64/nickelodeon" xmltv_id="Nick/Comedy Central+1">Nick/Comedy Central+1</channel>
     <channel site="klack.de" site_id="25/disney-channel" xmltv_id="Disney Channel">Disney Channel</channel>
     <channel site="klack.de" site_id="54/kika" xmltv_id="KiKA">KiKA</channel>
     <channel site="klack.de" site_id="180/toggo-plus" xmltv_id="TOGGO plus">TOGGO plus</channel>
@@ -71,7 +71,7 @@
 
     <!-- News International -->
     <channel site="klack.de" site_id="35/euronews" xmltv_id="Euronews">Euronews</channel>
-    <channel site="klack.de" site_id="14/bbc-world-news" xmltv_id="BBC WORLD">BBC WORLD</channel>
+    <channel site="klack.de" site_id="14/bbc-news" xmltv_id="BBC News">BBC News</channel>
     <channel site="klack.de" site_id="22/cnn" xmltv_id="CNN Int.">CNN Int.</channel>
 
     <!-- Music -->
