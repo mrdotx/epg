@@ -1,12 +1,17 @@
 # epg
 
-config files for webgrab++ in combination with a fritzbox
+config files and scripts for webgrab++ in combination with a fritzbox
 
-shell scripts:
+| folder       | comment                    |
+| :----------- | :------------------------- |
+| playlists    | fritzbox example m3u files |
+| siteini.user | webgrab++ siteini files    |
+| systemd      | systemd services and timer |
 
 | file             | comment                                                           |
 | :--------------- | :---------------------------------------------------------------- |
 | epg.sh           | convert dates to local time zone and sync/move files to webserver |
+| logos.csv        | expample logos file to replace logos with epg.sh                  |
 | logos.sh         | extract tvg-logo and tvg-id from a m3u file                       |
 | m3u_converter.sh | converts a m3u file to a csv file and vice versa                  |
 
