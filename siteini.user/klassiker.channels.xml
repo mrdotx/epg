@@ -1,0 +1,102 @@
+﻿<?xml version="1.0"?>
+<settings>
+
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
+
+  <filename>epg.xml</filename>
+  <mode>nomark</mode>
+  <postprocess grab="y" run="n">mdb</postprocess>
+  <proxy></proxy>
+  <user-agent></user-agent>
+  <logging>off</logging>
+  <retry channel-delay="0" index-delay="0" show-delay="0" time-out="5">4</retry>
+  <skip>24,1</skip>
+  <timespan>2</timespan>
+  <update>f</update>
+
+    <!-- Public -->
+    <channel site="klack.de" site_id="5/das-erste" xmltv_id="Das Erste">Das Erste</channel>
+    <channel site="klack.de" site_id="129/zdf" xmltv_id="ZDF">ZDF</channel>
+    <channel site="klack.de" site_id="67/ndr" xmltv_id="NDR">NDR</channel>
+    <channel site="klack.de" site_id="83/rbb" xmltv_id="rbb">rbb</channel>
+    <channel site="klack.de" site_id="55/mdr" xmltv_id="MDR">MDR</channel>
+    <channel site="klack.de" site_id="12/br" xmltv_id="BR">BR</channel>
+    <channel site="klack.de" site_id="127/wdr" xmltv_id="WDR">WDR</channel>
+    <channel site="klack.de" site_id="50/swr" xmltv_id="SWR">SWR</channel>
+    <channel site="klack.de" site_id="221/sr-fernsehen" xmltv_id="SR">SR</channel>
+    <channel site="klack.de" site_id="49/hr" xmltv_id="hr">hr</channel>
+    <channel site="klack.de" site_id="1/3sat" xmltv_id="3sat">3sat</channel>
+
+    <!-- Entertainment -->
+    <channel site="klack.de" site_id="92/sat-1" xmltv_id="SAT.1">SAT.1</channel>
+    <channel site="klack.de" site_id="151/sat-1-gold" xmltv_id="SAT.1 Gold">SAT.1 Gold</channel>
+    <channel site="klack.de" site_id="86/rtl" xmltv_id="RTL">RTL</channel>
+    <channel site="klack.de" site_id="87/rtl-zwei" xmltv_id="RTLZWEI">RTLZWEI</channel>
+    <channel site="klack.de" site_id="179/rtlup" xmltv_id="RTLup">RTLup</channel>
+    <channel site="klack.de" site_id="142/nitro" xmltv_id="NITRO">NITRO</channel>
+    <channel site="klack.de" site_id="79/prosieben" xmltv_id="ProSieben">ProSieben</channel>
+    <channel site="klack.de" site_id="153/prosieben-maxx" xmltv_id="Pro7 MAXX">Pro7 MAXX</channel>
+    <channel site="klack.de" site_id="51/kabel-eins" xmltv_id="kabel eins">kabel eins</channel>
+    <channel site="klack.de" site_id="126/vox" xmltv_id="VOX">VOX</channel>
+    <channel site="klack.de" site_id="214/voxup" xmltv_id="VOXup">VOXup</channel>
+    <channel site="klack.de" site_id="118/tele-5" xmltv_id="TELE 5">TELE 5</channel>
+    <channel site="klack.de" site_id="133/sixx" xmltv_id="SIXX">SIXX</channel>
+    <channel site="klack.de" site_id="23/comedy-central" xmltv_id="Comedy Central">Comedy Central</channel>
+
+    <!-- Alternative -->
+    <channel site="klack.de" site_id="30/dmax" xmltv_id="DMAX">DMAX</channel>
+    <channel site="klack.de" site_id="38/one" xmltv_id="ONE">ONE</channel>
+    <channel site="klack.de" site_id="131/zdfneo" xmltv_id="zdf_neo">zdf_neo</channel>
+    <channel site="klack.de" site_id="155/tlc" xmltv_id="TLC">TLC</channel>
+    <channel site="tvspielfilm.de" site_id="anixe,ANIXE" xmltv_id="ANIXE+">ANIXE+</channel>
+    <channel site="klack.de" site_id="16/bibel-tv" xmltv_id="Bibel TV">Bibel TV</channel>
+
+    <!-- Kids -->
+    <channel site="klack.de" site_id="113/super-rtl" xmltv_id="SUPER RTL">SUPER RTL</channel>
+    <channel site="klack.de" site_id="64/nickelodeon" xmltv_id="Nick/Comedy Central+1">Nick/Comedy Central+1</channel>
+    <channel site="klack.de" site_id="25/disney-channel" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="klack.de" site_id="54/kika" xmltv_id="KiKA">KiKA</channel>
+    <channel site="klack.de" site_id="180/toggo-plus" xmltv_id="TOGGO plus">TOGGO plus</channel>
+
+    <!-- News|Docus|Culture -->
+    <channel site="klack.de" site_id="37/tagesschau24" xmltv_id="tagesschau24">tagesschau24</channel>
+    <channel site="klack.de" site_id="68/n-tv" xmltv_id="ntv">ntv</channel>
+    <channel site="klack.de" site_id="60/welt" xmltv_id="WELT">WELT</channel>
+    <channel site="klack.de" site_id="183/kabel-1-doku" xmltv_id="kabel eins Doku">kabel eins Doku</channel>
+    <channel site="klack.de" site_id="186/n24-doku" xmltv_id="N24 DOKU">N24 DOKU</channel>
+    <channel site="klack.de" site_id="12190/df1" xmltv_id="DF1">DF1</channel>
+    <channel site="klack.de" site_id="77/phoenix" xmltv_id="phoenix">phoenix</channel>
+    <channel site="klack.de" site_id="6/arte" xmltv_id="arte">arte</channel>
+    <channel site="klack.de" site_id="2/ard-alpha" xmltv_id="ARD alpha">ARD alpha</channel>
+    <channel site="klack.de" site_id="130/zdfinfo" xmltv_id="ZDFinfo">ZDFinfo</channel>
+
+    <!-- News International -->
+    <channel site="klack.de" site_id="35/euronews" xmltv_id="Euronews">Euronews</channel>
+    <channel site="klack.de" site_id="14/bbc-news" xmltv_id="BBC News">BBC News</channel>
+    <channel site="klack.de" site_id="22/cnn" xmltv_id="CNN Int.">CNN Int.</channel>
+    <channel site="tvspielfilm.de" site_id="cnbc,CNBC" xmltv_id="CNBC">CNBC</channel>
+    <channel site="tvspielfilm.de" site_id="france-24-engl,FR24E" xmltv_id="France 24 (In English)">France 24 (In English)</channel>
+    <channel site="tvspielfilm.de" site_id="france-24-franz,FR24F" xmltv_id="France 24 (en Francais)">France 24 (en Francais)</channel>
+    <channel site="tvspielfilm.de" site_id="al-jazeera,ALJAZ" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+
+    <!-- Music -->
+    <channel site="tvspielfilm.de" site_id="deluxe-music,DMC" xmltv_id="DELUXE MUSIC">DELUXE MUSIC</channel>
+    <channel site="klack.de" site_id="57/mtv" xmltv_id="MTV">MTV</channel>
+
+    <!-- Sport -->
+    <channel site="klack.de" site_id="33/sport1" xmltv_id="SPORT1">SPORT1</channel>
+    <channel site="klack.de" site_id="36/eurosport-1" xmltv_id="Eurosport 1">Eurosport 1</channel>
+
+    <!-- International -->
+    <channel site="tvspielfilm.de" site_id="tv5-monde,TV5" xmltv_id="TV5MONDE EUROPE">TV5MONDE EUROPE</channel>
+
+    <!-- Shopping -->
+    <channel site="tvspielfilm.de" site_id="123tv,123TV" xmltv_id="1-2-3.tv">1-2-3.tv</channel>
+    <channel site="klack.de" site_id="81/qvc" xmltv_id="QVC">QVC</channel>
+    <channel site="tvspielfilm.de" site_id="qvc2,QVCP" xmltv_id="QVC2">QVC2</channel>
+    <channel site="klack.de" site_id="48/hse" xmltv_id="HSE">HSE</channel>
+    <channel site="tvspielfilm.de" site_id="hse-extra,HSEEXTRA" xmltv_id="HSE Extra">HSE Extra</channel>
+    <channel site="tvspielfilm.de" site_id="channel21,CH21" xmltv_id="Channel21">Channel21</channel>
+    <channel site="klack.de" site_id="109/sonnenklar-tv" xmltv_id="Sonnenklar TV">Sonnenklar TV</channel>
+
+</settings>
