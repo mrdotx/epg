@@ -22,7 +22,8 @@
     <channel site="tvspielfilm.de" site_id="mdr,MDR" xmltv_id="MDR">MDR</channel>
     <channel site="tvspielfilm.de" site_id="br,BR" xmltv_id="BR">BR</channel>
     <channel site="tvspielfilm.de" site_id="wdr,WDR" xmltv_id="WDR">WDR</channel>
-    <channel site="tvspielfilm.de" site_id="swrsr,SWR" xmltv_id="SWR/SR">SWR/SR</channel>
+    <channel site="tvspielfilm.de" site_id="swrsr,SWR" xmltv_id="SWR">SWR</channel>
+    <channel site="tvspielfilm.de" site_id="swrsr,SWR" xmltv_id="SR">SR</channel>
     <channel site="tvspielfilm.de" site_id="hr,HR" xmltv_id="hr">hr</channel>
     <channel site="tvspielfilm.de" site_id="3sat,3SAT" xmltv_id="3sat">3sat</channel>
     <channel site="tvspielfilm.de" site_id="rheinmain-tv,RMTV" xmltv_id="rhein main tv">rhein main tv</channel>
