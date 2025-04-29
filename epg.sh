@@ -3,9 +3,10 @@
 # path:   /home/klassiker/.local/share/repos/epg/epg.sh
 # author: klassiker [mrdotx]
 # github: https://github.com/mrdotx/epg
-# date:   2025-04-27T09:57:06+0200
+# date:   2025-04-29T06:50:03+0200
 
 # config
+epg_file="$HOME/wg++/epg.xml"
 logo_file="$HOME/.local/share/repos/epg/logos.csv"
 
 # helper
@@ -65,18 +66,19 @@ update_logos() {
 }
 
 # execute webgrab++
-wg++ >/dev/null 2>&1
+wg++ >/dev/null 2>&1 \
+    && printf "created: %s -> webgrab++ electronic program guide\n" "$epg_file"
 
 # post process
 update_dates \
-    "$HOME/wg++/epg.xml"
+    "$epg_file"
 update_logos \
-    "$HOME/wg++/epg.xml"
+    "$epg_file"
 
 # move epg file to web server
-[ "$(stat -c %s "$HOME/wg++/epg.xml")" -gt 16384 ] \
+[ "$(stat -c %s "$epg_file")" -gt 16384 ] \
     && sync_file --move \
-        "$HOME/wg++/epg.xml" \
+        "$epg_file" \
         "/srv/http/epg/epg.xml"
 
 # sync channels file with web server
