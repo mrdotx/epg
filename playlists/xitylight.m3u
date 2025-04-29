@@ -75,17 +75,17 @@ rtsp://10.10.10.9:554/?avm=1&freq=362&bw=8&msys=dvbc&mtype=256qam&sr=6900&specin
 rtsp://10.10.10.9:554/?avm=1&freq=362&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3763,171,104,2172,2372,2378,2379,105,172
 #EXTINF:-1 tvg-name="WDR Wuppertal HD" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/wdr_hd_wuppertal.png" tvg-id="WDR",WDR Wuppertal HD
 rtsp://10.10.10.9:554/?avm=1&freq=810&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3766,101,104,2172,2372,2378,2379,105,102,103,107,106
-#EXTINF:-1 tvg-name="SWR BW HD" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/swr_bw_hd.png" tvg-id="SWR/SR",SWR BW HD
+#EXTINF:-1 tvg-name="SWR BW HD" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/swr_bw_hd.png" tvg-id="SWR",SWR BW HD
 rtsp://10.10.10.9:554/?avm=1&freq=698&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2111,5121,5122,5123,5127,5124,5126,1370,2171,2476,5125,5174
-#EXTINF:-1 tvg-name="SWR BW HD (IPTV)" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/swr_bw_hd.png" tvg-id="SWR/SR",SWR BW HD (IPTV)
+#EXTINF:-1 tvg-name="SWR BW HD (IPTV)" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/swr_bw_hd.png" tvg-id="SWR",SWR BW HD (IPTV)
 https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
-#EXTINF:-1 tvg-name="SWR RP HD" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/swr_hd.png" tvg-id="SWR/SR",SWR RP HD
+#EXTINF:-1 tvg-name="SWR RP HD" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/swr_hd.png" tvg-id="SWR",SWR RP HD
 rtsp://10.10.10.9:554/?avm=1&freq=698&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2112,5121,5134,1371,2171,2476,5135,5176,5122,5123,5127,5126
-#EXTINF:-1 tvg-name="SWR RP HD (IPTV)" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/swr_hd.png" tvg-id="SWR/SR",SWR RP HD (IPTV)
+#EXTINF:-1 tvg-name="SWR RP HD (IPTV)" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/swr_hd.png" tvg-id="SWR",SWR RP HD (IPTV)
 https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
-#EXTINF:-1 tvg-name="SR Fernsehen HD" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/sr_hd.png" tvg-id="SWR/SR",SR Fernsehen HD
+#EXTINF:-1 tvg-name="SR Fernsehen HD" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/sr_hd.png" tvg-id="SR",SR Fernsehen HD
 rtsp://10.10.10.9:554/?avm=1&freq=730&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2186,5431,5432,5433,5437,5434,5436,2171,2976,4370,4372,5435
-#EXTINF:-1 tvg-name="SR Fernsehen HD (IPTV)" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/sr_hd.png" tvg-id="SWR/SR",SR Fernsehen HD (IPTV)
+#EXTINF:-1 tvg-name="SR Fernsehen HD (IPTV)" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/sr_hd.png" tvg-id="SR",SR Fernsehen HD (IPTV)
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 #EXTINF:-1 tvg-name="hr-fernsehen HD" group-title="02-Public" tvg-logo="https://tv.avm.de/tvapp/logos/hd/hr_hd.png" tvg-id="hr",hr-fernsehen HD
 rtsp://10.10.10.9:554/?avm=1&freq=722&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2163,5351,5352,5353,5357,5354,5356,2171,2276,3570,3572,5355

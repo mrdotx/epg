@@ -29,13 +29,13 @@ rtsp://192.168.11.254:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&sp
 rtsp://192.168.11.254:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,5500,5501,2171,2370,2376,5502,5503,5504,5505
 #EXTINF:-1 tvg-name="WDR Köln" group-title="Backup" tvg-logo="https://tv.avm.de/tvapp/logos/wdr.png" tvg-id="WDR",WDR Köln
 rtsp://192.168.11.254:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,600,601,602,603,604,605,2171,2370,2376
-#EXTINF:-1 tvg-name="SWR RP HD" group-title="Öffentlich" tvg-logo="https://tv.avm.de/tvapp/logos/hd/swr_rp_hd.png" tvg-id="SWR/SR",SWR RP HD
+#EXTINF:-1 tvg-name="SWR RP HD" group-title="Öffentlich" tvg-logo="https://tv.avm.de/tvapp/logos/hd/swr_rp_hd.png" tvg-id="SWR",SWR RP HD
 rtsp://192.168.11.254:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,5130,5131,1370,2171,2476,5132,5133,5134,5135
-#EXTINF:-1 tvg-name="SWR RP" group-title="Backup" tvg-logo="https://tv.avm.de/tvapp/logos/swr.png" tvg-id="SWR/SR",SWR RP
+#EXTINF:-1 tvg-name="SWR RP" group-title="Backup" tvg-logo="https://tv.avm.de/tvapp/logos/swr.png" tvg-id="SWR",SWR RP
 rtsp://192.168.11.254:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,800,801,802,803,804,806,2171,2470,2476
-#EXTINF:-1 tvg-name="SR Fernsehen HD" group-title="Öffentlich" tvg-logo="https://tv.avm.de/tvapp/logos/hd/sr_fernsehen_hd.png" tvg-id="SWR/SR",SR Fernsehen HD
+#EXTINF:-1 tvg-name="SR Fernsehen HD" group-title="Öffentlich" tvg-logo="https://tv.avm.de/tvapp/logos/hd/sr_fernsehen_hd.png" tvg-id="SR",SR Fernsehen HD
 rtsp://192.168.11.254:554/?avm=1&freq=586&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,104,1271,1270,1272,1273,1274,1276,1278,2171
-#EXTINF:-1 tvg-name="SR Fernsehen" group-title="Backup" tvg-logo="https://tv.avm.de/tvapp/logos/sr.png" tvg-id="SWR/SR",SR Fernsehen
+#EXTINF:-1 tvg-name="SR Fernsehen" group-title="Backup" tvg-logo="https://tv.avm.de/tvapp/logos/sr.png" tvg-id="SR",SR Fernsehen
 rtsp://192.168.11.254:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,300,1301,1302,1303,1304,2171,2970,2976
 #EXTINF:-1 tvg-name="hr-fernsehen HD" group-title="Öffentlich" tvg-logo="https://tv.avm.de/tvapp/logos/hd/hr_hd.png" tvg-id="hr",hr-fernsehen HD
 rtsp://192.168.11.254:554/?avm=1&freq=418&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,106,6551,2171,6550,6552,6553,6554,6556,6558
