@@ -22,7 +22,7 @@
     <channel site="klack.de" site_id="55/mdr" xmltv_id="MDR">MDR</channel>
     <channel site="klack.de" site_id="12/br" xmltv_id="BR">BR</channel>
     <channel site="klack.de" site_id="127/wdr" xmltv_id="WDR">WDR</channel>
-    <channel site="klack.de" site_id="90/swr" xmltv_id="SWR">SWR</channel>
+    <channel site="klack.de" site_id="50/swr" xmltv_id="SWR">SWR</channel>
     <channel site="klack.de" site_id="221/sr-fernsehen" xmltv_id="SR">SR</channel>
     <channel site="klack.de" site_id="49/hr" xmltv_id="hr">hr</channel>
     <channel site="klack.de" site_id="1/3sat" xmltv_id="3sat">3sat</channel>
