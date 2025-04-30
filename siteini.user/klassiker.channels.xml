@@ -10,7 +10,7 @@
   <user-agent></user-agent>
   <logging>off</logging>
   <retry channel-delay="0" index-delay="0" show-delay="0" time-out="5">4</retry>
-  <skip>24,1</skip>
+  <skip>24,0</skip>
   <timespan>2</timespan>
   <update>f</update>
 
