@@ -3,7 +3,7 @@
 # path:   /home/klassiker/.local/share/repos/epg/epg.sh
 # author: klassiker [mrdotx]
 # github: https://github.com/mrdotx/epg
-# date:   2025-04-29T06:50:03+0200
+# date:   2025-05-01T05:32:36+0200
 
 # config
 epg_file="$HOME/wg++/epg.xml"
@@ -12,15 +12,15 @@ logo_file="$HOME/.local/share/repos/epg/logos.csv"
 # helper
 sync_file() {
     rsync_options="-acqPh --chmod=F644"
-    result=" synced"
+    result="  sync"
 
     [ "$1" = "--move" ] \
         && shift \
         && rsync_options="$rsync_options --remove-source-files" \
-        && result="  moved"
+        && result="  move"
 
-    eval "rsync $rsync_options $1 $2" \
-        && printf "%s: %s -> %s\n" "$result" "$1" "$2"
+    printf "%s: %s -> %s\n" "$result" "$1" "$2"
+    eval "rsync $rsync_options $1 $2"
 }
 
 convert_date() {
@@ -46,28 +46,28 @@ update_dates() {
     z="\(+0000\)"
     filter="$y99$m12$d31$t24$t60$t60 $z"
 
+    printf "update: %s -> dates to local time zone\n" "$1"
     grep -o "$filter" "$1" \
         | sort -u \
         | while IFS= read -r old_date; do
             new_date=$(convert_date "$old_date")
             sed -i "s/$old_date/$new_date/g" "$1"
-        done \
-        && printf "updated: %s -> dates to local time zone\n" "$1"
+        done
 }
 
 update_logos() {
+    printf "update: %s -> urls for channel logos\n" "$1"
     while IFS= read -r line; do
         logo=$(printf "%s" "$line" | cut -d';' -f1 | sed 's#\/#\\/#')
         url=$(printf "%s" "$line" | cut -d';' -f2)
 
         sed -i "/<display-name.*>$logo<\/display-name>/{n;s#.*#    <icon src=\"$url\" \/>#}" "$1"
-    done < "$logo_file" \
-    && printf "updated: %s -> urls for channel logos\n" "$1"
+    done < "$logo_file"
 }
 
 # execute webgrab++
-wg++ >/dev/null 2>&1 \
-    && printf "created: %s -> webgrab++ electronic program guide\n" "$epg_file"
+printf "create: %s -> webgrab++ electronic program guide\n" "$epg_file"
+wg++ >/dev/null 2>&1
 
 # post process
 update_dates \
