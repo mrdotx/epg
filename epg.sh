@@ -3,11 +3,11 @@
 # path:   /home/klassiker/.local/share/repos/epg/epg.sh
 # author: klassiker [mrdotx]
 # github: https://github.com/mrdotx/epg
-# date:   2025-05-01T05:32:36+0200
+# date:   2025-06-29T05:29:44+0200
 
 # config
 epg_file="$HOME/wg++/epg.xml"
-logo_file="$HOME/.local/share/repos/epg/logos.csv"
+logo_file="$HOME/.local/share/repos/epg/playlists/xitylight_logos.csv"
 
 # helper
 sync_file() {
