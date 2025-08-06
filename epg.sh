@@ -2,8 +2,8 @@
 
 # path:   /home/klassiker/.local/share/repos/epg/epg.sh
 # author: klassiker [mrdotx]
-# github: https://github.com/mrdotx/epg
-# date:   2025-06-29T05:29:44+0200
+# url:    https://github.com/mrdotx/epg
+# date:   2025-08-06T05:17:43+0200
 
 # config
 epg_file="$HOME/wg++/epg.xml"

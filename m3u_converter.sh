@@ -2,8 +2,8 @@
 
 # path:   /home/klassiker/.local/share/repos/epg/m3u_converter.sh
 # author: klassiker [mrdotx]
-# github: https://github.com/mrdotx/epg
-# date:   2025-06-29T05:23:39+0200
+# url:    https://github.com/mrdotx/epg
+# date:   2025-08-06T05:17:47+0200
 
 # speed up script and avoid language problems by using standard c
 LC_ALL=C
