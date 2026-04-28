@@ -2,7 +2,7 @@
 
 config files and scripts for webgrab++ in combination with a fritzbox
 
-| folder       | comment                        |
+| directory    | comment                        |
 | :----------- | :----------------------------- |
 | playlists    | fritzbox example m3u/csv files |
 | siteini.user | webgrab++ siteini files        |
