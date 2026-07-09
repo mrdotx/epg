@@ -1,13 +1,13 @@
 #!/bin/sh
 
-# path:   /home/klassiker/.local/share/repos/epg/epg.sh
+# path:   /home/klassiker/Projects/repos/epg/epg.sh
 # author: klassiker [mrdotx]
 # url:    https://github.com/mrdotx/epg
-# date:   2025-08-06T05:17:43+0200
+# date:   2026-07-10T00:50:29+0200
 
 # config
 epg_file="$HOME/wg++/epg.xml"
-logo_file="$HOME/.local/share/repos/epg/playlists/xitylight_logos.csv"
+logo_file="$HOME/Projects/repos/epg/playlists/xitylight_logos.csv"
 
 # helper
 sync_file() {
@@ -83,5 +83,5 @@ update_logos \
 
 # sync channels file with web server
 sync_file \
-    "$HOME/.local/share/repos/epg/playlists/xitylight.m3u" \
+    "$HOME/Projects/repos/epg/playlists/xitylight.m3u" \
     "/srv/http/epg/channels.m3u"

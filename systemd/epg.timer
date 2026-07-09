@@ -1,7 +1,7 @@
-# path:   /home/klassiker/.local/share/repos/epg/systemd/epg.timer
+# path:   /home/klassiker/Projects/repos/epg/systemd/epg.timer
 # author: klassiker [mrdotx]
 # url:    https://github.com/mrdotx/epg
-# date:   2025-08-06T05:17:57+0200
+# date:   2026-07-10T00:50:19+0200
 
 [Unit]
 Description=run epg.service daily
